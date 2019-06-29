@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1,RO: TVR HD
-http://mn-nl.mncdn.com/tvr_hd/smil:TVRHD.smil/playlist.m3u8
-#EXTINF:-1,RO: TVR HD
 http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8?iptv
+#EXTINF:-1,RO: TVR HD
+http://mn-nl.mncdn.com/tvr_hd/smil:TVRHD.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR 1
 http://edge81.rdsnet.ro/digiedge2/tvr1emq/chunklist_w859845822.m3u8?is=24&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1,RO: TVR 1
@@ -252,7 +252,7 @@ https://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
 #EXTINF:-1,RO: ProTV News
 https://vid.hls.protv.ro/protvnews/protvnews_high/index.m3u8?1
 #EXTINF:-1,RO: ProTV News
-http://stream1.protv.ro/news/stream%3a1.stream/chunklist_w1582750279.m3u8
+http://stream1.protv.ro/news/stream%3a1.stream/playlist.m3u8
 
 #EXTINF:-1,RO: ProTV International
 https://d201h06fdwdct7.cloudfront.net/w2_protv/ngrp:stream_all/index.m3u8
