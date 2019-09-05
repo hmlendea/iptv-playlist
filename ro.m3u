@@ -804,7 +804,7 @@ http://ibu.inedittv.ro:9090/seconds2hls/live.m3u8
 http://inedittv.ro/live-tv/canal/index.m3u8
 
 #EXTINF:-1,RO: Cornea TV
-http://5.2.150.246:1935/CorneaTV/myStream/playlist.m3u8
+http://89.149.30.158:1935/CorneaTV/myStream/playlist.m3u8
 
 #EXTINF:-1,RO: Cinethronix
 https://d201h06fdwdct7.cloudfront.net/w2_cinethronix/ngrp:stream_all/playlist.m3u8
