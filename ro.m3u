@@ -259,6 +259,9 @@ https://d201h06fdwdct7.cloudfront.net/w2_protv/ngrp:stream_all/index.m3u8
 #EXTINF:-1,RO: ProTV International
 https://d201h06fdwdct7.cloudfront.net/w2_protv/ngrp:stream_all/chunklist.m3u8
 
+#EXTINF:-1,RO: Pro X
+https://vid.hls.protv.ro/proxhdn/proxhd_high/index.m3u8?1
+
 #EXTINF:-1,RO: Digi24
 http://edge24.rdsnet.ro/digi24edge/digi24hdhqhls/index.m3u8
 #EXTINF:-1,RO: Digi24
