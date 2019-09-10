@@ -24,8 +24,6 @@ http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
 http://mn-nl.mncdn.com/tvr_i/smil:TVRI.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR International
 http://89.136.209.33:1935/liveorigin/TVRI.stream/chunklist.m3u8
-#EXTINF:-1,RO: TVR International
-https://d201h06fdwdct7.cloudfront.net/w2_tvr/ngrp:stream_all/playlist.m3u8
 
 #EXTINF:-1,RO: TVR Iasi
 http://82.208.151.107:8088/high/tvriasi/index.m3u8
@@ -38,8 +36,6 @@ http://89.136.209.26:1935/liveedge/TVRTGMURES.stream/playlist.m3u8
 #EXTINF:-1,RO: TVR Timisoara
 http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
 
-#EXTINF:-1,RO: Antena International
-https://d201h06fdwdct7.cloudfront.net/antenainternational/ngrp:stream_all/chunklist.m3u8
 #EXTINF:-1,RO: Antena Monden
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
 #EXTINF:-1,RO: Antena Comedy
@@ -48,13 +44,9 @@ http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b100
 http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
 
 #EXTINF:-1,RO: National TV
-http://d201h06fdwdct7.cloudfront.net/nationaltv/ngrp:stream_all/index.m3u8
-#EXTINF:-1,RO: National TV
 http://fms91.mediadirect.ro:1937/live3/_definst_/nationaltv_low/playlist.m3u8?publisher=17&token=a7f8a8bb4918e4f3bec92dc6473b2edad11ebcde0f9a4983
 #EXTINF:-1,RO: National TV
 http://46.20.136.59/live3/_definst_/nationaltv/playlist.m3u8
-#EXTINF:-1,RO: N24 Plus
-http://d201h06fdwdct7.cloudfront.net/n24plus/ngrp:stream_all/index.m3u8
 
 #EXTINF:-1,RO: Paprika
 http://edge24.rdsnet.ro/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
@@ -223,7 +215,7 @@ http://edge84.rcs-rds.ro/digiedge3/tntehq/index.m3u8?is=91&src=digi-online.ro&t=
 https://ppext.arktv.ro/hls/channel7/adaptive.m3u8
 
 #EXTINF:-1,RO: KANAL D
-https://livefeed.kanald.ro/iphone/live.m3u8
+http://livefeed.kanald.ro/iphone/live.m3u8
 #EXTINF:-1,RO: KANAL D
 http://80.86.107.169:8100/stream.flv
 #EXTINF:-1,RO: Kanal D
@@ -248,16 +240,11 @@ http://89.38.8.131:39532
 #EXTINF:-1,RO: ProTV News
 http://m2.live.protv.ro:1935/news/1.stream/playlist.m3u8
 #EXTINF:-1,RO: ProTV News
-https://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
-#EXTINF:-1,RO: ProTV News
 https://vid.hls.protv.ro/protvnews/protvnews_high/index.m3u8?1
 #EXTINF:-1,RO: ProTV News
+https://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
+#EXTINF:-1,RO: ProTV News
 http://stream1.protv.ro/news/stream%3a1.stream/playlist.m3u8
-
-#EXTINF:-1,RO: ProTV International
-https://d201h06fdwdct7.cloudfront.net/w2_protv/ngrp:stream_all/index.m3u8
-#EXTINF:-1,RO: ProTV International
-https://d201h06fdwdct7.cloudfront.net/w2_protv/ngrp:stream_all/chunklist.m3u8
 
 #EXTINF:-1,RO: Pro X
 https://vid.hls.protv.ro/proxhdn/proxhd_high/index.m3u8?1
@@ -282,90 +269,6 @@ http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
 http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
 #EXTINF:-1,RO: Digi24 HD
 http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1,RO: Digi24 Oradea
-http://edge24.rdsnet.ro/digi24edge/digi24oradealivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Oradea
-http://edge30.rdsnet.ro/digi24edge/digi24oradealivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Oradea
-http://edge75.rdsnet.ro/digi24edge/digi24oradealivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Oradea
-http://edge76.rdsnet.ro/digi24edge/digi24oradealivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Oradea
-http://edge81.rdsnet.ro/digi24edge/digi24oradealivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Oradea
-http://edge84.rdsnet.ro/digi24edge/digi24oradealivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Cluj
-http://edge24.rdsnet.ro/digi24edge/digi24clujhq/index.m3u8
-#EXTINF:-1,RO: Digi24 Cluj
-http://edge30.rdsnet.ro/digi24edge/digi24clujhq/index.m3u8
-#EXTINF:-1,RO: Digi24 Cluj
-http://edge75.rdsnet.ro/digi24edge/digi24clujhq/index.m3u8
-#EXTINF:-1,RO: Digi24 Cluj
-http://edge76.rdsnet.ro/digi24edge/digi24clujhq/index.m3u8
-#EXTINF:-1,RO: Digi24 Cluj
-http://edge81.rdsnet.ro/digi24edge/digi24clujhq/index.m3u8
-#EXTINF:-1,RO: Digi24 Cluj
-http://edge84.rdsnet.ro/digi24edge/digi24clujhq/index.m3u8
-#EXTINF:-1,RO: Digi24 Brasov
-http://edge24.rdsnet.ro/digi24edge/digi24brasovlive/index.m3u8
-#EXTINF:-1,RO: Digi24 Brasov
-http://edge30.rdsnet.ro/digi24edge/digi24brasovlive/index.m3u8
-#EXTINF:-1,RO: Digi24 Brasov
-http://edge75.rdsnet.ro/digi24edge/digi24brasovlive/index.m3u8
-#EXTINF:-1,RO: Digi24 Brasov
-http://edge76.rdsnet.ro/digi24edge/digi24brasovlive/index.m3u8
-#EXTINF:-1,RO: Digi24 Brasov
-http://edge81.rdsnet.ro/digi24edge/digi24brasovlive/index.m3u8
-#EXTINF:-1,RO: Digi24 Brasov
-http://edge84.rdsnet.ro/digi24edge/digi24brasovlive/index.m3u8
-#EXTINF:-1,RO: Digi24 Timis
-http://edge24.rdsnet.ro/digi24edge/digi24timislivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Timis
-http://edge30.rdsnet.ro/digi24edge/digi24timislivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Timis
-http://edge75.rdsnet.ro/digi24edge/digi24timislivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Timis
-http://edge76.rdsnet.ro/digi24edge/digi24timislivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Timis
-http://edge81.rdsnet.ro/digi24edge/digi24timislivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Timis
-http://edge84.rdsnet.ro/digi24edge/digi24timislivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Craiova
-http://edge24.rdsnet.ro/digi24edge/digi24craiovalive/index.m3u8
-#EXTINF:-1,RO: Digi24 Craiova
-http://edge30.rdsnet.ro/digi24edge/digi24craiovalive/index.m3u8
-#EXTINF:-1,RO: Digi24 Craiova
-http://edge75.rdsnet.ro/digi24edge/digi24craiovalive/index.m3u8
-#EXTINF:-1,RO: Digi24 Craiova
-http://edge76.rdsnet.ro/digi24edge/digi24craiovalive/index.m3u8
-#EXTINF:-1,RO: Digi24 Craiova
-http://edge81.rdsnet.ro/digi24edge/digi24craiovalive/index.m3u8
-#EXTINF:-1,RO: Digi24 Craiova
-http://edge84.rdsnet.ro/digi24edge/digi24craiovalive/index.m3u8
-#EXTINF:-1,RO: Digi24 Constanta
-http://edge24.rdsnet.ro/digi24edge/digi24constantalivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Constanta
-http://edge30.rdsnet.ro/digi24edge/digi24constantalivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Constanta
-http://edge75.rdsnet.ro/digi24edge/digi24constantalivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Constanta
-http://edge76.rdsnet.ro/digi24edge/digi24constantalivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Constanta
-http://edge81.rdsnet.ro/digi24edge/digi24constantalivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Constanta
-http://edge84.rdsnet.ro/digi24edge/digi24constantalivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Iasi
-http://edge24.rdsnet.ro/digi24edge/digi24iasilivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Iasi
-http://edge30.rdsnet.ro/digi24edge/digi24iasilivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Iasi
-http://edge75.rdsnet.ro/digi24edge/digi24iasilivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Iasi
-http://edge76.rdsnet.ro/digi24edge/digi24iasilivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Iasi
-http://edge81.rdsnet.ro/digi24edge/digi24iasilivehls/index.m3u8
-#EXTINF:-1,RO: Digi24 Iasi
-http://edge84.rdsnet.ro/digi24edge/digi24iasilivehls/index.m3u8
 
 #EXTINF:-1,RO: Digi Film
 http://82.76.252.26:82/tc/7/7hq/01.m3u8
@@ -755,11 +658,10 @@ https://ppext.arktv.ro/hls/channel7/bitrate4.m3u8
 #EXTINF:-1,RO: TVH
 http://tvron.net/59-1.m3u8
 
-#EXTINF:-1,RO: IDA TV
-https://d201h06fdwdct7.cloudfront.net/ida/ngrp:stream_all/playlist.m3u8
-
 #EXTINF:-1,RO: Realitatea TV
 https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
+#EXTINF:-1,RO: Realitatea TV
+http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:-1,RO: Realitatea TV
 http://edge24.rdsnet.ro/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1,RO: Realitatea TV
@@ -772,8 +674,6 @@ http://edge76.rdsnet.ro/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-onli
 http://edge81.rdsnet.ro/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1,RO: Realitatea TV
 http://edge84.rdsnet.ro/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Realitatea TV
-http://d201h06fdwdct7.cloudfront.net/realitatea/ngrp:stream_all/index.m3u8
 #EXTINF:-1,RO: Realitatea TV
 http://46.20.136.59/live3/_definst_/realitatea/playlist.m3u8
 
@@ -798,8 +698,6 @@ http://46.20.136.59/live3/_definst_/rtv/playlist.m3u8
 https://5ab29cc78f681.streamlock.net/nasultvlive/nasultvlive/playlist.m3u8
 #EXTINF:-1,RO: Nasul TV
 http://tvron.net/53-1.m3u8
-#EXTINF:-1,RO: Nasul TV
-http://d201h06fdwdct7.cloudfront.net/w2_nasultv/ngrp:stream_all/playlist.m3u8
 
 #EXTINF:-1,RO: Inedit TV
 http://ibu.inedittv.ro:9090/seconds2hls/live.m3u8
@@ -809,8 +707,6 @@ http://inedittv.ro/live-tv/canal/index.m3u8
 #EXTINF:-1,RO: Cornea TV
 http://89.149.30.158:1935/CorneaTV/myStream/playlist.m3u8
 
-#EXTINF:-1,RO: Cinethronix
-https://d201h06fdwdct7.cloudfront.net/w2_cinethronix/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1,RO: Cinethronix
 http://webmobile.xdev.ro:81/tv25/playlist.m3u8
 
@@ -856,8 +752,6 @@ http://edge84.rdsnet.ro/digiedge2/b1tvehq/index.m3u8?is=29&src=digi-online.ro&t=
 http://46.20.136.59/live3/_definst_/trinitas/playlist.m3u8
 #EXTINF:-1,RO: Trinitas
 http://fms91.mediadirect.ro:1937/live3/_definst_/trinitas_low/playlist.m3u8?publisher=17&token=4c7e22ebbd530c4cc697f56c7c74ba7c82763b2a57585174
-#EXTINF:-1,RO: Trinitas
-http://d201h06fdwdct7.cloudfront.net/trinitas/ngrp:stream_all/index.m3u8
 
 #EXTINF:-1,RO: AlfaOmega TV
 http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
@@ -884,9 +778,6 @@ http://rtmp2.chrominance.ro:1935/enescu/encoder1/playlist.m3u8
 http://89.38.8.130:39419
 #EXTINF:-1,RO: TV Sud Est TVSAT
 http://89.38.8.130:39443
-
-#EXTINF:-1,RO| Muscel TV
-http://musceltvlive.muscel.ro:8080
 
 #EXTINF:-1,RO: TV City
 http://46.20.136.59/live3/_definst_/citytv/playlist.m3u8
@@ -924,9 +815,6 @@ http://46.4.14.12:9999/btvsvlive/playlist.m3u8
 #EXTINF:-1,RO: TV Plus Suceava
 http://85.186.146.34:8080
 
-#EXTINF:-1,RO: Telemoia
-http://89.35.208.130
-
 #EXTINF:-1,RO: Somax
 http://webmobile.xdev.ro:81/tv12/playlist.m3u8
 
@@ -939,8 +827,6 @@ http://webmobile.xdev.ro:81/tv5/playlist.m3u8
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 #EXTINF:-1,RO: TeleMoldova Botosani
 http://webmobile.xdev.ro:81/tv11/playlist.m3u8
-#EXTINF:-1,RO: TeleMoldova Neamt
-http://telem.ambra.ro
 
 #EXTINF:-1,RO: Informatia TV
 http://s1.streamnet.ro:8014/stream.flv
@@ -961,9 +847,6 @@ http://46.214.146.46:81/tv2/playlist.m3u8
 #EXTINF:-1,RO: Sangeorz TV
 http://s2.streamnet.ro:8035/stream.flv
 
-#EXTINF:-1,RO: Salajeanul TV
-http://94.52.213.67:8084/stream.flv
-
 #EXTINF:-1,RO: TVH
 https://ppext.arktv.ro/hls/channel7/adaptive.m3u8
 #EXTINF:-1,RO: TVH
@@ -977,12 +860,6 @@ https://ppext.arktv.ro/hls/channel3/bitrate5.m3u8
 https://ppext.arktv.ro/hls/channel3/bitrate4.m3u8
 #EXTINF:-1,RO: Bucuresti TV
 http://89.38.8.130:39459
-
-#EXTINF:-1,RO: 1 TV Neamt
-http://1tv.ambra.ro/
-
-#EXTINF:-1,RO: TV M
-http://tvm.ambra.ro
 
 #EXTINF:-1,RO: TV Sud Gorj
 http://nginx.arya.ro:8080/hls/tvsudmobil.m3u8
@@ -1063,8 +940,6 @@ http://webmobile.xdev.ro:81/tv6/playlist.m3u8
 
 #EXTINF:-1,RO: TV Buzau
 http://95.77.16.67:8080
-#EXTINF:-1,RO: TV Buzau
-http://95.77.16.72:81/tv20/playlist.m3u8
 
 #EXTINF:-1,RO: TV Sat
 http://89.38.8.130:39443
@@ -1147,13 +1022,9 @@ https://play.myovn.com/s1/cache/radiozu/chunklist.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/index_3500_av-b.m3u8
 #EXTINF:-1,RO: Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1,RO: Taraf TV
-http://d201h06fdwdct7.cloudfront.net/taraf/ngrp:stream_all/chunklist_b1396000.m3u8
 
 #EXTINF:-1,RO: Etno TV
 http://46.20.136.59/live3/_definst_/etno/playlist.m3u8
-#EXTINF:-1,RO: Etno TV
-http://d201h06fdwdct7.cloudfront.net/etno/ngrp:stream_all/index.m3u8
 
 #EXTINF:-1,RO: Mezzo
 http://cdn02-edge24.rdsnet.ro/digiedge3/mezzoehq/index.m3u8?is=36&src=app&t=00000000000000000000000000000000
@@ -1170,8 +1041,6 @@ http://edge84.rdsnet.ro/digiedge3/mezzoehq/index.m3u8?is=36&src=app&t=0000000000
 
 #EXTINF:-1,RO: Magic TV
 https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
-#EXTINF:-1,RO: Magic TV
-https://d201h06fdwdct7.cloudfront.net/magictv/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1,RO: Magic TV
 http://46.20.136.59/live3/_definst_/magictv/playlist.m3u8
 
@@ -1205,6 +1074,11 @@ http://edge84.rdsnet.ro/digiedge2/musicchannelehq/index.m3u8?is=25&src=digi-onli
 http://s3.streamnet.ro:8048/stream.flv
 #EXTINF:-1,RO: Orizont TV
 http://89.45.164.236:8048/stream.flv
+
+#EXTINF:-1,RO: Tezaur TV
+http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
+
+
 
 #EXTINF:-1,France24
 http://edge24.rdsnet.ro/digiedge2/france24ehq/index.m3u8?is=48&src=digi-online.ro&t=00000000000000000000000000000000
