@@ -700,7 +700,11 @@ https://5ab29cc78f681.streamlock.net/nasultvlive/nasultvlive/playlist.m3u8
 http://tvron.net/53-1.m3u8
 
 #EXTINF:-1,RO: Inedit TV
+http://encoder.inedittv.ro:9090/seconds3hls/live.m3u8
+#EXTINF:-1,RO: Inedit TV
 http://ibu.inedittv.ro:9090/seconds2hls/live.m3u8
+#EXTINF:-1,RO: Inedit TV
+http://ibu.inedittv.ro:9090/seconds3hls/live.m3u8
 #EXTINF:-1,RO: Inedit TV
 http://inedittv.ro/live-tv/canal/index.m3u8
 
@@ -770,9 +774,13 @@ http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
 
 #EXTINF:-1,RO: A7 TV
 https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
+#EXTINF:-1,RO: A7 TV
+https://amsix46.streamkit.tv/edge/_definst_/aseventv_500/chunklist.m3u8
 
 #EXTINF:-1,RO: 6 TV
-http://rtmp2.chrominance.ro:1935/enescu/encoder1/playlist.m3u8
+https://stream.chrominance.ro/clients/6tv/playlist.m3u8
+#EXTINF:-1,RO: 6 TV
+https://stream.chrominance.ro/enescu/encoder1/playlist.m3u8
 
 #EXTINF:-1,RO: TV Sud Est
 http://89.38.8.130:39419
@@ -843,6 +851,8 @@ https://ppext.arktv.ro/hls/channel4/bitrate4.m3u8
 
 #EXTINF:-1,RO: BIT TV
 http://46.214.146.46:81/tv2/playlist.m3u8
+#EXTINF:-1,RO: BIT TV
+https://server.razvan-andrei.com:5443/LiveApp/streams/448242043913167746015394.m3u8
 
 #EXTINF:-1,RO: Sangeorz TV
 http://s2.streamnet.ro:8035/stream.flv
@@ -872,9 +882,6 @@ http://webmobile.xdev.ro:81/tv7/playlist.m3u8
 
 #EXTINF:-1,RO: Alpha Media TV
 http://webmobile.xdev.ro:81/tv27/playlist.m3u8
-
-#EXTINF:-1,RO: ITV Satu Mare
-http://s1.streamnet.ro:8014/stream.flv
 
 #EXTINF:-1,RO: Intermedia Suceava
 http://83.103.150.198:8080
@@ -918,22 +925,19 @@ http://95.77.97.220:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,RO: Neptun TV
 http://tvron.net/54-2.m3u8
 
-#EXTINF:-1,RO: Nord Est TV
+#EXTINF:-1,RO: NEst TV
 http://webmobile.xdev.ro:81/tv13/playlist.m3u8
 
 #EXTINF:-1,RO: Est TV
 http://89.38.8.131:39519
 
-#EXTINF:-1,RO: VPTV
-https://ppext.arktv.ro/hls/channel2/adaptive.m3u8
-#EXTINF:-1,RO: Valea Prahovei TV HD
+#EXTINF:-1,RO: Valea Prahovei TV
 http://89.38.8.130:39437
+#EXTINF:-1,RO: Valea Prahovei TV
+https://ppext.arktv.ro/hls/channel2/adaptive.m3u8
 
 #EXTINF:-1,RO: Tele2 Drobeta
 http://89.47.38.12:8098
-
-#EXTINF:-1,RO: NEst TV
-http://webmobile.xdev.ro:81/tv13/playlist.m3u8
 
 #EXTINF:-1,RO: Infinit TV
 http://webmobile.xdev.ro:81/tv6/playlist.m3u8
@@ -1012,8 +1016,10 @@ https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w2319410
 http://89.36.10.12:8080
 #EXTINF:-1,RO: DJing TV
 https://www.djing.com/tv/hits.m3u8
-#EXTINF:-1,RO: Traditii TV
+#EXTINF:-1,RO: Tradiții TV
 https://ppext.arktv.ro/hls/channel5/adaptive.m3u8
+#EXTINF:-1,RO: Tradiții TV
+http://v6.arya.ro:8080/hls/traditiitv.m3u8
 #EXTINF:-1,RO: Radio m2o TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1,RO: Radio ZU Video HD
@@ -1074,11 +1080,12 @@ http://edge84.rdsnet.ro/digiedge2/musicchannelehq/index.m3u8?is=25&src=digi-onli
 http://s3.streamnet.ro:8048/stream.flv
 #EXTINF:-1,RO: Orizont TV
 http://89.45.164.236:8048/stream.flv
+#EXTINF:-1,RO: Orizont TV
 
 #EXTINF:-1,RO: Tezaur TV
 http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
-
-
+#EXTINF:-1,RO: Tezaur TV
+http://163.172.172.80:8080/hls/tezaurtv.m3u8
 
 #EXTINF:-1,France24
 http://edge24.rdsnet.ro/digiedge2/france24ehq/index.m3u8?is=48&src=digi-online.ro&t=00000000000000000000000000000000
