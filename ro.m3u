@@ -20,6 +20,7 @@ http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
 http://mn-nl.mncdn.com/tvr_3/smil:TVR3.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR 3
 http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+
 #EXTINF:-1,RO: TVR International
 http://mn-nl.mncdn.com/tvr_i/smil:TVRI.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR International
@@ -757,15 +758,18 @@ http://46.20.136.59/live3/_definst_/trinitas/playlist.m3u8
 #EXTINF:-1,RO: Trinitas
 http://fms91.mediadirect.ro:1937/live3/_definst_/trinitas_low/playlist.m3u8?publisher=17&token=4c7e22ebbd530c4cc697f56c7c74ba7c82763b2a57585174
 
-#EXTINF:-1,RO: AlfaOmega TV
+#EXTINF:-1,RO: Alfa & Omega TV
 http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
-#EXTINF:-1,RO: AlfaOmega TV
+#EXTINF:-1,RO: Alfa & Omega TV
 https://5b6cade28002a.streamlock.net/alfaomega/smil:alfaomegatv/playlist.m3u8
+#EXTINF:-1,RO: Alfa & Omega TV
+https://5b6cade28002a.streamlock.net/alfaomega/alfaomega1.sdp/playlist.m3u8
 
 #EXTINF:-1,RO: Speranta TV
 http://amsix214.streamkit.tv/edge/_definst_/sperantatv_1200/chunklist.m3u8
 #EXTINF:-1,RO: Speranta TV
 http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
+http://play.streamkit.tv/content/channel/adventist_at/live/adventist_at.player.m3u8
 
 #EXTINF:-1,RO: Credo TV
 http://lbctv.credotv.org:8081/ctv/smil:livecredo.smil/playlist.m3u8
@@ -808,6 +812,9 @@ http://tvron.net/59-3.m3u8
 #EXTINF:-1,RO: Nova TV
 http://novapress.ro:1935/live/nova/chunklist_w1325158178.m3u8
 
+#EXTINF:-1,RO: Misa Senzațional TV
+https://misatv.ro:5050/LiveMSTV_Safe/livestream/playlist.m3u8
+
 #EXTINF:-1,RO: Super TV HD
 http://91.235.165.114/live/smil:hls.smil/playlist.m3u8
 #EXTINF:-1,RO: Super TV
@@ -841,6 +848,9 @@ http://s1.streamnet.ro:8014/stream.flv
 #EXTINF:-1,RO: Informatia TV
 http://83.103.145.35:8001
 
+#EXTINF:-1,RO: Info HD
+http://163.172.172.80:8080/hls/InfoHd.m3u8
+
 #EXTINF:-1,RO: Banat TV
 http://82.78.172.11:1935/live/banat-tv/playlist.m3u8
 
@@ -862,14 +872,16 @@ https://ppext.arktv.ro/hls/channel7/adaptive.m3u8
 #EXTINF:-1,RO: TVH
 https://ppext.arktv.ro/hls/channel7/bitrate4.m3u8
 
-#EXTINF:-1,RO: Bucuresti TV
+#EXTINF:-1,RO: București TV
 https://ppext.arktv.ro/hls/Channel3/adaptive.m3u8
-#EXTINF:-1,RO: Bucovina TV
+#EXTINF:-1,RO: București TV
 https://ppext.arktv.ro/hls/channel3/bitrate5.m3u8
-#EXTINF:-1,RO: Bucuresti TV
+#EXTINF:-1,RO: București TV
 https://ppext.arktv.ro/hls/channel3/bitrate4.m3u8
-#EXTINF:-1,RO: Bucuresti TV
+#EXTINF:-1,RO: București TV
 http://89.38.8.130:39459
+#EXTINF:-1,RO: București TV
+http://77.36.61.147/hls/channel3/bitrate4.m3u8
 
 #EXTINF:-1,RO: TV Sud Gorj
 http://nginx.arya.ro:8080/hls/tvsudmobil.m3u8
@@ -882,6 +894,9 @@ http://webmobile.xdev.ro:81/tv7/playlist.m3u8
 
 #EXTINF:-1,RO: Alpha Media TV
 http://webmobile.xdev.ro:81/tv27/playlist.m3u8
+
+#EXTINF:-1,RO: Accent TV
+https://188.173.22.231:8080/video/emisie.m3u8
 
 #EXTINF:-1,RO: Intermedia Suceava
 http://83.103.150.198:8080
