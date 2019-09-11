@@ -19,15 +19,15 @@ http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 #EXTINF:-1,MD: Moldova 1
 http://live.trm.md:1935/live/M1Mlive/playlist.m3u8
 #EXTINF:-1,MD: Moldova 1
-#EXTINF:-1,MD: Moldova 1
 http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
+#EXTINF:-1,MD: Moldova 1
 http://live.trm.md:1935/live/_definst_/MoldovaUnu1/playlist.m3u8
 
 #EXTINF:-1,MD: Moldova 2
 http://live.trm.md:1935/live/M2Mlive/playlist.m3u8
 #EXTINF:-1,MD: Moldova 2
-#EXTINF:-1,MD: Moldova 2
 http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
+#EXTINF:-1,MD: Moldova 2
 http://live.trm.md:1935/live/_definst_/MoldovaDoi2/playlist.m3u8
 
 #EXTINF:-1,MD: NTV Moldova
@@ -74,6 +74,8 @@ http://hls.protv.md/acasatv/acasatv.m3u8
 http://live.cdn.tv8.md/TV7/video2.m3u8?token=1
 #EXTINF:-1,MD: TV 8
 http://live.cdn.tv8.md/TV7/tracks-v1a1/index.m3u8?token=1
+#EXTINF:-1,MD: TV 8
+http://live.cdn.tv8.md/TV7/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1,MD: Agro TV
 https://web.sats.gstv.tech/cpl11/540d63d5-8910-4a20-ac15-a7bfcca9dbd3/agrotvweb.m3u8
