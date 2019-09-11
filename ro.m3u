@@ -769,7 +769,6 @@ https://5b6cade28002a.streamlock.net/alfaomega/alfaomega1.sdp/playlist.m3u8
 http://amsix214.streamkit.tv/edge/_definst_/sperantatv_1200/chunklist.m3u8
 #EXTINF:-1,RO: Speranta TV
 http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
-http://play.streamkit.tv/content/channel/adventist_at/live/adventist_at.player.m3u8
 
 #EXTINF:-1,RO: Credo TV
 http://lbctv.credotv.org:8081/ctv/smil:livecredo.smil/playlist.m3u8
