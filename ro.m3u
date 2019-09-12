@@ -44,10 +44,13 @@ http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b100
 #EXTINF:-1,RO: Antena Cook
 http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
 
-#EXTINF:-1,RO: National TV
+#EXTINF:-1,RO: Național TV
 http://fms91.mediadirect.ro:1937/live3/_definst_/nationaltv_low/playlist.m3u8?publisher=17&token=a7f8a8bb4918e4f3bec92dc6473b2edad11ebcde0f9a4983
-#EXTINF:-1,RO: National TV
+#EXTINF:-1,RO: Național TV
 http://46.20.136.59/live3/_definst_/nationaltv/playlist.m3u8
+
+#EXTINF:-1,RO: Național 24 Plus
+http://46.20.136.59/live3/_definst_/n24/playlist.m3u8
 
 #EXTINF:-1,RO: Paprika
 http://edge24.rdsnet.ro/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
@@ -678,6 +681,9 @@ http://edge84.rdsnet.ro/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-onli
 #EXTINF:-1,RO: Realitatea TV
 http://46.20.136.59/live3/_definst_/realitatea/playlist.m3u8
 
+#EXTINF:-1,RO: Realitatea Plus
+http://195.42.138.43/livertmp/plus/chunklist.m3u8
+
 #EXTINF:-1,RO" Romania TV
 http://edge24.rdsnet.ro/digiedge2/romaniatvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1,RO" Romania TV
@@ -761,6 +767,8 @@ http://fms91.mediadirect.ro:1937/live3/_definst_/trinitas_low/playlist.m3u8?publ
 #EXTINF:-1,RO: Alfa & Omega TV
 http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
 #EXTINF:-1,RO: Alfa & Omega TV
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
+#EXTINF:-1,RO: Alfa & Omega TV
 https://5b6cade28002a.streamlock.net/alfaomega/smil:alfaomegatv/playlist.m3u8
 #EXTINF:-1,RO: Alfa & Omega TV
 https://5b6cade28002a.streamlock.net/alfaomega/alfaomega1.sdp/playlist.m3u8
@@ -774,6 +782,8 @@ http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
 http://lbctv.credotv.org:8081/ctv/smil:livecredo.smil/playlist.m3u8
 #EXTINF:-1,RO: Credo TV
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+#EXTINF:-1,RO: Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/chunklist_b1128000.m3u8
 
 #EXTINF:-1,RO: A7 TV
 https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
@@ -879,8 +889,6 @@ https://ppext.arktv.ro/hls/channel3/bitrate5.m3u8
 https://ppext.arktv.ro/hls/channel3/bitrate4.m3u8
 #EXTINF:-1,RO: București TV
 http://89.38.8.130:39459
-#EXTINF:-1,RO: București TV
-http://77.36.61.147/hls/channel3/bitrate4.m3u8
 
 #EXTINF:-1,RO: TV Sud Gorj
 http://nginx.arya.ro:8080/hls/tvsudmobil.m3u8
@@ -1030,10 +1038,6 @@ https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w2319410
 http://89.36.10.12:8080
 #EXTINF:-1,RO: DJing TV
 https://www.djing.com/tv/hits.m3u8
-#EXTINF:-1,RO: Tradiții TV
-https://ppext.arktv.ro/hls/channel5/adaptive.m3u8
-#EXTINF:-1,RO: Tradiții TV
-http://v6.arya.ro:8080/hls/traditiitv.m3u8
 #EXTINF:-1,RO: Radio m2o TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1,RO: Radio ZU Video HD
@@ -1042,6 +1046,13 @@ https://play.myovn.com/s1/cache/radiozu/chunklist.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/index_3500_av-b.m3u8
 #EXTINF:-1,RO: Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1,RO: Tradiții TV
+https://ppext.arktv.ro/hls/channel5/adaptive.m3u8
+#EXTINF:-1,RO: Tradiții TV
+http://ppext.arktv.ro/hls/channel5/bitrate4.m3u8
+#EXTINF:-1,RO: Tradiții TV
+http://v6.arya.ro:8080/hls/traditiitv.m3u8
 
 #EXTINF:-1,RO: Etno TV
 http://46.20.136.59/live3/_definst_/etno/playlist.m3u8
