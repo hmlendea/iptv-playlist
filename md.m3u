@@ -91,6 +91,9 @@ http://91.230.214.75/LIVE/2/index.m3u8
 #EXTINF:-1,MD: Canal 3
 http://91.230.214.75/LIVE/3/2000.m3u8
 
+#EXTINF:-1,RO: Tezaur TV
+http://tezaur.mlbfan.org/tezaur/index.m3u8
+
 #EXTINF:-1,MD: Gold TV
 http://goldtv.md:1935/live/GOLDTV1.stream_aac/chunklist_w1634790422.m3u8
 #EXTINF:-1,MD: Gold TV
