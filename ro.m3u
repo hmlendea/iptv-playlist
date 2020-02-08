@@ -731,6 +731,12 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start
 #EXTINF:-1,RO: Cornea TV
 http://89.149.30.158:1935/CorneaTV/myStream/playlist.m3u8
 
+#EXTINF:-1,RO: LinkPress TV
+http://cast.independentmedia.network:9090/seconds6hls/live.m3u8
+
+#EXTINF:-1,RO: Job TV
+http://v9.arya.ro:8080/hls/jobtvhq.m3u8
+
 #EXTINF:-1,RO: Cinethronix
 http://webmobile.xdev.ro:81/tv25/playlist.m3u8
 
