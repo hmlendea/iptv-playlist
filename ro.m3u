@@ -586,6 +586,19 @@ http://edge81.rdsnet.ro/digiedge3/fishingandhuntingehq/index.m3u8?is=92&src=digi
 #EXTINF:-1,RO: Fishing & Hunting
 http://edge84.rdsnet.ro/digiedge3/fishingandhuntingehq/index.m3u8?is=92&src=digi-online.ro&t=00000000000000000000000000000000
 
+#EXTINF:-1,RO: JimJam
+https://edge24.rcs-rds.ro/digiedge3/smil:jimjam.smil/index.m3u8?is=105&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: JimJam
+https://edge30.rcs-rds.ro/digiedge3/smil:jimjam.smil/index.m3u8?is=105&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: JimJam
+https://edge75.rcs-rds.ro/digiedge3/smil:jimjam.smil/index.m3u8?is=105&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: JimJam
+https://edge76.rcs-rds.ro/digiedge3/smil:jimjam.smil/index.m3u8?is=105&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: JimJam
+https://edge81.rcs-rds.ro/digiedge3/smil:jimjam.smil/index.m3u8?is=105&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: JimJam
+https://edge84.rcs-rds.ro/digiedge3/smil:jimjam.smil/index.m3u8?is=105&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+
 #EXTINF:-1,RO: Cartoon Network
 http://edge24.rdsnet.ro/digiedge3/cartoonnetworkemq/chunklist_w344432483.m3u8?is=89&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1,RO: Cartoon Network
@@ -747,6 +760,18 @@ http://cast.independentmedia.network:9090/seconds6hls/live.m3u8
 http://v9.arya.ro:8080/hls/jobtvhq.m3u8
 
 #EXTINF:-1,RO: Cinethronix
+https://edge24.rcs-rds.ro/digiedge3/smil:cinethronix.smil/playlist.m3u8?is=101&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: Cinethronix
+https://edge30.rcs-rds.ro/digiedge3/smil:cinethronix.smil/playlist.m3u8?is=101&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: Cinethronix
+https://edge75.rcs-rds.ro/digiedge3/smil:cinethronix.smil/playlist.m3u8?is=101&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: Cinethronix
+https://edge76.rcs-rds.ro/digiedge3/smil:cinethronix.smil/playlist.m3u8?is=101&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: Cinethronix
+https://edge81.rcs-rds.ro/digiedge3/smil:cinethronix.smil/playlist.m3u8?is=101&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: Cinethronix
+https://edge84.rcs-rds.ro/digiedge3/smil:cinethronix.smil/playlist.m3u8?is=101&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: Cinethronix
 http://webmobile.xdev.ro:81/tv25/playlist.m3u8
 
 #EXTINF:-1,RO: ONE TV
@@ -768,6 +793,20 @@ http://edge84.rdsnet.ro/digiedge2/travelchannelehq/index.m3u8?is=21&src=digi-onl
 https://ppext.arktv.ro/hls/channel1/adaptive.m3u8
 #EXTINF:-1,RO: Travel Mix
 http://89.38.8.131:39520
+
+#EXTINF:-1,RO: HGTV
+https://edge24.rcs-rds.ro/digiedge3/hgtvehq.stream/index.m3u8?is=103&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: HGTV
+https://edge30.rcs-rds.ro/digiedge3/hgtvehq.stream/index.m3u8?is=103&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: HGTV
+https://edge75.rcs-rds.ro/digiedge3/hgtvehq.stream/index.m3u8?is=103&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: HGTV
+https://edge76.rcs-rds.ro/digiedge3/hgtvehq.stream/index.m3u8?is=103&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: HGTV
+https://edge81.rcs-rds.ro/digiedge3/hgtvehq.stream/index.m3u8?is=103&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: HGTV
+https://edge84.rcs-rds.ro/digiedge3/hgtvehq.stream/index.m3u8?is=103&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+
 
 #EXTINF:-1,RO: Agro TV
 http://agrotv.streamnet.ro:9000
@@ -1079,6 +1118,19 @@ http://edge84.rdsnet.ro/digiedge2/hitmusicchannelehq/index.m3u8?is=35&src=digi-o
 http://edge126.rdsnet.ro/profm/profm/index.m3u8
 #EXTINF:-1,RO: ProFM DanceFM
 http://edge126.rdsnet.ro/profm/dancefm/index.m3u8
+
+#EXTINF:-1,RO: MTV Europe
+https://edge24.rcs-rds.ro/digiedge3/mtveuropeehq.stream/index.m3u8?is=104&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: MTV Europe
+https://edge30.rcs-rds.ro/digiedge3/mtveuropeehq.stream/index.m3u8?is=104&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: MTV Europe
+https://edge75.rcs-rds.ro/digiedge3/mtveuropeehq.stream/index.m3u8?is=104&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: MTV Europe
+https://edge76.rcs-rds.ro/digiedge3/mtveuropeehq.stream/index.m3u8?is=104&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: MTV Europe
+https://edge81.rcs-rds.ro/digiedge3/mtveuropeehq.stream/index.m3u8?is=104&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
+#EXTINF:-1,RO: MTV Europe
+https://edge84.rcs-rds.ro/digiedge3/mtveuropeehq.stream/index.m3u8?is=104&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
 
 #EXTINF:-1,RO: Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
