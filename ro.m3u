@@ -62,7 +62,6 @@ http://46.20.136.59/live3/_definst_/n24/playlist.m3u8
 http://edge24.rdsnet.ro/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1,RO: Paprika
 http://edge30.rdsnet.ro/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Paprika
 http://edge75.rdsnet.ro/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1,RO: Paprika
 http://edge76.rdsnet.ro/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
@@ -297,6 +296,8 @@ http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
 #EXTINF:-1,RO: Digi24 HD
 http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
 
+#EXTINF:-1,RO: Digi Sport 1
+https://edge210.rcs-rds.ro/V4-1519385-6f478bd4d98aa084578345fd25ea391a-3560337912-0-1584225939-1-digisport1/digionline/digisport1hq.stream/chunklist.m3u8
 #EXTINF:-1,RO: Digi Sport 1 HQ
 http://edge24.rdsnet.ro/digiedge/digisport1ehq/index.m3u8?is=1&src=digionline.ro&t=00000000000000000000000000000000
 #EXTINF:-1,RO: Digi Sport 1 HQ
