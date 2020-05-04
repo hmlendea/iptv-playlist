@@ -144,6 +144,9 @@ http://212.0.215.115:80/MBC/mpegts
 #EXTINF:-1,RO: Digi Film
 http://82.76.252.26:82/tc/7/7hq/01.m3u8
 
+#EXTINF:-1,RO: Disney Channel
+http://212.0.215.115/DisneyChannel/playlist.m3u8
+
 #EXTINF:-1,RO: DJing TV
 https://www.djing.com/tv/hits.m3u8
 
@@ -152,6 +155,14 @@ http://89.38.8.131:39519
 
 #EXTINF:-1,RO: Etno TV
 http://46.20.136.59/live3/_definst_/etno/playlist.m3u8
+#EXTINF:-1,RO: Etno TV
+http://212.0.215.115/EtnoTV/playlist.m3u8
+
+#EXTINF:-1,RO: Favorit TV
+http://212.0.215.115/Favorit/playlist.m3u8
+
+#EXTINF:-1,RO: Gurinel TV
+http://212.0.215.115/Gurinel/playlist.m3u8
 
 #EXTINF:-1,RO: Iasi TV Life
 http://webmobile.xdev.ro:81/tv24/playlist.m3u8
@@ -193,6 +204,8 @@ http://v9.arya.ro:8080/hls/jobtvhq.m3u8
 http://livefeed.kanald.ro/iphone/live.m3u8
 #EXTINF:-1,RO: KANAL D
 http://80.86.107.169:8100/stream.flv
+#EXTINF:-1,RO: Kanal D
+http://212.0.215.115/KanalD/playlist.m3u8
 
 #EXTINF:-1,RO: Kapital TV
 http://95.77.97.220:1935/live/livestream/playlist.m3u
@@ -215,6 +228,9 @@ http://46.20.136.59/live3/_definst_/magictv/playlist.m3u8
 #EXTINF:-1,RO: Media TV
 http://webmobile.xdev.ro:81/tv22/playlist.m3u8
 
+#EXTINF:-1,RO: MiniMax
+http://212.0.215.115/Minimax/playlist.m3u8
+
 #EXTINF:-1,RO: Misa Senzațional TV
 https://misatv.ro:5050/LiveMSTV_Safe/livestream/playlist.m3u8
 
@@ -233,10 +249,14 @@ https://5ab29cc78f681.streamlock.net/nasultvlive/nasultvlive/playlist.m3u8
 http://tvron.net/53-1.m3u8
 
 #EXTINF:-1,RO: Național 24 Plus
+http://212.0.215.115/N24plus/playlist.m3u8
+#EXTINF:-1,RO: Național 24 Plus
 http://46.20.136.59/live3/_definst_/n24/playlist.m3u8
 
 #EXTINF:-1,RO: Național TV
 http://fms91.mediadirect.ro:1937/live3/_definst_/nationaltv_low/playlist.m3u8?publisher=17&token=a7f8a8bb4918e4f3bec92dc6473b2edad11ebcde0f9a4983
+#EXTINF:-1,RO: Național TV
+http://212.0.215.115/National/playlist.m3u8
 #EXTINF:-1,RO: Național TV
 http://46.20.136.59/live3/_definst_/nationaltv/playlist.m3u8
 
@@ -245,6 +265,9 @@ http://tvron.net/54-2.m3u8
 
 #EXTINF:-1,RO: NEst TV
 http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+
+#EXTINF:-1,RO: Nickelodeon
+http://212.0.215.115/Nick/playlist.m3u8
 
 #EXTINF:-1,RO: Nova TV
 http://novapress.ro:1935/live/nova/chunklist_w1325158178.m3u8
@@ -330,6 +353,9 @@ http://iptv.supertv.ro:8000/play/a001/index.m3u8
 http://iptv.supertv.ro:8000/play/a002/index.m3u8
 #EXTINF:-1,RO: Super TV
 http://live.supertv.ro/live/smil:hls.smil/index.m3u8
+
+#EXTINF:-1,RO: Taraf TV
+http://212.0.215.115/TarafTV/playlist.m3u8
 
 #EXTINF:-1,RO: Tele2 Drobeta
 http://89.47.38.12:8098
@@ -454,6 +480,8 @@ https://ppext.arktv.ro/hls/channel7/bitrate4.m3u8
 #EXTINF:-1,RO: TVH
 http://tvron.net/59-1.m3u8
 
+#EXTINF:-1,RO: U TV
+http://212.0.215.115/UTV/playlist.m3u8
 #EXTINF:-1,RO: U TV
 http://82.76.40.76/utvedge/utvlivehls/chunklist_w894794180.m3u8
 #EXTINF:-1,RO: U TV
