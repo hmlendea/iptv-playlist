@@ -327,6 +327,11 @@ http://89.45.164.236:8048/stream.flv
 #EXTINF:-1,RO: Orizont TV
 https://ch.iptvmate.net/deb0b2f69ed3462bfdb4b686a387fc17.m3u8
 
+#EXTINF:-1,RO: ProFM
+http://edge126.rdsnet.ro/profm/profm/index.m3u8
+#EXTINF:-1,RO: ProFM DanceFM
+http://edge126.rdsnet.ro/profm/dancefm/index.m3u8
+
 #EXTINF:-1,RO: Pro TV
 http://89.38.8.131:39532
 
