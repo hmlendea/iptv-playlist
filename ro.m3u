@@ -7,13 +7,9 @@ http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8?iptv
 #EXTINF:-1,RO: TVR 1
 http://mn-nl.mncdn.com/tvr_hd/smil:TVRHD.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR 1
-http://edge81.rdsnet.ro/digiedge2/tvr1emq/chunklist_w859845822.m3u8?is=24&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: TVR 1
 http://mn-nl.mncdn.com/tvr_1/smil:TVR1.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR 1
 http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF:-1,RO: TVR 2
-http://edge24.rdsnet.ro/digiedge2/tvr2ehq/index.m3u8?is=38&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1,RO: TVR 2
 http://mn-nl.mncdn.com/tvr_2/smil:TVR2.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR 2
@@ -58,122 +54,14 @@ http://46.20.136.59/live3/_definst_/nationaltv/playlist.m3u8
 #EXTINF:-1,RO: Național 24 Plus
 http://46.20.136.59/live3/_definst_/n24/playlist.m3u8
 
-#EXTINF:-1,RO: Paprika
-http://edge24.rdsnet.ro/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Paprika
-http://edge30.rdsnet.ro/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
-http://edge75.rdsnet.ro/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Paprika
-http://edge76.rdsnet.ro/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Paprika
-http://edge81.rdsnet.ro/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Paprika
-http://edge84.rdsnet.ro/digiedge2/tvpaprikaehq/index.m3u8?is=39&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: Film Cafe
-http://edge24.rdsnet.ro/digiedge3/filmcafeemq/chunklist_w1201989155.m3u8?is=94&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Film Cafe
-http://edge30.rdsnet.ro/digiedge3/filmcafeemq/chunklist_w1201989155.m3u8?is=94&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Film Cafe
-http://edge75.rdsnet.ro/digiedge3/filmcafeemq/chunklist_w1201989155.m3u8?is=94&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Film Cafe
-http://edge76.rdsnet.ro/digiedge3/filmcafeemq/chunklist_w1201989155.m3u8?is=94&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Film Cafe
-http://edge81.rdsnet.ro/digiedge3/filmcafeemq/chunklist_w1201989155.m3u8?is=94&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Film Cafe
-http://edge84.rdsnet.ro/digiedge3/filmcafeemq/chunklist_w1201989155.m3u8?is=94&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: Bollywood TV
-https://edge24.rcs-rds.ro/digiedge3/bollywoodtvehq/index.m3u8?is=96&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Bollywood TV
-https://edge30.rcs-rds.ro/digiedge3/bollywoodtvehq/index.m3u8?is=96&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Bollywood TV
-https://edge75.rcs-rds.ro/digiedge3/bollywoodtvehq/index.m3u8?is=96&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Bollywood TV
-https://edge76.rcs-rds.ro/digiedge3/bollywoodtvehq/index.m3u8?is=96&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Bollywood TV
-https://edge81.rcs-rds.ro/digiedge3/bollywoodtvehq/index.m3u8?is=96&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Bollywood TV
-https://edge84.rcs-rds.ro/digiedge3/bollywoodtvehq/index.m3u8?is=96&src=app&t=00000000000000000000000000000000
 #EXTINF:-1,RO: Bollywood TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 
 #EXTINF:-1,RO: Bollywood Clasic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 
-#EXTINF:-1,RO: TV1000
-http://edge24.rdsnet.ro/digiedge2/tv1000ehq/index.m3u8?is=43&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: TV1000
-http://edge30.rdsnet.ro/digiedge2/tv1000ehq/index.m3u8?is=43&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: TV1000
-http://edge75.rdsnet.ro/digiedge2/tv1000ehq/index.m3u8?is=43&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: TV1000
-http://edge76.rdsnet.ro/digiedge2/tv1000ehq/index.m3u8?is=43&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: TV1000
-http://edge84.rdsnet.ro/digiedge2/tv1000ehq/index.m3u8?is=43&src=digi-online.ro&t=00000000000000000000000000000000
-
 #EXTINF:-1,RO: Digi Film
 http://82.76.252.26:82/tc/7/7hq/01.m3u8
-
-#EXTINF:-1,RO: AMC
-https://edge24.rcs-rds.ro/digiedge3/smil:amc.smil/playlist.m3u8?is=102&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: AMC
-https://edge30.rcs-rds.ro/digiedge3/smil:amc.smil/playlist.m3u8?is=102&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: AMC
-https://edge75.rcs-rds.ro/digiedge3/smil:amc.smil/playlist.m3u8?is=102&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: AMC
-https://edge76.rcs-rds.ro/digiedge3/smil:amc.smil/playlist.m3u8?is=102&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-
-#EXTINF:-1,RO: AXN
-http://edge24.rdsnet.ro/digiedge2/axnehq/index.m3u8?is=44&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: AXN
-http://edge30.rdsnet.ro/digiedge2/axnehq/index.m3u8?is=44&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: AXN
-http://edge75.rdsnet.ro/digiedge2/axnehq/index.m3u8?is=44&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: AXN
-http://edge76.rdsnet.ro/digiedge2/axnehq/index.m3u8?is=44&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: AXN
-http://edge81.rdsnet.ro/digiedge2/axnehq/index.m3u8?is=44&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: AXN
-http://edge84.rdsnet.ro/digiedge2/axnehq/index.m3u8?is=44&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: AXN Black
-http://edge24.rdsnet.ro/digiedge2/axnblackehq/index.m3u8?is=45&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: AXN Black
-http://edge30.rdsnet.ro/digiedge2/axnblackehq/index.m3u8?is=45&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: AXN Black
-http://edge75.rdsnet.ro/digiedge2/axnblackehq/index.m3u8?is=45&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: AXN Black
-http://edge76.rdsnet.ro/digiedge2/axnblackehq/index.m3u8?is=45&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: AXN Black
-http://edge81.rdsnet.ro/digiedge2/axnblackehq/index.m3u8?is=45&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: AXN Black
-http://edge84.rdsnet.ro/digiedge2/axnblackehq/index.m3u8?is=45&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: AXN Spin
-http://edge24.rcs-rds.ro/digiedge2/axnspinehq/chunklist_w437727442.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=axnspin&p=browser&pe=site
-#EXTINF:-1,RO: AXN Spin
-http://edge30.rcs-rds.ro/digiedge2/axnspinehq/chunklist_w437727442.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=axnspin&p=browser&pe=site
-#EXTINF:-1,RO: AXN Spin
-http://edge70.rcs-rds.ro/digiedge2/axnspinehq/chunklist_w437727442.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=axnspin&p=browser&pe=site
-#EXTINF:-1,RO: AXN Spin
-http://edge75.rcs-rds.ro/digiedge2/axnspinehq/chunklist_w437727442.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=axnspin&p=browser&pe=site
-#EXTINF:-1,RO: AXN Spin
-http://edge76.rcs-rds.ro/digiedge2/axnspinehq/chunklist_w437727442.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=axnspin&p=browser&pe=site
-#EXTINF:-1,RO: AXN Spin
-http://edge81.rcs-rds.ro/digiedge2/axnspinehq/chunklist_w437727442.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=axnspin&p=browser&pe=site
-#EXTINF:-1,RO: AXN Spin
-http://edge84.rcs-rds.ro/digiedge2/axnspinehq/chunklist_w437727442.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=axnspin&p=browser&pe=site
-#EXTINF:-1,RO: AXN White
-http://edge24.rdsnet.ro/digiedge2/axnwhiteehq/index.m3u8?is=46&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: AXN White
-http://edge30.rdsnet.ro/digiedge2/axnwhiteehq/index.m3u8?is=46&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: AXN White
-http://edge75.rdsnet.ro/digiedge2/axnwhiteehq/index.m3u8?is=46&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: AXN White
-http://edge76.rdsnet.ro/digiedge2/axnwhiteehq/index.m3u8?is=46&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: AXN White
-http://edge81.rdsnet.ro/digiedge2/axnwhiteehq/index.m3u8?is=46&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: AXN White
-http://edge84.rdsnet.ro/digiedge2/axnwhiteehq/index.m3u8?is=46&src=digi-online.ro&t=00000000000000000000000000000000
 
 #EXTINF:-1,RO: Cinemaraton
 https://cmn.digitalcable.ro/free/cm/playlist.m3u8
@@ -185,58 +73,6 @@ https://cmn.digitalcable.ro/free/comedyest/playlist.m3u8
 #EXTINF:-1,RO: Cinemaraton
 https://cmn.digitalcable.ro/free/comedyest/chunks.m3u8
 
-#EXTINF:-1,RO: Comedy Central
-http://edge24.rdsnet.ro/digiedge3/comedycentralehq/index.m3u8?is=58&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Comedy Central
-http://edge30.rdsnet.ro/digiedge3/comedycentralehq/index.m3u8?is=58&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Comedy Central
-http://edge75.rdsnet.ro/digiedge3/comedycentralehq/index.m3u8?is=58&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Comedy Central
-http://edge76.rdsnet.ro/digiedge3/comedycentralehq/index.m3u8?is=58&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Comedy Central
-http://edge81.rdsnet.ro/digiedge3/comedycentralehq/index.m3u8?is=58&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Comedy Central
-http://edge84.rdsnet.ro/digiedge3/comedycentralehq/index.m3u8?is=58&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: Epic Drama
-http://edge24.rdsnet.ro/digiedge3/epicdramaehq/index.m3u8?is=95&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Epic Drama
-http://edge30.rdsnet.ro/digiedge3/epicdramaehq/index.m3u8?is=95&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Epic Drama
-http://edge75.rdsnet.ro/digiedge3/epicdramaehq/index.m3u8?is=95&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Epic Drama
-http://edge76.rdsnet.ro/digiedge3/epicdramaehq/index.m3u8?is=95&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Epic Drama
-http://edge81.rdsnet.ro/digiedge3/epicdramaehq/index.m3u8?is=95&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Epic Drama
-http://edge84.rdsnet.ro/digiedge3/epicdramaehq/index.m3u8?is=95&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: Epic
-http://edge24.rcs-rds.ro/digiedge3/epicdramaehq/index.m3u8?is=95&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Epic
-http://edge30.rcs-rds.ro/digiedge3/epicdramaehq/index.m3u8?is=95&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Epic
-http://edge75.rcs-rds.ro/digiedge3/epicdramaehq/index.m3u8?is=95&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Epic
-http://edge76.rcs-rds.ro/digiedge3/epicdramaehq/index.m3u8?is=95&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Epic
-http://edge81.rcs-rds.ro/digiedge3/epicdramaehq/index.m3u8?is=95&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Epic
-http://edge84.rcs-rds.ro/digiedge3/epicdramaehq/index.m3u8?is=95&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: TNT
-http://edge24.rcs-rds.ro/digiedge3/tntehq/index.m3u8?is=91&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: TNT
-http://edge30.rcs-rds.ro/digiedge3/tntehq/index.m3u8?is=91&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: TNT
-http://edge75.rcs-rds.ro/digiedge3/tntehq/index.m3u8?is=91&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: TNT
-http://edge76.rcs-rds.ro/digiedge3/tntehq/index.m3u8?is=91&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: TNT
-http://edge81.rcs-rds.ro/digiedge3/tntehq/index.m3u8?is=91&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: TNT
-http://edge84.rcs-rds.ro/digiedge3/tntehq/index.m3u8?is=91&src=digi-online.ro&t=00000000000000000000000000000000
-
 #EXTINF:-1,RO: TV H
 https://ppext.arktv.ro/hls/channel7/adaptive.m3u8
 
@@ -244,18 +80,6 @@ https://ppext.arktv.ro/hls/channel7/adaptive.m3u8
 http://livefeed.kanald.ro/iphone/live.m3u8
 #EXTINF:-1,RO: KANAL D
 http://80.86.107.169:8100/stream.flv
-#EXTINF:-1,RO: Kanal D
-http://edge24.rdsnet.ro/digiedge2/kanaldehq/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Kanal D
-http://edge30.rdsnet.ro/digiedge2/kanaldehq/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Kanal D
-http://edge75.rdsnet.ro/digiedge2/kanaldehq/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Kanal D
-http://edge76.rdsnet.ro/digiedge2/kanaldehq/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Kanal D
-http://edge81.rdsnet.ro/digiedge2/kanaldehq/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Kanal D
-http://edge84.rdsnet.ro/digiedge2/kanaldehq/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
 
 #EXTINF:-1,RO: Arcadia World
 http://89.38.8.131:39553/
@@ -276,418 +100,11 @@ http://stream1.protv.ro/news/stream%3a1.stream/playlist.m3u8
 https://vid.hls.protv.ro/proxhdn/proxhd_high/index.m3u8?1
 
 #EXTINF:-1,RO: Digi24
-http://edge24.rdsnet.ro/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1,RO: Digi24
-http://edge30.rdsnet.ro/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1,RO: Digi24
-http://edge70.rcs-rds.ro/digi24edge/smil:digi24.smil/playlist.m3u8
-#EXTINF:-1,RO: Digi24
-http://edge75.rdsnet.ro/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1,RO: Digi24
-http://edge76.rdsnet.ro/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1,RO: Digi24
-http://edge81.rdsnet.ro/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1,RO: Digi24
-http://edge84.rdsnet.ro/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1,RO: Digi24
 http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
 #EXTINF:-1,RO: Digi24
 http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
 #EXTINF:-1,RO: Digi24 HD
 http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
-
-#EXTINF:-1,RO: Digi Sport 1
-https://edge210.rcs-rds.ro/V4-1519385-6f478bd4d98aa084578345fd25ea391a-3560337912-0-1584225939-1-digisport1/digionline/digisport1hq.stream/chunklist.m3u8
-#EXTINF:-1,RO: Digi Sport 1 HQ
-http://edge24.rdsnet.ro/digiedge/digisport1ehq/index.m3u8?is=1&src=digionline.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 1 HQ
-http://edge30.rdsnet.ro/digiedge/digisport1ehq/index.m3u8?is=1&src=digionline.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 1 HQ
-http://edge75.rdsnet.ro/digiedge/digisport1ehq/index.m3u8?is=1&src=digionline.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 1 HQ
-http://edge76.rdsnet.ro/digiedge/digisport1ehq/index.m3u8?is=1&src=digionline.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 1 HQ
-http://edge81.rdsnet.ro/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 1 HQ
-http://edge84.rdsnet.ro/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 2 HQ
-http://edge24.rdsnet.ro/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 2 HQ
-http://edge30.rdsnet.ro/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 2 HQ
-http://edge75.rdsnet.ro/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 2 HQ
-http://edge76.rdsnet.ro/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 2 HQ
-http://edge81.rdsnet.ro/digiedge/livehlsdigisport2hq_7139/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 2 HQ
-http://edge84.rdsnet.ro/digiedge/livehlsdigisport2hq_7139/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 3 HQ
-http://edge24.rdsnet.ro/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 3 HQ
-http://edge30.rdsnet.ro/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 3 HQ
-http://edge75.rdsnet.ro/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 3 HQ
-http://edge76.rdsnet.ro/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 3 HQ
-http://edge81.rdsnet.ro/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 3 HQ
-http://edge84.rdsnet.ro/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 4 HQ
-http://edge24.rdsnet.ro:80/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 4 HQ
-http://edge30.rdsnet.ro:80/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 4 HQ
-http://edge75.rdsnet.ro/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 4 HQ
-http://edge76.rdsnet.ro/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 4 HQ
-http://edge81.rdsnet.ro/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Sport 4 HQ
-http://edge84.rdsnet.ro/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: EuroSport 1
-http://edge24.rdsnet.ro/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: EuroSport 1
-http://edge30.rdsnet.ro/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: EuroSport 1
-http://edge75.rdsnet.ro/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: EuroSport 1
-http://edge76.rdsnet.ro/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: EuroSport 1
-http://edge81.rdsnet.ro/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: EuroSport 1
-http://edge84.rdsnet.ro/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: EuroSport 2
-http://edge24.rdsnet.ro/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: EuroSport 2
-http://edge30.rdsnet.ro/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: EuroSport 2
-http://edge75.rdsnet.ro/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: EuroSport 2
-http://edge76.rdsnet.ro/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: EuroSport 2
-http://edge81.rdsnet.ro/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: EuroSport 2
-http://edge84.rdsnet.ro/digiedge2/eurosport2ehq/index.m3u8?is=32&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: Digi Animal World
-http://edge24.rdsnet.ro/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Animal World
-http://edge30.rdsnet.ro/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Animal World
-http://edge75.rdsnet.ro/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Animal World
-http://edge76.rdsnet.ro/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Animal World
-http://edge81.rdsnet.ro/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Animal World
-http://edge84.rdsnet.ro/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Life
-http://edge24.rdsnet.ro/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Life
-http://edge30.rdsnet.ro/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Life
-http://edge75.rdsnet.ro/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Life
-http://edge76.rdsnet.ro/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Life
-http://edge81.rdsnet.ro/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi Life
-http://edge84.rdsnet.ro/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi World
-http://edge24.rdsnet.ro/digiedge2/digiworldehq/index.m3u8?is=5&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi World
-http://edge30.rdsnet.ro/digiedge2/digiworldehq/index.m3u8?is=5&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi World
-http://edge75.rdsnet.ro/digiedge2/digiworldehq/index.m3u8?is=5&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi World
-http://edge76.rdsnet.ro/digiedge2/digiworldehq/index.m3u8?is=5&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi World
-http://edge81.rdsnet.ro/digiedge2/digiworldehq/index.m3u8?is=5&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Digi World
-http://edge84.rdsnet.ro/digiedge2/digiworldehq/index.m3u8?is=5&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: Discovery Channel
-http://edge24.rcs-rds.ro/digiedge2/discoveryehq/index.m3u8?is=71&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Discovery Channel
-http://edge30.rcs-rds.ro/digiedge2/discoveryehq/index.m3u8?is=71&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Discovery Channel
-http://edge75.rcs-rds.ro/digiedge2/discoveryehq/index.m3u8?is=71&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Discovery Channel
-http://edge76.rcs-rds.ro/digiedge2/discoveryehq/index.m3u8?is=71&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Discovery Channel
-http://edge81.rcs-rds.ro/digiedge2/discoveryehq/index.m3u8?is=71&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Discovery Channel
-http://edge84.rcs-rds.ro/digiedge2/discoveryehq/index.m3u8?is=71&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: National Geographic
-http://edge24.rdsnet.ro/digiedge2/nationalgeographicehq/index.m3u8?is=19&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: National Geographic
-http://edge30.rdsnet.ro/digiedge2/nationalgeographicehq/index.m3u8?is=19&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: National Geographic
-http://edge75.rdsnet.ro/digiedge2/nationalgeographicehq/index.m3u8?is=19&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: National Geographic
-http://edge76.rdsnet.ro/digiedge2/nationalgeographicehq/index.m3u8?is=19&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: National Geographic
-http://edge81.rdsnet.ro/digiedge2/nationalgeographicehq/index.m3u8?is=19&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: National Geographic
-http://edge84.rdsnet.ro/digiedge2/nationalgeographicehq/index.m3u8?is=19&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: National Geographic Wild
-http://edge24.rdsnet.ro/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: National Geographic Wild
-http://edge30.rdsnet.ro/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: National Geographic Wild
-http://edge75.rdsnet.ro/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: National Geographic Wild
-http://edge76.rdsnet.ro/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: National Geographic Wild
-http://edge81.rdsnet.ro/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: National Geographic Wild
-http://edge84.rdsnet.ro/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: Viasat Explore HQ
-http://edge24.rdsnet.ro/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat Explore HQ
-http://edge30.rdsnet.ro/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat Explore HQ
-http://edge75.rdsnet.ro/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat Explore HQ
-http://edge76.rdsnet.ro/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat Explore HQ
-http://edge81.rdsnet.ro/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat Explore HQ
-http://edge84.rdsnet.ro/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat Explore MQ
-http://edge24.rdsnet.ro/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat Explore MQ
-http://edge30.rdsnet.ro/digiedge2/viasatexploreremq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat Explore MQ
-http://edge75.rdsnet.ro/digiedge2/viasatexploreremq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat Explore MQ
-http://edge76.rdsnet.ro/digiedge2/viasatexploreremq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat Explore MQ
-http://edge81.rdsnet.ro/digiedge2/viasatexploreremq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat Explore MQ
-http://edge84.rdsnet.ro/digiedge2/viasatexploreremq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: Viasat History HQ
-http://edge24.rdsnet.ro/digiedge2/viasathistoryehq/index.m3u8?is=41&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat History HQ
-http://edge30.rdsnet.ro/digiedge2/viasathistoryehq/index.m3u8?is=41&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat History HQ
-http://edge75.rdsnet.ro/digiedge2/viasathistoryehq/index.m3u8?is=41&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat History HQ
-http://edge76.rdsnet.ro/digiedge2/viasathistoryehq/index.m3u8?is=41&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat History HQ
-http://edge81.rdsnet.ro/digiedge2/viasathistoryehq/index.m3u8?is=41&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat History HQ
-http://edge84.rdsnet.ro/digiedge2/viasathistoryehq/index.m3u8?is=41&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat Nature HQ
-http://edge24.rdsnet.ro/digiedge2/viasatnatureehq/index.m3u8?is=42&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat Nature HQ
-http://edge30.rdsnet.ro/digiedge2/viasatnatureehq/index.m3u8?is=42&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat Nature HQ
-http://edge75.rdsnet.ro/digiedge2/viasatnatureehq/index.m3u8?is=42&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat Nature HQ
-http://edge76.rdsnet.ro/digiedge2/viasatnatureehq/index.m3u8?is=42&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat Nature HQ
-http://edge81.rdsnet.ro/digiedge2/viasatnatureehq/index.m3u8?is=42&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Viasat Nature HQ
-http://edge84.rdsnet.ro/digiedge2/viasatnatureehq/index.m3u8?is=42&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: DaVinci Learning
-http://edge24.rdsnet.ro/digiedge2/davincilearningehq/index.m3u8?is=66&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: DaVinci Learning
-http://edge30.rdsnet.ro/digiedge2/davincilearningehq/index.m3u8?is=66&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: DaVinci Learning
-http://edge75.rdsnet.ro/digiedge2/davincilearningehq/index.m3u8?is=66&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: DaVinci Learning
-http://edge76.rdsnet.ro/digiedge2/davincilearningehq/index.m3u8?is=66&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: DaVinci Learning
-http://edge81.rdsnet.ro/digiedge2/davincilearningehq/index.m3u8?is=66&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: DaVinci Learning
-http://edge84.rdsnet.ro/digiedge2/davincilearningehq/index.m3u8?is=66&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: History Channel
-http://edge24.rdsnet.ro/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: History Channel
-http://edge30.rdsnet.ro/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: History Channel
-http://edge75.rdsnet.ro/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: History Channel
-http://edge76.rdsnet.ro/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: History Channel
-http://edge81.rdsnet.ro/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: History Channel
-http://edge84.rdsnet.ro/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: BBC Earth
-http://edge24.rdsnet.ro/digiedge2/bbcearthehq/index.m3u8?is=67&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: BBC Earth
-http://edge30.rdsnet.ro/digiedge2/bbcearthehq/index.m3u8?is=67&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: BBC Earth
-http://edge75.rdsnet.ro/digiedge2/bbcearthehq/index.m3u8?is=67&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: BBC Earth
-http://edge76.rdsnet.ro/digiedge2/bbcearthehq/index.m3u8?is=67&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: BBC Earth
-http://edge81.rdsnet.ro/digiedge2/bbcearthehq/index.m3u8?is=67&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: BBC Earth
-http://edge84.rdsnet.ro/digiedge2/bbcearthehq/index.m3u8?is=67&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: TLC
-http://edge24.rcs-rds.ro/digiedge2/tlcehq/index.m3u8?is=72&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: TLC
-http://edge30.rcs-rds.ro/digiedge2/tlcehq/index.m3u8?is=72&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: TLC
-http://edge75.rcs-rds.ro/digiedge2/tlcehq/index.m3u8?is=72&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: TLC
-http://edge76.rcs-rds.ro/digiedge2/tlcehq/index.m3u8?is=72&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: TLC
-http://edge81.rcs-rds.ro/digiedge2/tlcehq/index.m3u8?is=72&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: TLC
-http://edge84.rcs-rds.ro/digiedge2/tlcehq/index.m3u8?is=72&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: E! Entertainment
-http://cdn02-edge24.rdsnet.ro/digiedge2/eentertainmentehq/index.m3u8?is=73&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO: E! Entertainment
-http://cdn02-edge30.rdsnet.ro/digiedge2/eentertainmentehq/index.m3u8?is=73&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO: E! Entertainment
-http://edge75.rdsnet.ro/digiedge2/eentertainmentehq/index.m3u8?is=73&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO: E! Entertainment
-http://edge76.rdsnet.ro/digiedge2/eentertainmentehq/index.m3u8?is=73&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO: E! Entertainment
-http://edge81.rdsnet.ro/digiedge2/eentertainmentehq/index.m3u8?is=73&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO: E! Entertainment
-http://edge84.rdsnet.ro/digiedge2/eentertainmentehq/index.m3u8?is=73&src=app&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: CBS Reality
-http://cdn02-edge24.rdsnet.ro/digiedge3/cbsrealityehq/chunklist_w1543359106.m3u8?is=65&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: CBS Reality
-http://edge30.rdsnet.ro/digiedge3/cbsrealityehq/chunklist_w1543359106.m3u8?is=65&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: CBS Reality
-http://edge75.rdsnet.ro/digiedge3/cbsrealityehq/chunklist_w1543359106.m3u8?is=65&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: CBS Reality
-http://edge76.rdsnet.ro/digiedge3/cbsrealityehq/chunklist_w1543359106.m3u8?is=65&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: CBS Reality
-http://edge81.rdsnet.ro/digiedge3/cbsrealityehq/chunklist_w1543359106.m3u8?is=65&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: CBS Reality
-http://edge84.rdsnet.ro/digiedge3/cbsrealityehq/chunklist_w1543359106.m3u8?is=65&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: Fishing & Hunting
-http://edge24.rdsnet.ro/digiedge3/fishingandhuntingehq/index.m3u8?is=92&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Fishing & Hunting
-http://edge30.rdsnet.ro/digiedge3/fishingandhuntingehq/index.m3u8?is=92&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Fishing & Hunting
-http://edge75.rdsnet.ro/digiedge3/fishingandhuntingehq/index.m3u8?is=92&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Fishing & Hunting
-http://edge76.rdsnet.ro/digiedge3/fishingandhuntingehq/index.m3u8?is=92&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Fishing & Hunting
-http://edge81.rdsnet.ro/digiedge3/fishingandhuntingehq/index.m3u8?is=92&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Fishing & Hunting
-http://edge84.rdsnet.ro/digiedge3/fishingandhuntingehq/index.m3u8?is=92&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: JimJam
-https://edge24.rcs-rds.ro/digiedge3/smil:jimjam.smil/index.m3u8?is=105&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: JimJam
-https://edge30.rcs-rds.ro/digiedge3/smil:jimjam.smil/index.m3u8?is=105&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: JimJam
-https://edge75.rcs-rds.ro/digiedge3/smil:jimjam.smil/index.m3u8?is=105&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: JimJam
-https://edge76.rcs-rds.ro/digiedge3/smil:jimjam.smil/index.m3u8?is=105&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: JimJam
-https://edge81.rcs-rds.ro/digiedge3/smil:jimjam.smil/index.m3u8?is=105&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: JimJam
-https://edge84.rcs-rds.ro/digiedge3/smil:jimjam.smil/index.m3u8?is=105&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-
-#EXTINF:-1,RO: Cartoon Network
-http://edge24.rdsnet.ro/digiedge3/cartoonnetworkemq/chunklist_w344432483.m3u8?is=89&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Cartoon Network
-http://edge30.rdsnet.ro/digiedge3/cartoonnetworkemq/chunklist_w344432483.m3u8?is=89&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Cartoon Network
-http://edge75.rdsnet.ro/digiedge3/cartoonnetworkemq/chunklist_w344432483.m3u8?is=89&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Cartoon Network
-http://edge76.rdsnet.ro/digiedge3/cartoonnetworkemq/chunklist_w344432483.m3u8?is=89&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Cartoon Network
-http://edge81.rdsnet.ro/digiedge3/cartoonnetworkemq/chunklist_w344432483.m3u8?is=89&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Cartoon Network
-http://edge84.rdsnet.ro/digiedge3/cartoonnetworkemq/chunklist_w344432483.m3u8?is=89&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: Boomerang
-http://edge24.rdsnet.ro/digiedge3/boomerangehq/index.m3u8?is=90&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Boomerang
-http://edge30.rdsnet.ro/digiedge3/boomerangehq/index.m3u8?is=90&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Boomerang
-http://edge75.rdsnet.ro/digiedge3/boomerangehq/index.m3u8?is=90&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Boomerang
-http://edge76.rdsnet.ro/digiedge3/boomerangehq/index.m3u8?is=90&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Boomerang
-http://edge81.rdsnet.ro/digiedge3/boomerangehq/index.m3u8?is=90&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Boomerang
-http://edge84.rdsnet.ro/digiedge3/boomerangehq/index.m3u8?is=90&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: Disney Channel
-http://edge24.rdsnet.ro/digiedge2/disneychannelehq/index.m3u8?is=17&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Disney Channel
-http://edge30.rdsnet.ro/digiedge2/disneychannelehq/index.m3u8?is=17&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Disney Channel
-http://edge75.rdsnet.ro/digiedge2/disneychannelehq/index.m3u8?is=17&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Disney Channel
-http://edge76.rdsnet.ro/digiedge2/disneychannelehq/index.m3u8?is=17&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Disney Channel
-http://edge81.rdsnet.ro/digiedge2/disneychannelehq/index.m3u8?is=17&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Disney Channel
-http://edge84.rdsnet.ro/digiedge2/disneychannelehq/index.m3u8?is=17&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Disney Junior
-http://edge24.rdsnet.ro/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Disney Junior
-http://edge30.rdsnet.ro/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Disney Junior
-http://edge75.rdsnet.ro/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Disney Junior
-http://edge76.rdsnet.ro/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Disney Junior
-http://edge81.rdsnet.ro/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Disney Junior
-http://edge84.rdsnet.ro/digiedge2/disneyjuniorehq/index.m3u8?is=18&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: Nickelodeon
-http://edge24.rdsnet.ro/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Nickelodeon
-http://edge30.rdsnet.ro/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Nickelodeon
-http://edge75.rdsnet.ro/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Nickelodeon
-http://edge76.rdsnet.ro/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Nickelodeon
-http://edge81.rdsnet.ro/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Nickelodeon
-http://edge84.rdsnet.ro/digiedge2/nickelodeonehq/index.m3u8?is=28&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: MiniMax
-http://edge24.rdsnet.ro/digiedge2/minimaxehq/index.m3u8?is=37&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: MiniMax
-http://edge30.rdsnet.ro/digiedge2/minimaxehq/index.m3u8?is=37&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: MiniMax
-http://edge75.rdsnet.ro/digiedge2/minimaxehq/index.m3u8?is=37&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: MiniMax
-http://edge76.rdsnet.ro/digiedge2/minimaxehq/index.m3u8?is=37&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: MiniMax
-http://edge81.rdsnet.ro/digiedge2/minimaxehq/index.m3u8?is=37&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: MiniMax
-http://edge84.rdsnet.ro/digiedge2/minimaxehq/index.m3u8?is=37&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: MegaMax
-http://edge24.rdsnet.ro/digiedge2/megamaxehq/index.m3u8?is=47&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: MegaMax
-http://edge30.rdsnet.ro/digiedge2/megamaxehq/index.m3u8?is=47&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: MegaMax
-http://edge75.rdsnet.ro/digiedge2/megamaxehq/index.m3u8?is=47&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: MegaMax
-http://edge76.rdsnet.ro/digiedge2/megamaxehq/index.m3u8?is=47&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: MegaMax
-http://edge81.rdsnet.ro/digiedge2/megamaxehq/index.m3u8?is=47&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: MegaMax
-http://edge84.rdsnet.ro/digiedge2/megamaxehq/index.m3u8?is=47&src=digi-online.ro&t=00000000000000000000000000000000
 
 #EXTINF:-1,RO: TVH
 https://ppext.arktv.ro/hls/channel7/adaptive.m3u8
@@ -701,35 +118,11 @@ https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:-1,RO: Realitatea TV
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:-1,RO: Realitatea TV
-http://edge24.rdsnet.ro/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Realitatea TV
-http://edge30.rdsnet.ro/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Realitatea TV
-http://edge75.rdsnet.ro/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Realitatea TV
-http://edge76.rdsnet.ro/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Realitatea TV
-http://edge81.rdsnet.ro/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Realitatea TV
-http://edge84.rdsnet.ro/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Realitatea TV
 http://46.20.136.59/live3/_definst_/realitatea/playlist.m3u8
 
 #EXTINF:-1,RO: Realitatea Plus
 http://195.42.138.43/livertmp/plus/chunklist.m3u8
 
-#EXTINF:-1,RO" Romania TV
-http://edge24.rdsnet.ro/digiedge2/romaniatvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO" Romania TV
-http://edge30.rdsnet.ro/digiedge2/romaniatvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO" Romania TV
-http://edge75.rdsnet.ro/digiedge2/romaniatvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO" Romania TV
-http://edge76.rdsnet.ro/digiedge2/romaniatvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO" Romania TV
-http://edge81.rdsnet.ro/digiedge2/romaniatvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO" Romania TV
-http://edge84.rdsnet.ro/digiedge2/romaniatvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1,RO: Romania TV
 http://ppext.arktv.ro/hls/channel6/adaptive.m3u8
 #EXTINF:-1,RO: Romania TV
@@ -761,71 +154,21 @@ http://cast.independentmedia.network:9090/seconds6hls/live.m3u8
 http://v9.arya.ro:8080/hls/jobtvhq.m3u8
 
 #EXTINF:-1,RO: Cinethronix
-https://edge24.rcs-rds.ro/digiedge3/smil:cinethronix.smil/playlist.m3u8?is=101&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: Cinethronix
-https://edge30.rcs-rds.ro/digiedge3/smil:cinethronix.smil/playlist.m3u8?is=101&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: Cinethronix
-https://edge75.rcs-rds.ro/digiedge3/smil:cinethronix.smil/playlist.m3u8?is=101&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: Cinethronix
-https://edge76.rcs-rds.ro/digiedge3/smil:cinethronix.smil/playlist.m3u8?is=101&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: Cinethronix
-https://edge81.rcs-rds.ro/digiedge3/smil:cinethronix.smil/playlist.m3u8?is=101&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: Cinethronix
-https://edge84.rcs-rds.ro/digiedge3/smil:cinethronix.smil/playlist.m3u8?is=101&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: Cinethronix
 http://webmobile.xdev.ro:81/tv25/playlist.m3u8
 
 #EXTINF:-1,RO: ONE TV
 http://onetv.srfms.com:1935/ONETV/livestream/playlist.m3u8
 
-#EXTINF:-1,RO: Travel Channel
-http://cdn02-edge24.rdsnet.ro/digiedge2/travelchannelehq/index.m3u8?is=21&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Travel Channel
-http://cdn02-edge30.rdsnet.ro/digiedge2/travelchannelehq/index.m3u8?is=21&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Travel Channel
-http://edge75.rdsnet.ro/digiedge2/travelchannelehq/index.m3u8?is=21&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Travel Channel
-http://edge76.rdsnet.ro/digiedge2/travelchannelehq/index.m3u8?is=21&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Travel Channel
-http://edge81.rdsnet.ro/digiedge2/travelchannelehq/index.m3u8?is=21&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Travel Channel
-http://edge84.rdsnet.ro/digiedge2/travelchannelehq/index.m3u8?is=21&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1,RO: Travel Mix
 https://ppext.arktv.ro/hls/channel1/adaptive.m3u8
 #EXTINF:-1,RO: Travel Mix
 http://89.38.8.131:39520
-
-#EXTINF:-1,RO: HGTV
-https://edge24.rcs-rds.ro/digiedge3/hgtvehq.stream/index.m3u8?is=103&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: HGTV
-https://edge30.rcs-rds.ro/digiedge3/hgtvehq.stream/index.m3u8?is=103&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: HGTV
-https://edge75.rcs-rds.ro/digiedge3/hgtvehq.stream/index.m3u8?is=103&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: HGTV
-https://edge76.rcs-rds.ro/digiedge3/hgtvehq.stream/index.m3u8?is=103&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: HGTV
-https://edge81.rcs-rds.ro/digiedge3/hgtvehq.stream/index.m3u8?is=103&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: HGTV
-https://edge84.rcs-rds.ro/digiedge3/hgtvehq.stream/index.m3u8?is=103&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-
 
 #EXTINF:-1,RO: Agro TV
 http://agrotv.streamnet.ro:9000
 
 #EXTINF:-1,RO: B1 TV
 http://stream.adunity.com/b1/b1.m3u8
-#EXTINF:-1,RO: B1 TV
-http://edge24.rdsnet.ro/digiedge2/b1tvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: B1 TV
-http://edge30.rdsnet.ro/digiedge2/b1tvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: B1 TV
-http://edge75.rdsnet.ro/digiedge2/b1tvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: B1 TV
-http://edge76.rdsnet.ro/digiedge2/b1tvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: B1 TV
-http://edge81.rdsnet.ro/digiedge2/b1tvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: B1 TV
-http://edge84.rdsnet.ro/digiedge2/b1tvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
 
 #EXTINF:-1,RO: Trinitas
 http://46.20.136.59/live3/_definst_/trinitas/playlist.m3u8
@@ -1062,18 +405,6 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/18.m3u8/Level(545259)?st
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/18.m3u8/Level(545259)?start=LIVE&end=END
 
 #EXTINF:-1,RO: Kiss TV
-http://edge24.rdsnet.ro/digiedge2/kisstvehq/index.m3u8?is=34&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Kiss TV
-http://edge30.rdsnet.ro/digiedge2/kisstvehq/index.m3u8?is=34&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Kiss TV
-http://edge75.rdsnet.ro/digiedge2/kisstvehq/index.m3u8?is=34&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Kiss TV
-http://edge76.rdsnet.ro/digiedge2/kisstvehq/index.m3u8?is=34&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Kiss TV
-http://edge81.rdsnet.ro/digiedge2/kisstvehq/index.m3u8?is=34&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Kiss TV
-http://edge84.rdsnet.ro/digiedge2/kisstvehq/index.m3u8?is=34&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Kiss TV
 http://185.162.141.69:20077/kiss
 #EXTINF:-1,RO: Kiss TV
 https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
@@ -1083,55 +414,12 @@ http://82.76.40.76/utvedge/utvlivehls/chunklist_w894794180.m3u8
 #EXTINF:-1,RO: U TV
 http://82.76.40.76:80/utvedge/utvlive/index.m3u8
 #EXTINF:-1,RO: U TV
-http://edge24.rdsnet.ro/utvedge/utvlivehls/index.m3u8
-#EXTINF:-1,RO: U TV
-http://edge30.rdsnet.ro/utvedge/utvlivehls/utv.m3u8
-#EXTINF:-1,RO: U TV
-http://edge75.rdsnet.ro/utvedge/utvlivehls/utv.m3u8
-#EXTINF:-1,RO: U TV
-http://edge76.rdsnet.ro/utvedge/utvlivehls/utv.m3u8
-#EXTINF:-1,RO: U TV
-http://edge81.rdsnet.ro/utvedge/utvlivehls/utv.m3u8
-#EXTINF:-1,RO: U TV
-http://edge84.rdsnet.ro/utvedge/utvlivehls/utv.m3u8
-#EXTINF:-1,RO: U TV
 http://82.76.40.76/utvedge/utvlive/index.m3u8
 
 #EXTINF:-1,RO: H!T Music Channel HU
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 #EXTINF:-1,RO: 1 Music Channel HU
 http://stream.1music.hu/stream/1music.m3u8
-
-#EXTINF:-1,RO: H!T Music Channel
-http://edge24.rdsnet.ro/digiedge2/hitmusicchannelehq/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: H!T Music Channel
-http://edge30.rdsnet.ro/digiedge2/hitmusicchannelehq/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: H!T Music Channel
-http://edge75.rdsnet.ro/digiedge2/hitmusicchannelehq/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: H!T Music Channel
-http://edge76.rdsnet.ro/digiedge2/hitmusicchannelehq/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: H!T Music Channel
-http://edge81.rdsnet.ro/digiedge2/hitmusicchannelehq/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: H!T Music Channel
-http://edge84.rdsnet.ro/digiedge2/hitmusicchannelehq/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
-
-#EXTINF:-1,RO: ProFM
-http://edge126.rdsnet.ro/profm/profm/index.m3u8
-#EXTINF:-1,RO: ProFM DanceFM
-http://edge126.rdsnet.ro/profm/dancefm/index.m3u8
-
-#EXTINF:-1,RO: MTV Europe
-https://edge24.rcs-rds.ro/digiedge3/mtveuropeehq.stream/index.m3u8?is=104&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: MTV Europe
-https://edge30.rcs-rds.ro/digiedge3/mtveuropeehq.stream/index.m3u8?is=104&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: MTV Europe
-https://edge75.rcs-rds.ro/digiedge3/mtveuropeehq.stream/index.m3u8?is=104&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: MTV Europe
-https://edge76.rcs-rds.ro/digiedge3/mtveuropeehq.stream/index.m3u8?is=104&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: MTV Europe
-https://edge81.rcs-rds.ro/digiedge3/mtveuropeehq.stream/index.m3u8?is=104&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
-#EXTINF:-1,RO: MTV Europe
-https://edge84.rcs-rds.ro/digiedge3/mtveuropeehq.stream/index.m3u8?is=104&src=app&t=00000000000000000000000000000000&s=site&sn=digionline.ro&p=browser
 
 #EXTINF:-1,RO: Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
@@ -1161,49 +449,10 @@ http://v6.arya.ro:8080/hls/traditiitv.m3u8
 #EXTINF:-1,RO: Etno TV
 http://46.20.136.59/live3/_definst_/etno/playlist.m3u8
 
-#EXTINF:-1,RO: Mezzo
-http://cdn02-edge24.rdsnet.ro/digiedge3/mezzoehq/index.m3u8?is=36&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Mezzo
-http://cdn02-edge30.rdsnet.ro/digiedge3/mezzoehq/index.m3u8?is=36&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Mezzo
-http://edge75.rdsnet.ro/digiedge3/mezzoehq/index.m3u8?is=36&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Mezzo
-http://edge76.rdsnet.ro/digiedge3/mezzoehq/index.m3u8?is=36&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Mezzo
-http://edge81.rdsnet.ro/digiedge3/mezzoehq/index.m3u8?is=36&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,RO: Mezzo
-http://edge84.rdsnet.ro/digiedge3/mezzoehq/index.m3u8?is=36&src=app&t=00000000000000000000000000000000
-
 #EXTINF:-1,RO: Magic TV
 https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
 #EXTINF:-1,RO: Magic TV
 http://46.20.136.59/live3/_definst_/magictv/playlist.m3u8
-
-#EXTINF:-1,RO: Slager TV
-http://edge24.rdsnet.ro/digiedge3/slagertvehq/chunklist_w1067085675.m3u8?is=93&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=slagertv&p=browser&pe=site
-#EXTINF:-1,RO: Slager TV
-http://edge30.rdsnet.ro/digiedge3/slagertvehq/chunklist_w1067085675.m3u8?is=93&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=slagertv&p=browser&pe=site
-#EXTINF:-1,RO: Slager TV
-http://edge75.rdsnet.ro/digiedge3/slagertvehq/chunklist_w1067085675.m3u8?is=93&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=slagertv&p=browser&pe=site
-#EXTINF:-1,RO: Slager TV
-http://edge76.rdsnet.ro/digiedge3/slagertvehq/chunklist_w1067085675.m3u8?is=93&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=slagertv&p=browser&pe=site
-#EXTINF:-1,RO: Slager TV
-http://edge81.rdsnet.ro/digiedge3/slagertvehq/chunklist_w1067085675.m3u8?is=93&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=slagertv&p=browser&pe=site
-#EXTINF:-1,RO: Slager TV
-http://edge84.rdsnet.ro/digiedge3/slagertvehq/chunklist_w1067085675.m3u8?is=93&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=slagertv&p=browser&pe=site
-
-#EXTINF:-1,RO: 1 Music Channel
-http://edge24.rdsnet.ro/digiedge2/musicchannelehq/index.m3u8?is=25&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: 1 Music Channel
-http://edge30.rdsnet.ro/digiedge2/musicchannelehq/index.m3u8?is=25&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: 1 Music Channel
-http://edge75.rdsnet.ro/digiedge2/musicchannelehq/index.m3u8?is=25&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: 1 Music Channel
-http://edge76.rdsnet.ro/digiedge2/musicchannelehq/index.m3u8?is=25&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: 1 Music Channel
-http://edge81.rdsnet.ro/digiedge2/musicchannelehq/index.m3u8?is=25&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,RO: 1 Music Channel
-http://edge84.rdsnet.ro/digiedge2/musicchannelehq/index.m3u8?is=25&src=digi-online.ro&t=00000000000000000000000000000000
 
 #EXTINF:-1,RO: Orizont TV
 http://s3.streamnet.ro:8048/stream.flv
@@ -1215,43 +464,6 @@ http://89.45.164.236:8048/stream.flv
 http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
 #EXTINF:-1,RO: Tezaur TV
 http://163.172.172.80:8080/hls/tezaurtv.m3u8
-
-#EXTINF:-1,France24
-http://edge24.rdsnet.ro/digiedge2/france24ehq/index.m3u8?is=48&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,France24
-http://edge30.rdsnet.ro/digiedge2/france24ehq/index.m3u8?is=48&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,France24
-http://edge75.rdsnet.ro/digiedge2/france24ehq/index.m3u8?is=48&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,France24
-http://edge76.rdsnet.ro/digiedge2/france24ehq/index.m3u8?is=48&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,France24
-http://edge81.rdsnet.ro/digiedge2/france24ehq/index.m3u8?is=48&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,France24
-http://edge84.rdsnet.ro/digiedge2/france24ehq/index.m3u8?is=48&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1,TV5 MONDE
-http://cdn02-edge24.rdsnet.ro/digiedge2/tv5mondeehq/index.m3u8?is=75&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,TV5 MONDE
-http://cdn02-edge30.rdsnet.ro/digiedge2/tv5mondeehq/index.m3u8?is=75&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,TV5 MONDE
-http://edge75.rdsnet.ro/digiedge2/tv5mondeehq/index.m3u8?is=75&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,TV5 MONDE
-http://edge76.rdsnet.ro/digiedge2/tv5mondeehq/index.m3u8?is=75&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,TV5 MONDE
-http://edge81.rdsnet.ro/digiedge2/tv5mondeehq/index.m3u8?is=75&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,TV5 MONDE
-http://edge84.rdsnet.ro/digiedge2/tv5mondeehq/index.m3u8?is=75&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,CNN
-http://cdn02-edge24.rdsnet.ro/digiedge3/cnnehq/index.m3u8?is=63&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,CNN
-http://cdn02-edge30.rdsnet.ro/digiedge3/cnnehq/index.m3u8?is=63&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,CNN
-http://edge75.rdsnet.ro/digiedge3/cnnehq/index.m3u8?is=63&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,CNN
-http://edge76.rdsnet.ro/digiedge3/cnnehq/index.m3u8?is=63&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,CNN
-http://edge81.rdsnet.ro/digiedge3/cnnehq/index.m3u8?is=63&src=app&t=00000000000000000000000000000000
-#EXTINF:-1,CNN
-http://edge84.rdsnet.ro/digiedge3/cnnehq/index.m3u8?is=63&src=app&t=00000000000000000000000000000000
 
 #EXTINF:-1,Ibiza Global TV
 http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
