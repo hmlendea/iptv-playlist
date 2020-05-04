@@ -1,24 +1,43 @@
 #EXTM3U
 
+#EXTINF:-1,MD: 10TV HD
+http://212.0.215.115/10TVHD/playlist.m3u8
+
+#EXTINF:-1,MD: Accent TV
+http://video.a-tv.md/hls/accent.m3u8
 #EXTINF:-1,MD: Accent TV
 http://video.a-tv.md/hls/accent.m3u8
 
 #EXTINF:-1,MD: Agro TV
 https://web.sats.gstv.tech/cpl11/540d63d5-8910-4a20-ac15-a7bfcca9dbd3/agrotvweb.m3u8
 
-#EXTINF:-1,MD: Balti TV
-http://77.89.199.174:81/hls/live2.m3u8
+#EXTINF:-1,MD: Axial TV
+http://212.0.215.115/AxialTV/playlist.m3u8
 
+#EXTINF:-1,MD: Bălți TV
+http://77.89.199.174:81/hls/live2.m3u8
+#EXTINF:-1,MD: Bălți TV
+http://77.89.199.174:8000/play/1024/index.m3u8
+
+#EXTINF:-1,MD: Busuioc TV
+http://212.0.215.115/Busuioc/playlist.m3u8
 #EXTINF:-1,MD: Busuioc TV
 https://web.sats.gstv.tech/cpl/21b7bed4-9e50-4bed-8668-9be455cc4e11/busuioctv.m3u8
 
 #EXTINF:-1,MD: Canal 2
 http://91.230.214.75/LIVE/2/index.m3u8
+#EXTINF:-1,MD: Canal 2
+http://212.0.215.115/Canal2/playlist.m3u8
+
 #EXTINF:-1,MD: Canal 3
 http://91.230.214.75/LIVE/3/2000.m3u8
 #EXTINF:-1,MD: Canal 3
+http://212.0.215.115/Canal3/playlist.m3u8
+#EXTINF:-1,MD: Canal 3
 http://37.233.27.53:8893
 
+#EXTINF:-1,MD: Canal Regional
+http://212.0.215.115/Regional/playlist.m3u8
 #EXTINF:-1,MD: Canal Regional
 http://canalregional.md/tv/live/canalregional.m3u8
 
@@ -36,6 +55,11 @@ http://goldtv.md:1935/live/GOLDTV1.stream_aac/chunklist_w1634790422.m3u8
 #EXTINF:-1,MD: Gold TV
 http://goldtv.md:1935/live/GOLDTV.stream_aac/playlist.m3u8
 
+#EXTINF:-1,MD: ITV Moldova
+http://212.0.215.106/ITV/playlist.m3u8
+
+#EXTINF:-1,MD: Jurnal TV
+http://212.0.215.115/JurnalTVHD/playlist.m3u8
 #EXTINF:-1,MD: Jurnal TV
 http://flux.jtv.md/jtv-540p.flv
 #EXTINF:-1,MD: Jurnal TV
@@ -56,15 +80,29 @@ http://live.trm.md:1935/live/_definst_/MoldovaDoi2/playlist.m3u8
 
 #EXTINF:-1,MD: Noroc TV SD
 http://live.noroc.tv/hls/noroctv_chisinau.m3u8
+#EXTINF:-1,MD: Noroc TV
+http://212.0.215.115/NorocTV/playlist.m3u8
 
 #EXTINF:-1,MD: NTV Moldova
 http://93.115.137.166/hls/ntvm.m3u8
 
+#EXTINF:-1,MD: OrizontTV
+http://212.0.215.115/OrizontTV/playlist.m3u8
+
+#EXTINF:-1,MD: Primul în Moldova
+http://212.0.215.115/PrimulHD/playlist.m3u8
+#EXTINF:-1,MD: Primul în Moldova
+https://video.a-tv.md/hls/tv.m3u8
+
 #EXTINF:-1,MD: Pro 2
 http://hls.protv.md/acasatv/acasatv.m3u8
+#EXTINF:-1,MD: Pro 2
+http://212.0.215.115/PRO2/playlist.m3u8
 
 #EXTINF:-1,MD: ProTV Chisinau
 http://hls.protv.md/hls/protv.m3u8
+#EXTINF:-1,MD: ProTV Chisinau
+http://212.0.215.115/ProTV/playlist.m3u8
 
 #EXTINF:-1,MD: ProTV Moldova
 http://hls.protv.md/hls/protv.m3u8
@@ -75,12 +113,34 @@ https://livebeta.publika.md/LIVE/P/6810.m3u8
 https://livebeta.publika.md/LIVE/P/1500.m3u8
 #EXTINF:-1,MD: Publika TV
 https://livebeta.publika.md/LIVE/P/1000.m3u8
+#EXTINF:-1,MD: Publika TV
+http://212.0.215.115/PublikaTV/playlist.m3u8
+#EXTINF:-1,MD: Publika TV
+http://212.0.215.115/PublikaTV/playlist.m3u8
+
+
+#EXTINF:-1,MD: RU TV
+http://212.0.215.115/RuTV/playlist.m3u8
+
+#EXTINF:-1,MD: Soroca TV
+http://212.0.215.115/SorTV/playlist.m3u8
+
+#EXTINF:-1,MD: Studio-L
+http://212.0.215.115/StudioL/playlist.m3u8
 
 #EXTINF:-1,MD: Tele M
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 
+#EXTINF:-1,MD: Televiziunea Centrală
+http://212.0.215.106/EuroTV/playlist.m3u8
+
 #EXTINF:-1,MD: Tezaur TV
 http://tezaur.mlbfan.org/tezaur/index.m3u8
+#EXTINF:-1,MD: Tezaur TV
+http://212.0.215.115/TezaurFolcTVHD/playlist.m3u8
+
+#EXTINF:-1,MD: THT Music
+http://212.0.215.115/THTMusic/playlist.m3u8
 
 #EXTINF:-1,MD: TV 8
 http://live.cdn.tv8.md/TV7/video2.m3u8?token=1
@@ -88,6 +148,11 @@ http://live.cdn.tv8.md/TV7/video2.m3u8?token=1
 http://live.cdn.tv8.md/TV7/tracks-v1a1/index.m3u8?token=1
 #EXTINF:-1,MD: TV 8
 http://live.cdn.tv8.md/TV7/tracks-v2a1/mono.m3u8
+#EXTINF:-1,MD: TV 8
+http://212.0.215.115/TV8/playlist.m3u8
+
+#EXTINF:-1,MD: TV Prim
+http://212.0.215.115/TVPrim/playlist.m3u8
 
 #EXTINF:-1,MD: TVR Moldova
 http://mn-nl.mncdn.com/tvr_moldova/smil:TVRMOLDOVA.smil/playlist.m3u8
@@ -96,3 +161,6 @@ http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
 
 #EXTINF:-1,MD: Vocea Basarabiei
 http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
+
+#EXTINF:-1,MD: ZonaM
+http://212.0.215.115/ZonaM/playlist.m3u8
