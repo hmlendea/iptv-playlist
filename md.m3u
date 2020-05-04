@@ -157,6 +157,8 @@ http://212.0.215.115/TVPrim/playlist.m3u8
 #EXTINF:-1,MD: TVR Moldova
 http://mn-nl.mncdn.com/tvr_moldova/smil:TVRMOLDOVA.smil/playlist.m3u8
 #EXTINF:-1,MD: TVR Moldova
+http://mn-nl.mncdn.com/tvr_moldova_live/tvr_moldova_live2/playlist.m3u8
+#EXTINF:-1,MD: TVR Moldova
 http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
 
 #EXTINF:-1,MD: Vocea Basarabiei
