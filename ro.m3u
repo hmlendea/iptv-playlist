@@ -331,11 +331,11 @@ http://edge126.rdsnet.ro/profm/profm/index.m3u8
 http://edge126.rdsnet.ro/profm/dancefm/index.m3u8
 
 #EXTINF:-1,RO: Pro Gold
-https://vid.hls.protv.ro/progold/progold_3_34/index.m3u8?1
+https://vid.hls.protv.ro/progoldn/progold_1_34/index.m3u8?1
 #EXTINF:-1,RO: Pro Gold
 https://vid.hls.protv.ro/progold/progold_2_34/index.m3u8?1
 #EXTINF:-1,RO: Pro Gold
-https://vid.hls.protv.ro/progoldn/progold_1_34/index.m3u8?1
+https://vid.hls.protv.ro/progold/progold_3_34/index.m3u8?1
 
 #EXTINF:-1,RO: Pro TV
 http://89.38.8.131:39532
