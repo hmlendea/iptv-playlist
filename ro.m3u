@@ -325,9 +325,15 @@ http://89.45.164.236:8048/stream.flv
 #EXTINF:-1,RO: Orizont TV
 https://ch.iptvmate.net/deb0b2f69ed3462bfdb4b686a387fc17.m3u8
 
-#EXTINF:-1,RO: ProFM
+#EXTINF:-1,RO: Pro 2
+ttps://vid.hls.protv.ro/pro2n/pro2.m3u8?1
+
+#EXTINF:-1,RO: Pro Cinema
+https://vid.hls.protv.ro/procineman/procinema.m3u8?1
+
+#EXTINF:-1,RO: Pro FM
 http://edge126.rdsnet.ro/profm/profm/index.m3u8
-#EXTINF:-1,RO: ProFM DanceFM
+#EXTINF:-1,RO: Pro FM DanceFM
 http://edge126.rdsnet.ro/profm/dancefm/index.m3u8
 
 #EXTINF:-1,RO: Pro Gold
@@ -354,9 +360,10 @@ https://vid.hls.protv.ro/protvnews/protvnews_high/index.m3u8?1
 https://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
 #EXTINF:-1,RO: Pro TV News
 http://stream1.protv.ro/news/stream%3a1.stream/playlist.m3u8
-
 #EXTINF:-1,RO: Pro X
 https://vid.hls.protv.ro/proxhdn/proxhd_high/index.m3u8?1
+#EXTINF:-1,RO: Pro X
+https://vid.hls.protv.ro/proxhdn/proxhd.m3u8?1
 
 #EXTINF:-1,RO: Profit.ro
 https://stream1.profit.ro:1945/profit/livestream/playlist.m3u
