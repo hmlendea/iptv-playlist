@@ -79,6 +79,11 @@ http://89.38.8.131:39553/
 #EXTINF:-1,RO: Ardeal TV
 http://89.36.196.22:88/live/livestream/playlist.m3u8
 
+#EXTINF:-1,RO: AXN Black
+http://193.33.39.108:8111/11003
+#EXTINF:-1,RO: AXN White
+http://193.33.39.108:8111/11002
+
 #EXTINF:-1,RO: B1 TV
 http://stream.adunity.com/b1/b1.m3u8
 #EXTINF:-1,RO: B1 TV
