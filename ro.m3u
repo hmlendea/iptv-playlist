@@ -417,6 +417,9 @@ https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
 #EXTINF:-1,RO: Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w231941046_b1600000.m3u8?publisher=83
 
+#EXTINF:-1,RO: RO Channel
+http://whoptv.on-the-web.tv:8081/diretta/direttats/playlist.m3u8
+
 #EXTINF:-1,RO: Romania TV
 http://ppext.arktv.ro/hls/channel6/adaptive.m3u8
 #EXTINF:-1,RO: Romania TV
