@@ -413,6 +413,8 @@ https://ch.iptvmate.net/625ea96786f2341ff1ae4983c8e44b08.m3u8
 
 #EXTINF:-1 ,RO: Qub TV
 http://109.197.80.5:7263
+#EXTINF:-1 ,RO: Qub TV
+https://live2.djemba.ro/qub/live/playlist.m3u8
 
 #EXTINF:-1,RO: Radio m2o TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
