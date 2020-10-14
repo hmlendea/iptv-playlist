@@ -42,6 +42,9 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LI
 #EXTINF:-1,RO: Alege TV
 http://live.alege.tv:8080/hls/movie.m3u8
 
+#EXTINF:-1,RO: Aleph News
+http://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/chunklist_b3098304.m3u8
+
 #EXTINF:-1,RO: Alfa & Omega TV
 http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
 #EXTINF:-1,RO: Alfa & Omega TV
