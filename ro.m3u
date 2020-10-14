@@ -140,7 +140,9 @@ http://fms91.mediadirect.ro:1937/live3/_definst_/canal33_low/playlist.m3u8?publi
 #EXTINF:-1,RO: Canal33
 https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/chunklist_w1456597134_b680000.m3u8
 #EXTINF:-1,RO: Canal33
-http://46.20.136.59/live3/_definst_/canal33/playlist.m3u8
+http://fms-https1.mediadirect.ro:1935/live3/_definst_/canal33/playlist.m3u8
+#EXTINF:-1,RO: Canal33
+http://fms-https1.mediadirect.ro/live3/_definst_/canal33/playlist.m3u8
 
 #EXTINF:-1,RO: Cinemaraton
 https://cmn.digitalcable.ro/free/cm/playlist.m3u8
@@ -337,9 +339,21 @@ https://ch.iptvmate.net/deb0b2f69ed3462bfdb4b686a387fc17.m3u8
 
 #EXTINF:-1,RO: Pro 2
 ttps://vid.hls.protv.ro/pro2n/pro2.m3u8?1
+#EXTINF:-1,RO: Pro 2
+https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
+#EXTINF:-1,RO: Pro 2
+https://vid.hls.protv.ro/pro2n/pro2_2_34/index.m3u8?1
+#EXTINF:-1,RO: Pro 2
+https://vid.hls.protv.ro/pro2n/pro2_1_34/index.m3u8?1
 
 #EXTINF:-1,RO: Pro Cinema
 https://vid.hls.protv.ro/procineman/procinema.m3u8?1
+#EXTINF:-1,RO: Pro Cinema
+https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
+#EXTINF:-1,RO: Pro Cinema
+https://vid.hls.protv.ro/procineman/procinema_2_34/index.m3u8?1
+#EXTINF:-1,RO: Pro Cinema
+https://vid.hls.protv.ro/procineman/procinema_1_34/index.m3u8?1
 
 #EXTINF:-1,RO: Pro FM
 http://edge126.rdsnet.ro/profm/profm/index.m3u8
@@ -396,6 +410,9 @@ https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 https://stream1.profit.ro:1945/profit/livestream/chunklist_w1969009807.m3u8
 #EXTINF:-1,RO: Profit.ro
 https://ch.iptvmate.net/625ea96786f2341ff1ae4983c8e44b08.m3u8
+
+#EXTINF:-1 ,RO: Qub TV
+http://109.197.80.5:7263
 
 #EXTINF:-1,RO: Radio m2o TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
