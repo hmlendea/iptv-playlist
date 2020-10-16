@@ -209,6 +209,9 @@ http://212.0.215.115/DisneyChannel/playlist.m3u8
 #EXTINF:-1,RO: DJing TV
 https://www.djing.com/tv/hits.m3u8
 
+#EXTINF:-1,RO: Dotto TV
+https://dotto.edvr.ro/index.m3u8
+
 #EXTINF:-1,RO: Est TV
 http://89.38.8.131:39519
 #EXTINF:-1,RO: Est TV
@@ -289,10 +292,15 @@ http://cast.independentmedia.network:9090/seconds6hls/live.m3u8
 #EXTINF:-1,RO: Magic TV
 https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
 #EXTINF:-1,RO: Magic TV
+https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/chunklist_w1162027400_b300000.m3u8?publisher=83
+#EXTINF:-1,RO: Magic TV
 http://46.20.136.59/live3/_definst_/magictv/playlist.m3u8
 
 #EXTINF:-1,RO: Media TV
 http://webmobile.xdev.ro:81/tv22/playlist.m3u8
+
+#EXTINF:-1,RO: Metropola TV
+http://cdn.metropolatv.ro:9090/seconds3hls/live.m3u8
 
 #EXTINF:-1,RO: MiniMax
 http://212.0.215.115/Minimax/playlist.m3u8
@@ -458,6 +466,8 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
 #EXTINF:-1,RO: Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w231941046_b1600000.m3u8?publisher=83
+#EXTINF:-1,RO: Rock TV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w100091528_b1600000.m3u8?publisher=83
 
 #EXTINF:-1,RO: RO Channel
 http://whoptv.on-the-web.tv:8081/diretta/direttats/playlist.m3u8
@@ -618,6 +628,8 @@ https://ch.iptvmate.net/40c38d7ce8e052f0647ed5c4056dbaba.m3u8
 http://mn-nl.mncdn.com/tvr_i/smil:TVRI.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR International
 http://mn-nl.mncdn.com/tvr_i_live/smil:tvr_i_live.smil/playlist.m3u8
+#EXTINF:-1,RO: TVR International
+https://mn-nl.mncdn.com/tvr_i_live/smil:tvr_i_live.smil/chunklist_b2564000.m3u8
 #EXTINF:-1,RO: TVR International
 http://89.136.209.33:1935/liveorigin/TVRI.stream/chunklist.m3u8
 
