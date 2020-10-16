@@ -67,14 +67,25 @@ https://ch.iptvmate.net/b780946a8de8f0ebeeed1f43b4ca9582.m3u8
 #EXTINF:-1,RO: Alpha Media TV
 http://webmobile.xdev.ro:81/tv27/playlist.m3u8
 
+#EXTINF:-1,RO: Antena 1
+https://tvhd-online.com/a1.m3u8
+
+#EXTINF:-1,RO: Antena 3
+https://tvhd-online.com/a3.m3u8
+
 #EXTINF:-1,RO: Antena Comedy
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
 #EXTINF:-1,RO: Antena Comedy
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b1000000.m3u8
+
 #EXTINF:-1,RO: Antena Cook
 http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
+
 #EXTINF:-1,RO: Antena Monden
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
+
+#EXTINF:-1,RO: Antena Stars
+https://tvhd-online.com/astar.m3u8
 
 #EXTINF:-1,RO: Arcadia World
 http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
@@ -187,7 +198,7 @@ http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
 #EXTINF:-1,RO: Digi24
 http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
 #EXTINF:-1,RO: Digi24
-http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
+https://edge81.rcs-rds.ro/V4-6827572-9a1b54e2170ac14cf3814de473ab269a-3155703410-0-1602841092-487-digi24/digi24/digi24hq.stream/chunklist.m3u8
 
 #EXTINF:-1,RO: Digi Film
 http://82.76.252.26:82/tc/7/7hq/01.m3u8
@@ -213,6 +224,9 @@ http://212.0.215.115/Favorit/playlist.m3u8
 
 #EXTINF:-1,RO: Gurinel TV
 http://212.0.215.115/Gurinel/playlist.m3u8
+
+#EXTINF:-1,RO: Happy Channel
+https://tvhd-online.com/happy.m3u8
 
 #EXTINF:-1,RO: Iasi TV Life
 http://webmobile.xdev.ro:81/tv24/playlist.m3u8
