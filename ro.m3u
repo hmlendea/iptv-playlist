@@ -390,6 +390,8 @@ https://vid.hls.protv.ro/progold/progold_1_34/index.m3u8?1
 #EXTINF:-1,RO: Pro TV
 http://89.38.8.131:39532
 #EXTINF:-1,RO: Pro TV
+https://vid.hls.protv.ro/protvhdn/protvhd.m3u8?1
+#EXTINF:-1,RO: Pro TV
 https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
 #EXTINF:-1,RO: Pro TV
 https://vid.hls.protv.ro/protvhdn/protvhd_2_34/index.m3u8?1
@@ -404,6 +406,8 @@ https://vid.hls.protv.ro/protvnews/protvnews_high/index.m3u8?1
 https://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
 #EXTINF:-1,RO: Pro TV News
 http://stream1.protv.ro/news/stream%3a1.stream/playlist.m3u8
+#EXTINF:-1,RO: Pro TV News
+http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8
 
 #EXTINF:-1,RO: Pro X
 https://vid.hls.protv.ro/proxhdn/proxhd_high/index.m3u8?1
