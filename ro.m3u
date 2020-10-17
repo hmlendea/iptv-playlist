@@ -396,6 +396,8 @@ https://vid.hls.protv.ro/progold/progold_2_34/index.m3u8?1
 https://vid.hls.protv.ro/progold/progold_1_34/index.m3u8?1
 
 #EXTINF:-1,RO: Pro TV
+http://protv-iptv.duckdns.org:39532
+#EXTINF:-1,RO: Pro TV
 http://89.38.8.131:39532
 #EXTINF:-1,RO: Pro TV
 https://vid.hls.protv.ro/protvhdn/protvhd.m3u8?1
