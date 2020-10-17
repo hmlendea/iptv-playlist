@@ -123,9 +123,9 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 
 #EXTINF:-1,RO: Bucovina TV
-http://46.4.14.12:9999/btvsvlive/playlist.m3u8
+http://live-iptv-watch.duckdns.org:9999/btvsvlive/playlist.m3u8
 #EXTINF:-1,RO: Bucovina TV
-http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
+http://live-iptv-watch.duckdns.org:9999/btvsvlive/btvsvlive/playlist.m3u8
 #EXTINF:-1,RO: Bucovina TV
 https://ch.iptvmate.net/34bf0fd9c6abd39babdbacb463fb2fb1.m3u8
 #EXTINF:-1,RO: Bucovina TV
@@ -262,7 +262,7 @@ http://83.103.145.35:8001
 #EXTINF:-1,RO: Intermedia Suceava
 http://83.103.150.198:8080
 #EXTINF:-1,RO: Intermedia Suceava
-http://46.4.14.12:9999/intermedia1/playlist.m3u8
+http://live-iptv-watch.duckdns.org:9999/intermedia1/playlist.m3u8
 
 #EXTINF:-1,RO: Job TV
 http://v9.arya.ro:8080/hls/jobtvhq.m3u8
