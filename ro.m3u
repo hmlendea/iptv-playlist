@@ -133,13 +133,13 @@ https://ch.iptvmate.net/8638921bf17f446eeb1661b195d2e7ca.m3u8
 #EXTINF:-1,RO: Bucovina TV
 
 #EXTINF:-1,RO: București TV
+http://iptv-online.duckdns.org:39459
+#EXTINF:-1,RO: București TV
 https://ppext.arktv.ro/hls/Channel3/adaptive.m3u8
 #EXTINF:-1,RO: București TV
 https://ppext.arktv.ro/hls/channel3/bitrate5.m3u8
 #EXTINF:-1,RO: București TV
 https://ppext.arktv.ro/hls/channel3/bitrate4.m3u8
-#EXTINF:-1,RO: București TV
-http://89.38.8.130:39459
 
 #EXTINF:-1,RO: Campus TV Buzau
 http://82.208.182.135:8080
@@ -253,8 +253,6 @@ http://webmobile.xdev.ro:81/tv6/playlist.m3u8
 
 #EXTINF:-1,RO: Info HD
 http://iptv-watch.duckdns.org:8080/hls/InfoHd.m3u8
-#EXTINF:-1,RO: Info HD
-http://163.172.172.80:8080/hls/InfoHd.m3u8
 
 #EXTINF:-1,RO: Informatia TV
 http://s1.streamnet.ro:8014/stream.flv
@@ -282,12 +280,6 @@ http://kapital-tv.duckdns.org:1935/live/livestream/playlist.m3u
 http://kapital-tv.duckdns.org:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,RO: Kapital TV
 http://iptv-watch.duckdns.org:8080/hls/livestream.m3u8
-#EXTINF:-1,RO: Kapital TV
-http://95.77.97.220:1935/live/livestream/playlist.m3u
-#EXTINF:-1,RO: Kapital TV
-http://95.77.97.220:1935/live/livestream/playlist.m3u8
-#EXTINF:-1,RO: Kapital TV
-http://163.172.172.80:8080/hls/livestream.m3u8
 
 #EXTINF:-1,RO: Kiss TV
 http://185.162.141.69:20077/kiss
@@ -544,8 +536,6 @@ http://iptv-watch.duckdns.org:8080/hls/tezaurtv.m3u8
 http://tezaur-tv.duckdns.org:1935/live/_definst_/tezaurtv/playlist.m3u8
 #EXTINF:-1,RO: Tezaur TV
 http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
-#EXTINF:-1,RO: Tezaur TV
-http://163.172.172.80:8080/hls/tezaurtv.m3u8
 
 #EXTINF:-1,RO: TL Plus
 http://nginx.arya.ro:8080/hls/tlplus.m3u8
@@ -583,16 +573,16 @@ http://85.186.146.34:8080
 https://ch.iptvmate.net/0a00fed7fb7f4e9049d36b64391bfe96.m3u8
 
 #EXTINF:-1,RO: TVSat
-http://89.38.8.130:39443
+http://iptv-online.duckdns.org:39443
 #EXTINF:-1,RO: TVSat
 https://ch.iptvmate.net/cad4c46912403e9f067ca9d10387d1e9.m3u8
 
 #EXTINF:-1,RO: TV Sud Est
-http://89.38.8.130:39419
+http://iptv-online.duckdns.org:39419
 #EXTINF:-1,RO: TV Sud Est
 https://ch.iptvmate.net/d70fbf6bb5de6d71ac64f359ada1342b.m3u8
 #EXTINF:-1,RO: TV Sud Est TVSAT
-http://89.38.8.130:39443
+http://iptv-online.duckdns.org:39443
 
 #EXTINF:-1,RO: TV Sud Gorj
 http://nginx.arya.ro:8080/hls/tvsudmobil.m3u8
@@ -603,9 +593,9 @@ http://ppext.arktv.ro/hls/channel7/adaptive.m3u8
 http://ppext.arktv.ro/hls/channel7/bitrate4.m3u8
 
 #EXTINF:-1,RO: TVR 1
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u
+http://tvr-online.duckdns.org:1935/liveedge/TVRHD.stream/playlist.m3u
 #EXTINF:-1,RO: TVR 1
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8?iptv
+http://tvr-online.duckdns.org:1935/liveedge/TVRHD.stream/playlist.m3u8?iptv
 #EXTINF:-1,RO: TVR 1
 http://mn-nl.mncdn.com/tvr_hd/smil:TVRHD.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR 1
@@ -613,25 +603,25 @@ http://mn-nl.mncdn.com/tvr_1/smil:TVR1.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR 1
 http://mn-nl.mncdn.com/tvr_1_live/smil:tvr_1_live.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR 1
-http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+http://tvr-online.duckdns.org:1935/liveedge/TVR1.stream/playlist.m3u8
 
 #EXTINF:-1,RO: TVR 2
 http://mn-nl.mncdn.com/tvr_2/smil:TVR2.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR 2
 http://mn-nl.mncdn.com/tvr_2_live/smil:tvr_2_live.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR 2
-http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u
+http://tvr-online.duckdns.org:1935/liveedge/TVR2.stream/playlist.m3u
 #EXTINF:-1,RO: TVR 2
-http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+http://tvr-online.duckdns.org:1935/liveedge/TVR2.stream/playlist.m3u8
 
 #EXTINF:-1,RO: TVR 3
 http://mn-nl.mncdn.com/tvr_3/smil:TVR3.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR 3
 http://mn-nl.mncdn.com/tvr_3_live/smil:tvr_3_live.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR 3
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u
+http://tvr-online.duckdns.org:1935/liveedge/TVR3.stream/playlist.m3u
 #EXTINF:-1,RO: TVR 3
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+http://tvr-online.duckdns.org:1935/liveedge/TVR3.stream/playlist.m3u8
 
 #EXTINF:-1,RO: TVR Iasi
 http://82.208.151.107:8088/high/tvriasi/index.m3u8
@@ -652,26 +642,26 @@ http://89.136.209.33:1935/liveorigin/TVRI.stream/chunklist.m3u8
 #EXTINF:-1,RO: TVR Craiova
 http://mn-nl.mncdn.com/tvr_craiova_live/tvr_craiova_live2/playlist.m3u8
 #EXTINF:-1,RO: TVR Craiova
-http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
+http://tvr-online.duckdns.org:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
 #EXTINF:-1,RO: TVR Craiova
 https://ch.iptvmate.net/313dc2be76f8777149bf88f8dacaa295.m3u8
 
 #EXTINF:-1,RO: TVR Cluj
 http://mn-nl.mncdn.com/tvr_cluj_live/tvr_cluj_live2/playlist.m3u8
 #EXTINF:-1,RO: TVR Cluj
-http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
+http://tvr-online.duckdns.org:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
 #EXTINF:-1,RO: TVR Cluj
 https://ch.iptvmate.net/8c94f066b6fa9af40e746e12f9153081.m3u8
 
 #EXTINF:-1,RO: TVR Târgu Mureș
 http://mn-nl.mncdn.com/tvr_tirgumures_live/tvr_tirgumures_live2/playlist.m3u8
 #EXTINF:-1,RO: TVR Târgu Mureș
-http://89.136.209.26:1935/liveedge/TVRTGMURES.stream/playlist.m3u8
+http://tvr-online.duckdns.org:1935/liveedge/TVRTGMURES.stream/playlist.m3u8
 
 #EXTINF:-1,RO: TVR Timișoara
 http://mn-nl.mncdn.com/tvr_timisoara_live/tvr_timisoara_live2/playlist.m3u8
 #EXTINF:-1,RO: TVR Timișoara
-http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
+http://tvr-online.duckdns.org:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
 #EXTINF:-1,RO: TVR Timișoara
 https://ch.iptvmate.net/6a92cb9fdcb8293667ba4cb48df667e2.m3u8
 
@@ -692,7 +682,7 @@ http://82.76.40.76:80/utvedge/utvlive/index.m3u8
 http://82.76.40.76/utvedge/utvlive/index.m3u8
 
 #EXTINF:-1,RO: Valea Prahovei TV
-http://89.38.8.130:39437
+http://iptv-online.duckdns.org:39437
 #EXTINF:-1,RO: Valea Prahovei TV
 https://ppext.arktv.ro/hls/channel2/adaptive.m3u8
 #EXTINF:-1,RO: Valea Prahovei TV
