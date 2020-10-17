@@ -90,7 +90,7 @@ https://tvhd-online.com/astar.m3u8
 #EXTINF:-1,RO: Arcadia World
 http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
 #EXTINF:-1,RO: Arcadia World
-http://89.38.8.131:39553/
+http://watching-iptv.duckdns.org:39553/
 
 #EXTINF:-1,RO: Ardeal TV
 http://ardeal-tv.duckdns.org:88/live/livestream/playlist.m3u8
@@ -213,7 +213,7 @@ https://www.djing.com/tv/hits.m3u8
 https://dotto.edvr.ro/index.m3u8
 
 #EXTINF:-1,RO: Est TV
-http://89.38.8.131:39519
+http://watching-iptv.duckdns.org:39519
 #EXTINF:-1,RO: Est TV
 https://ch.iptvmate.net/481759b863db782ad989e4454ddc7ae9.m3u8
 
@@ -396,9 +396,7 @@ https://vid.hls.protv.ro/progold/progold_2_34/index.m3u8?1
 https://vid.hls.protv.ro/progold/progold_1_34/index.m3u8?1
 
 #EXTINF:-1,RO: Pro TV
-http://protv-iptv.duckdns.org:39532
-#EXTINF:-1,RO: Pro TV
-http://89.38.8.131:39532
+http://watching-iptv.duckdns.org:39532
 #EXTINF:-1,RO: Pro TV
 https://vid.hls.protv.ro/protvhdn/protvhd.m3u8?1
 #EXTINF:-1,RO: Pro TV
@@ -451,8 +449,6 @@ https://play.myovn.com/s1/cache/radiozu/chunklist.m3u8
 
 #EXTINF:-1,RO: Realitatea Plus
 http://realitatea-plus.duckdns.org/livertmp/plus/chunklist.m3u8
-#EXTINF:-1,RO: Realitatea Plus
-http://195.42.138.43/livertmp/plus/chunklist.m3u8
 
 #EXTINF:-1,RO: Realitatea TV
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
@@ -526,7 +522,7 @@ http://webmobile.xdev.ro:81/tv5/playlist.m3u8
 #EXTINF:-1,RO: Telestar
 http://s1.streamnet.ro:8053/stream.flv
 #EXTINF:-1,RO: Telestar
-http://193.34.109.10:8090/
+http://telestar1.duckdns.org:8090/
 #EXTINF:-1,RO: Telestar
 http://tvron.net/57-3.m3u8
 
@@ -534,8 +530,6 @@ http://tvron.net/57-3.m3u8
 http://iptv-watch.duckdns.org:8080/hls/tezaurtv.m3u8
 #EXTINF:-1,RO: Tezaur TV
 http://tezaur-tv.duckdns.org:1935/live/_definst_/tezaurtv/playlist.m3u8
-#EXTINF:-1,RO: Tezaur TV
-http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
 
 #EXTINF:-1,RO: TL Plus
 http://nginx.arya.ro:8080/hls/tlplus.m3u8
@@ -550,7 +544,7 @@ http://v6.arya.ro:8080/hls/traditiitv.m3u8
 #EXTINF:-1,RO: Travel Mix
 https://ppext.arktv.ro/hls/channel1/adaptive.m3u8
 #EXTINF:-1,RO: Travel Mix
-http://89.38.8.131:39520
+http://watching-iptv.duckdns.org:39520
 #EXTINF:-1,RO: Travel Mix
 https://ch.iptvmate.net/7c06b81435fa03b0939289718990d5de.m3u8
 
