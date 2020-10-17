@@ -360,7 +360,7 @@ http://89.45.164.236:8048/stream.flv
 https://ch.iptvmate.net/deb0b2f69ed3462bfdb4b686a387fc17.m3u8
 
 #EXTINF:-1,RO: Pro 2
-ttps://vid.hls.protv.ro/pro2n/pro2.m3u8?1
+https://vid.hls.protv.ro/pro2n/pro2.m3u8?1
 #EXTINF:-1,RO: Pro 2
 https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
 #EXTINF:-1,RO: Pro 2
