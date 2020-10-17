@@ -252,6 +252,8 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start
 http://webmobile.xdev.ro:81/tv6/playlist.m3u8
 
 #EXTINF:-1,RO: Info HD
+http://iptv-watch.duckdns.org:8080/hls/InfoHd.m3u8
+#EXTINF:-1,RO: Info HD
 http://163.172.172.80:8080/hls/InfoHd.m3u8
 
 #EXTINF:-1,RO: Informatia TV
@@ -274,6 +276,12 @@ http://80.86.107.169:8100/stream.flv
 #EXTINF:-1,RO: Kanal D
 http://212.0.215.115/KanalD/playlist.m3u8
 
+#EXTINF:-1,RO: Kapital TV
+http://kapital-tv.duckdns.org:1935/live/livestream/playlist.m3u
+#EXTINF:-1,RO: Kapital TV
+http://kapital-tv.duckdns.org:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,RO: Kapital TV
+http://iptv-watch.duckdns.org:8080/hls/livestream.m3u8
 #EXTINF:-1,RO: Kapital TV
 http://95.77.97.220:1935/live/livestream/playlist.m3u
 #EXTINF:-1,RO: Kapital TV
@@ -450,6 +458,8 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 https://play.myovn.com/s1/cache/radiozu/chunklist.m3u8
 
 #EXTINF:-1,RO: Realitatea Plus
+http://realitatea-plus.duckdns.org/livertmp/plus/chunklist.m3u8
+#EXTINF:-1,RO: Realitatea Plus
 http://195.42.138.43/livertmp/plus/chunklist.m3u8
 
 #EXTINF:-1,RO: Realitatea TV
@@ -528,6 +538,10 @@ http://193.34.109.10:8090/
 #EXTINF:-1,RO: Telestar
 http://tvron.net/57-3.m3u8
 
+#EXTINF:-1,RO: Tezaur TV
+http://iptv-watch.duckdns.org:8080/hls/tezaurtv.m3u8
+#EXTINF:-1,RO: Tezaur TV
+http://tezaur-tv.duckdns.org:1935/live/_definst_/tezaurtv/playlist.m3u8
 #EXTINF:-1,RO: Tezaur TV
 http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
 #EXTINF:-1,RO: Tezaur TV
