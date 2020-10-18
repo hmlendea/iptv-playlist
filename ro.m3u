@@ -236,8 +236,7 @@ http://webmobile.xdev.ro:81/tv24/playlist.m3u8
 #EXTINF:-1,RO: Impact TV
 http://89.36.10.12:8080
 
-#EXTINF:-1,RO: Inedit TV
-http://encoder.inedittv.ro:9090/seconds3hls/live.m3u8
+http://inedit-tv.duckdns.org:1359/live/myStream/playlist.m3u8
 #EXTINF:-1,RO: Inedit TV
 http://ibu.inedittv.ro:9090/seconds2hls/live.m3u8
 #EXTINF:-1,RO: Inedit TV
@@ -246,6 +245,8 @@ http://ibu.inedittv.ro:9090/seconds3hls/live.m3u8
 http://inedittv.ro/live-tv/canal/index.m3u8
 #EXTINF:-1,RO: Inedit TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1,RO: Inedit TV
+http://encoder.inedittv.ro:9090/seconds3hls/live.m3u8
 
 #EXTINF:-1,RO: Infinit TV
 http://webmobile.xdev.ro:81/tv6/playlist.m3u8
