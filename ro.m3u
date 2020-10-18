@@ -289,6 +289,9 @@ https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
 #EXTINF:-1,RO: LinkPress TV
 http://cast.independentmedia.network:9090/seconds6hls/live.m3u8
 
+#EXTINF:-1,RO: Lira TV
+https://5d79ae45bc63b.streamlock.net:443/liratv/liratv/playlist.m3u8
+
 #EXTINF:-1,RO: Magic TV
 https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
 #EXTINF:-1,RO: Magic TV
