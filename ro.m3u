@@ -20,7 +20,7 @@ https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
 https://amsix46.streamkit.tv/edge/_definst_/aseventv_500/chunklist.m3u8
 
 #EXTINF:-1,RO: Accent TV
-https://188.173.22.231:8080/video/emisie.m3u8
+https://accent-tv.duckdns.org:8080/video/emisie.m3u8
 
 #EXTINF:-1,RO: Actualitatea TV
 http://webmobile.xdev.ro:81/tv4/playlist.m3u8
@@ -130,7 +130,6 @@ http://live-iptv-watch.duckdns.org:9999/btvsvlive/btvsvlive/playlist.m3u8
 https://ch.iptvmate.net/34bf0fd9c6abd39babdbacb463fb2fb1.m3u8
 #EXTINF:-1,RO: Bucovina TV
 https://ch.iptvmate.net/8638921bf17f446eeb1661b195d2e7ca.m3u8
-#EXTINF:-1,RO: Bucovina TV
 
 #EXTINF:-1,RO: București TV
 http://iptv-online.duckdns.org:39459
@@ -196,15 +195,15 @@ http://curier-tv.duckdns.org:1935/live/curiertv/playlist.m3u8
 #EXTINF:-1,RO: Digi24
 http://tv-online-free.duckdns.org/digi24edge/digi24hdhqhls/index.m3u8
 #EXTINF:-1,RO: Digi24
-http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
+http://iptv-max.duckdns.org/live3/_definst_/digi24/playlist.m3u8
 #EXTINF:-1,RO: Digi24
 https://edge81.rcs-rds.ro/V4-6827572-9a1b54e2170ac14cf3814de473ab269a-3155703410-0-1602841092-487-digi24/digi24/digi24hq.stream/chunklist.m3u8
 
 #EXTINF:-1,RO: Digi Film
-http://82.76.252.26:82/tc/7/7hq/01.m3u8
+http://digi-film.duckdns.org:82/tc/7/7hq/01.m3u8
 
 #EXTINF:-1,RO: Disney Channel
-http://212.0.215.115/DisneyChannel/playlist.m3u8
+http://glorious-iptv.duckdns.org /DisneyChannel/playlist.m3u8
 
 #EXTINF:-1,RO: DJing TV
 https://www.djing.com/tv/hits.m3u8
@@ -218,15 +217,15 @@ http://watching-iptv.duckdns.org:39519
 https://ch.iptvmate.net/481759b863db782ad989e4454ddc7ae9.m3u8
 
 #EXTINF:-1,RO: Etno TV
-http://46.20.136.59/live3/_definst_/etno/playlist.m3u8
+http://iptv-max.duckdns.org/live3/_definst_/etno/playlist.m3u8
 #EXTINF:-1,RO: Etno TV
-http://212.0.215.115/EtnoTV/playlist.m3u8
+http://glorious-iptv.duckdns.org /EtnoTV/playlist.m3u8
 
 #EXTINF:-1,RO: Favorit TV
-http://212.0.215.115/Favorit/playlist.m3u8
+http://glorious-iptv.duckdns.org /Favorit/playlist.m3u8
 
 #EXTINF:-1,RO: Gurinel TV
-http://212.0.215.115/Gurinel/playlist.m3u8
+http://glorious-iptv.duckdns.org /Gurinel/playlist.m3u8
 
 #EXTINF:-1,RO: Happy Channel
 https://tvhd-online.com/happy.m3u8
@@ -272,7 +271,7 @@ http://livefeed.kanald.ro/iphone/live.m3u8
 #EXTINF:-1,RO: KANAL D
 http://80.86.107.169:8100/stream.flv
 #EXTINF:-1,RO: Kanal D
-http://212.0.215.115/KanalD/playlist.m3u8
+http://glorious-iptv.duckdns.org/KanalD/playlist.m3u8
 
 #EXTINF:-1,RO: Kapital TV
 http://kapital-tv.duckdns.org:1935/live/livestream/playlist.m3u
@@ -294,7 +293,7 @@ https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
 #EXTINF:-1,RO: Magic TV
 https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/chunklist_w1162027400_b300000.m3u8?publisher=83
 #EXTINF:-1,RO: Magic TV
-http://46.20.136.59/live3/_definst_/magictv/playlist.m3u8
+http://iptv-max.duckdns.org/live3/_definst_/magictv/playlist.m3u8
 
 #EXTINF:-1,RO: Media TV
 http://webmobile.xdev.ro:81/tv22/playlist.m3u8
@@ -303,7 +302,7 @@ http://webmobile.xdev.ro:81/tv22/playlist.m3u8
 http://cdn.metropolatv.ro:9090/seconds3hls/live.m3u8
 
 #EXTINF:-1,RO: MiniMax
-http://212.0.215.115/Minimax/playlist.m3u8
+http://glorious-iptv.duckdns.org/Minimax/playlist.m3u8
 
 #EXTINF:-1,RO: Misa Senzațional TV
 https://misatv.ro:5050/LiveMSTV_Safe/livestream/playlist.m3u8
@@ -326,16 +325,16 @@ https://5ab29cc78f681.streamlock.net/nasultvlive/nasultvlive/playlist.m3u8
 http://tvron.net/53-1.m3u8
 
 #EXTINF:-1,RO: Național 24 Plus
-http://212.0.215.115/N24plus/playlist.m3u8
+http://glorious-iptv.duckdns.org/N24plus/playlist.m3u8
 #EXTINF:-1,RO: Național 24 Plus
-http://46.20.136.59/live3/_definst_/n24/playlist.m3u8
+http://iptv-max.duckdns.org/live3/_definst_/n24/playlist.m3u8
 
 #EXTINF:-1,RO: Național TV
 http://fms91.mediadirect.ro:1937/live3/_definst_/nationaltv_low/playlist.m3u8?publisher=17&token=a7f8a8bb4918e4f3bec92dc6473b2edad11ebcde0f9a4983
 #EXTINF:-1,RO: Național TV
-http://212.0.215.115/National/playlist.m3u8
+http://glorious-iptv.duckdns.org/National/playlist.m3u8
 #EXTINF:-1,RO: Național TV
-http://46.20.136.59/live3/_definst_/nationaltv/playlist.m3u8
+http://iptv-max.duckdns.org/live3/_definst_/nationaltv/playlist.m3u8
 
 #EXTINF:-1,RO: Neptun TV
 http://tvron.net/54-2.m3u8
@@ -344,7 +343,7 @@ http://tvron.net/54-2.m3u8
 http://webmobile.xdev.ro:81/tv13/playlist.m3u8
 
 #EXTINF:-1,RO: Nickelodeon
-http://212.0.215.115/Nick/playlist.m3u8
+http://glorious-iptv.duckdns.org/Nick/playlist.m3u8
 
 #EXTINF:-1,RO: Nova TV
 http://novapress.ro:1935/live/nova/playlist.m3u8
@@ -459,7 +458,7 @@ http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:-1,RO: Realitatea TV
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:-1,RO: Realitatea TV
-http://46.20.136.59/live3/_definst_/realitatea/playlist.m3u8
+http://iptv-max.duckdns.org/live3/_definst_/realitatea/playlist.m3u8
 #EXTINF:-1,RO: Realitatea TV
 https://ch.iptvmate.net/3d5810f4977ab3247bf7b5f7ad03d6e2.m3u8
 
@@ -479,7 +478,7 @@ http://whoptv.on-the-web.tv:8081/diretta/direttats/playlist.m3u8
 #EXTINF:-1,RO: Romania TV
 http://ppext.arktv.ro/hls/channel6/adaptive.m3u8
 #EXTINF:-1,RO: Romania TV
-http://46.20.136.59/live3/_definst_/rtv/playlist.m3u8
+http://iptv-max.duckdns.org/live3/_definst_/rtv/playlist.m3u8
 
 #EXTINF:-1,RO: RTS
 http://89.47.38.159:8080/hls/live.stream.m3u8
@@ -509,7 +508,7 @@ http://iptv.supertv.ro:8000/play/a002/index.m3u8
 http://live.supertv.ro/live/smil:hls.smil/index.m3u8
 
 #EXTINF:-1,RO: Taraf TV
-http://212.0.215.115/TarafTV/playlist.m3u8
+http://glorious-iptv.duckdns.org/TarafTV/playlist.m3u8
 
 #EXTINF:-1,RO: Tele2 Drobeta
 http://89.47.38.12:8098
@@ -555,7 +554,7 @@ http://watching-iptv.duckdns.org:39520
 https://ch.iptvmate.net/7c06b81435fa03b0939289718990d5de.m3u8
 
 #EXTINF:-1,RO: Trinitas
-http://46.20.136.59/live3/_definst_/trinitas/playlist.m3u8
+http://iptv-max.duckdns.org/live3/_definst_/trinitas/playlist.m3u8
 #EXTINF:-1,RO: Trinitas
 http://fms91.mediadirect.ro:1937/live3/_definst_/trinitas_low/playlist.m3u8?publisher=17&token=4c7e22ebbd530c4cc697f56c7c74ba7c82763b2a57585174
 
@@ -563,7 +562,7 @@ http://fms91.mediadirect.ro:1937/live3/_definst_/trinitas_low/playlist.m3u8?publ
 http://tv-buzau.duckdns.org:8080
 
 #EXTINF:-1,RO: TV City
-http://46.20.136.59/live3/_definst_/citytv/playlist.m3u8
+http://iptv-max.duckdns.org/live3/_definst_/citytv/playlist.m3u8
 #EXTINF:-1,RO: TV City
 http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
 
@@ -637,7 +636,7 @@ http://mn-nl.mncdn.com/tvr_i_live/smil:tvr_i_live.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR International
 https://mn-nl.mncdn.com/tvr_i_live/smil:tvr_i_live.smil/chunklist_b2564000.m3u8
 #EXTINF:-1,RO: TVR International
-http://89.136.209.33:1935/liveorigin/TVRI.stream/chunklist.m3u8
+http://tvr-online-international.duckdns.org:1935/liveorigin/TVRI.stream/chunklist.m3u8
 
 #EXTINF:-1,RO: TVR Craiova
 http://mn-nl.mncdn.com/tvr_craiova_live/tvr_craiova_live2/playlist.m3u8
@@ -673,7 +672,7 @@ https://ppext.arktv.ro/hls/channel7/bitrate4.m3u8
 http://tvron.net/59-1.m3u8
 
 #EXTINF:-1,RO: U TV
-http://212.0.215.115/UTV/playlist.m3u8
+http://glorious-iptv.duckdns.org/UTV/playlist.m3u8
 #EXTINF:-1,RO: U TV
 http://tv-online-free.duckdns.org/utvedge/utvlivehls/chunklist_w894794180.m3u8
 #EXTINF:-1,RO: U TV
