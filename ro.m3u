@@ -191,6 +191,8 @@ http://webmobile.xdev.ro:81/tv7/playlist.m3u8
 
 #EXTINF:-1,RO: Curier TV
 http://curier-tv.duckdns.org:1935/live/curiertv/playlist.m3u8
+#EXTINF:-1,RO: Curier TV
+https://frn.rtsp.me/MfpmJ_edmKYM28QRKHDEtg/1603126844/hls/NaZSRK5b.m3u8
 
 #EXTINF:-1,RO: Digi24
 http://tv-online-free.duckdns.org/digi24edge/digi24hdhqhls/index.m3u8
@@ -308,6 +310,8 @@ http://cdn.metropolatv.ro:9090/seconds3hls/live.m3u8
 #EXTINF:-1,RO: MiniMax
 http://glorious-iptv.duckdns.org/Minimax/playlist.m3u8
 
+#EXTINF:-1,RO: Misa Senzațional TV
+https://vid.misatv.ro:5050/LiveMSTV_Safe/livestream_ao/playlist.m3u8
 #EXTINF:-1,RO: Misa Senzațional TV
 https://misatv.ro:5050/LiveMSTV_Safe/livestream/playlist.m3u8
 
