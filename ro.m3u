@@ -108,7 +108,7 @@ https://ch.iptvmate.net/f971a1699633eca2551d622a7e168e25.m3u8
 http://stream.adunity.com/b1/b1_640-.m3u8
 
 #EXTINF:-1,RO: Banat TV
-http://82.78.172.11:1935/live/banat-tv/playlist.m3u8
+http://banat-tv.duckdns.org:1935/live/banat-tv/playlist.m3u8
 
 #EXTINF:-1,RO: BIT TV
 http://webmobile-xdev-ro.duckdns.org:81/tv2/playlist.m3u8
@@ -194,7 +194,7 @@ http://webmobile.xdev.ro:81/tv7/playlist.m3u8
 http://curier-tv.duckdns.org:1935/live/curiertv/playlist.m3u8
 
 #EXTINF:-1,RO: Digi24
-http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
+http://tv-online-free.duckdns.org/digi24edge/digi24hdhqhls/index.m3u8
 #EXTINF:-1,RO: Digi24
 http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
 #EXTINF:-1,RO: Digi24
@@ -260,7 +260,7 @@ http://s1.streamnet.ro:8014/stream.flv
 http://83.103.145.35:8001
 
 #EXTINF:-1,RO: Intermedia Suceava
-http://83.103.150.198:8080
+http://intermedia-suceava.duckdns.org:8080
 #EXTINF:-1,RO: Intermedia Suceava
 http://live-iptv-watch.duckdns.org:9999/intermedia1/playlist.m3u8
 
@@ -346,6 +346,10 @@ http://webmobile.xdev.ro:81/tv13/playlist.m3u8
 #EXTINF:-1,RO: Nickelodeon
 http://212.0.215.115/Nick/playlist.m3u8
 
+#EXTINF:-1,RO: Nova TV
+http://novapress.ro:1935/live/nova/playlist.m3u8
+#EXTINF:-1,RO: Nova TV
+http://novapress.ro:1935/live/nova/chunklist.m3u8
 #EXTINF:-1,RO: Nova TV
 http://novapress.ro:1935/live/nova/chunklist_w1325158178.m3u8
 
@@ -511,6 +515,8 @@ http://212.0.215.115/TarafTV/playlist.m3u8
 http://89.47.38.12:8098
 
 #EXTINF:-1,RO: TeleMoldova Botoșani
+http://telem-botosani.duckdns.org:8080/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1,RO: TeleMoldova Botoșani
 http://webmobile.xdev.ro:81/tv11/playlist.m3u8
 
 #EXTINF:-1,RO: TeleMoldova Iași
@@ -554,7 +560,7 @@ http://46.20.136.59/live3/_definst_/trinitas/playlist.m3u8
 http://fms91.mediadirect.ro:1937/live3/_definst_/trinitas_low/playlist.m3u8?publisher=17&token=4c7e22ebbd530c4cc697f56c7c74ba7c82763b2a57585174
 
 #EXTINF:-1,RO: TV Buzău
-http://95.77.16.67:8080
+http://tv-buzau.duckdns.org:8080
 
 #EXTINF:-1,RO: TV City
 http://46.20.136.59/live3/_definst_/citytv/playlist.m3u8
@@ -669,11 +675,11 @@ http://tvron.net/59-1.m3u8
 #EXTINF:-1,RO: U TV
 http://212.0.215.115/UTV/playlist.m3u8
 #EXTINF:-1,RO: U TV
-http://82.76.40.76/utvedge/utvlivehls/chunklist_w894794180.m3u8
+http://tv-online-free.duckdns.org/utvedge/utvlivehls/chunklist_w894794180.m3u8
 #EXTINF:-1,RO: U TV
-http://82.76.40.76:80/utvedge/utvlive/index.m3u8
+http://tv-online-free.duckdns.org:80/utvedge/utvlive/index.m3u8
 #EXTINF:-1,RO: U TV
-http://82.76.40.76/utvedge/utvlive/index.m3u8
+http://tv-online-free.duckdns.org/utvedge/utvlive/index.m3u8
 
 #EXTINF:-1,RO: Valea Prahovei TV
 http://iptv-online.duckdns.org:39437
