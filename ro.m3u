@@ -194,6 +194,9 @@ http://curier-tv.duckdns.org:1935/live/curiertv/playlist.m3u8
 #EXTINF:-1,RO: Curier TV
 https://frn.rtsp.me/MfpmJ_edmKYM28QRKHDEtg/1603126844/hls/NaZSRK5b.m3u8
 
+#EXTINF:-1,RO: DiBiTV
+http://tv.dibitv.ro:1935/dibitv/live/playlist.m3u8
+
 #EXTINF:-1,RO: Digi24
 http://tv-online-free.duckdns.org/digi24edge/digi24hdhqhls/index.m3u8
 #EXTINF:-1,RO: Digi24
@@ -237,7 +240,10 @@ http://webmobile.xdev.ro:81/tv24/playlist.m3u8
 
 #EXTINF:-1,RO: Impact TV
 http://89.36.10.12:8080
+#EXTINF:-1,RO: Impact TV
+http://173.212.225.35:8080/hls/impact_tv.m3u8
 
+#EXTINF:-1,RO: Inedit TV
 http://inedit-tv.duckdns.org:1359/live/myStream/playlist.m3u8
 #EXTINF:-1,RO: Inedit TV
 http://ibu.inedittv.ro:9090/seconds2hls/live.m3u8
@@ -455,6 +461,10 @@ https://live2.djemba.ro/qub/live/playlist.m3u8
 
 #EXTINF:-1,RO: Radio m2o TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+
+#EXTINF:-1,RO: Radio România 3Net
+http://media.3netmedia.ro:8000/Live128.m3u
+
 #EXTINF:-1,RO: Radio ZU Video HD
 https://play.myovn.com/s1/cache/radiozu/chunklist.m3u8
 
@@ -518,6 +528,8 @@ http://live.supertv.ro/live/smil:hls.smil/index.m3u8
 #EXTINF:-1,RO: Taraf TV
 http://glorious-iptv.duckdns.org/TarafTV/playlist.m3u8
 
+#EXTINF:-1,RO: Tele2 Drobeta
+https://stream.tele2drobeta.ro/hls/live.stream.m3u8
 #EXTINF:-1,RO: Tele2 Drobeta
 http://89.47.38.12:8098
 
