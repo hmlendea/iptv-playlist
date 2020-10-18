@@ -41,6 +41,9 @@ http://212.0.215.115/Regional/playlist.m3u8
 #EXTINF:-1,MD: Canal Regional
 http://canalregional.md/tv/live/canalregional.m3u8
 
+#EXTINF:-1,MD: Diaspora Media
+https://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
+
 #EXTINF:-1,MD: Drochia TV
 http://hls.drochia.tv/tv/web.m3u8
 
