@@ -208,7 +208,7 @@ https://edge81.rcs-rds.ro/V4-6827572-9a1b54e2170ac14cf3814de473ab269a-3155703410
 http://digi-film.duckdns.org:82/tc/7/7hq/01.m3u8
 
 #EXTINF:-1,RO: Disney Channel
-http://glorious-iptv.duckdns.org /DisneyChannel/playlist.m3u8
+http://glorious-iptv.duckdns.org/DisneyChannel/playlist.m3u8
 
 #EXTINF:-1,RO: DJing TV
 https://www.djing.com/tv/hits.m3u8
@@ -224,13 +224,15 @@ https://ch.iptvmate.net/481759b863db782ad989e4454ddc7ae9.m3u8
 #EXTINF:-1,RO: Etno TV
 http://iptv-max.duckdns.org/live3/_definst_/etno/playlist.m3u8
 #EXTINF:-1,RO: Etno TV
-http://glorious-iptv.duckdns.org /EtnoTV/playlist.m3u8
+http://glorious-iptv.duckdns.org/EtnoTV/playlist.m3u8
 
 #EXTINF:-1,RO: Favorit TV
-http://glorious-iptv.duckdns.org /Favorit/playlist.m3u8
+http://glorious-iptv.duckdns.org/Favorit/playlist.m3u8
+#EXTINF:-1,RO: Favorit TV
+http://favorit-tv.duckdns.org:6010/favorit
 
 #EXTINF:-1,RO: Gurinel TV
-http://glorious-iptv.duckdns.org /Gurinel/playlist.m3u8
+http://glorious-iptv.duckdns.org/Gurinel/playlist.m3u8
 
 #EXTINF:-1,RO: Happy Channel
 https://tvhd-online.com/happy.m3u8
@@ -241,7 +243,7 @@ http://webmobile.xdev.ro:81/tv24/playlist.m3u8
 #EXTINF:-1,RO: Impact TV
 http://89.36.10.12:8080
 #EXTINF:-1,RO: Impact TV
-http://173.212.225.35:8080/hls/impact_tv.m3u8
+http://impact-tv.duckdns.org:8080/hls/impact_tv.m3u8
 
 #EXTINF:-1,RO: Inedit TV
 http://inedit-tv.duckdns.org:1359/live/myStream/playlist.m3u8
@@ -427,6 +429,9 @@ https://vid.hls.protv.ro/protvhdn/protvhd_2_34/index.m3u8?1
 #EXTINF:-1,RO: Pro TV
 https://vid.hls.protv.ro/protvhdn/protvhd_1_34/index.m3u8?1
 
+#EXTINF:-1,RO: Pro TV Internațional
+http://pro-tv-international.duckdns.org:2001/protv
+
 #EXTINF:-1,RO: Pro TV News
 http://m2.live.protv.ro:1935/news/1.stream/playlist.m3u8
 #EXTINF:-1,RO: Pro TV News
@@ -459,7 +464,7 @@ https://stream1.profit.ro:1945/profit/livestream/chunklist_w1969009807.m3u8
 https://ch.iptvmate.net/625ea96786f2341ff1ae4983c8e44b08.m3u8
 
 #EXTINF:-1 ,RO: Qub TV
-http://109.197.80.5:7263
+http://qubtv.duckdns.org:7263
 #EXTINF:-1 ,RO: Qub TV
 https://live2.djemba.ro/qub/live/playlist.m3u8
 
@@ -573,6 +578,9 @@ http://ppext.arktv.ro/hls/channel5/bitrate4.m3u8
 #EXTINF:-1,RO: Tradiții TV
 http://v6.arya.ro:8080/hls/traditiitv.m3u8
 
+#EXTINF:-1,RO: Tradițional TV
+http://traditional-tv.duckdns.org:8085/udp/239.30.0.9:4000
+
 #EXTINF:-1,RO: Travel Mix
 https://ppext.arktv.ro/hls/channel1/adaptive.m3u8
 #EXTINF:-1,RO: Travel Mix
@@ -597,7 +605,7 @@ http://iptv-max.duckdns.org/live3/_definst_/citytv/playlist.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
 
 #EXTINF:-1,RO: TV Plus Suceava
-http://85.186.146.34:8080
+http://tvplus-suceava.duckdns.org:8080
 #EXTINF:-1,RO: TV Plus Suceava
 https://ch.iptvmate.net/0a00fed7fb7f4e9049d36b64391bfe96.m3u8
 
