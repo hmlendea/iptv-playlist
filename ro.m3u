@@ -559,6 +559,9 @@ http://iptv-max.duckdns.org/live3/_definst_/trinitas/playlist.m3u8
 #EXTINF:-1,RO: Trinitas
 http://fms91.mediadirect.ro:1937/live3/_definst_/trinitas_low/playlist.m3u8?publisher=17&token=4c7e22ebbd530c4cc697f56c7c74ba7c82763b2a57585174
 
+#EXTINF:-1,RO: TV Arad
+https://live.djemba.ro/live/tvaradlive/playlist.m3u8
+
 #EXTINF:-1,RO: TV Buzău
 http://tv-buzau.duckdns.org:8080
 
