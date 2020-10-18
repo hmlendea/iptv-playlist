@@ -15,9 +15,9 @@ https://web.sats.gstv.tech/cpl11/540d63d5-8910-4a20-ac15-a7bfcca9dbd3/agrotvweb.
 http://212.0.215.115/AxialTV/playlist.m3u8
 
 #EXTINF:-1,MD: Bălți TV
-http://77.89.199.174:81/hls/live2.m3u8
+http://balti-tv.duckdns.org:81/hls/live2.m3u8
 #EXTINF:-1,MD: Bălți TV
-http://77.89.199.174:8000/play/1024/index.m3u8
+http://balti-tv.duckdns.org:8000/play/1024/index.m3u8
 
 #EXTINF:-1,MD: Busuioc TV
 http://212.0.215.115/Busuioc/playlist.m3u8
@@ -48,7 +48,7 @@ https://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
 http://hls.drochia.tv/tv/web.m3u8
 
 #EXTINF:-1,MD: Elita Rezina
-http://46.55.111.242:8080/Rezina.m3u8
+http://elita-rezina.duckdns.org:8080/Rezina.m3u8
 
 #EXTINF:-1,MD: Europa Plus
 http://89.35.76.210:8888/udp/224.21.21.132:1234
