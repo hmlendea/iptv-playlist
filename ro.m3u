@@ -277,12 +277,12 @@ http://live-iptv-watch.duckdns.org:9999/intermedia1/playlist.m3u8
 #EXTINF:-1,RO: Job TV
 http://v9.arya.ro:8080/hls/jobtvhq.m3u8
 
+#EXTINF:-1,RO: Kanal D
+http://glorious-iptv.duckdns.org/KanalD/playlist.m3u8
 #EXTINF:-1,RO: KANAL D
 http://livefeed.kanald.ro/iphone/live.m3u8
 #EXTINF:-1,RO: KANAL D
 http://80.86.107.169:8100/stream.flv
-#EXTINF:-1,RO: Kanal D
-http://glorious-iptv.duckdns.org/KanalD/playlist.m3u8
 
 #EXTINF:-1,RO: Kapital TV
 http://kapital-tv.duckdns.org:1935/live/livestream/playlist.m3u
