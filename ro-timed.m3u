@@ -1,902 +1,601 @@
 #EXTM3U
-
-#EXTINF:-1,Ro: Antena 1
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16211
-#EXTINF:-1,Ro: Tvr 1
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16212
-#EXTINF:-1,Ro: Tvr 2
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16213
-#EXTINF:-1,Ro: Romania
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16214
-#EXTINF:-1,Ro: National
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16215
-#EXTINF:-1,Ro: NatGeo Wild
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16216
-#EXTINF:-1,Ro: Nat Geographic
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16217
-#EXTINF:-1,Ro: Fishing & Hunting
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16218
-#EXTINF:-1,Ro: Digi Animal World
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16219
-#EXTINF:-1,Ro: Disney Junior
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16220
-#EXTINF:-1,Ro: Hbo 2
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16222
-#EXTINF:-1,Ro: Hbo 3
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16223
-#EXTINF:-1,Ro: Eurosport
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16225
-#EXTINF:-1,Ro: Eurosport 2
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16226
-#EXTINF:-1,Ro: Digi Life
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16227
-#EXTINF:-1,Ro: Digi Film
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16228
-#EXTINF:-1,Ro: Digi 24
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16229
-#EXTINF:-1,Ro: Cinemax 2
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16230
-#EXTINF:-1,Ro: B1
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16231
-#EXTINF:-1,Ro: Antena Stars
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16232
-#EXTINF:-1,Ro: TV1000
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16233
-#EXTINF:-1,Ro: Taraf
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16234
-#EXTINF:-1,Ro: Realitatea+
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16235
-#EXTINF:-1,Ro: Pro TV
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16236
-#EXTINF:-1,Ro: Happy
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16238
-#EXTINF:-1,Ro: Look Sport
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16240
-#EXTINF:-1,Ro: Kanal D
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16241
-#EXTINF:-1,Ro: History
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16242
-#EXTINF:-1,Ro: Digi World
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16243
-#EXTINF:-1,Ro: 1 Music
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16244
-#EXTINF:-1,Ro: JimJam
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16245
-#EXTINF:-1,Ro: Alfa & Omega
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16248
-#EXTINF:-1,Ro: Animal Planet
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16249
-#EXTINF:-1,Ro: Antena 3
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16250
-#EXTINF:-1,Ro: AXN White
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16253
-#EXTINF:-1,Ro: Boomerang
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16254
-#EXTINF:-1,Ro: Cartoon Network
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16255
-#EXTINF:-1,Ro: Bollywood Clasic
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16257
-#EXTINF:-1,Ro: Cinemax Ro
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16258
-#EXTINF:-1,Ro: Comedy Central
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16259
-#EXTINF:-1,Ro: Discovery ID
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16261
-#EXTINF:-1,Ro: Discovery Science
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16262
-#EXTINF:-1,Ro: Discovery Turbo Xtra
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16263
-#EXTINF:-1,Ro: Favorit Tv
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16265
-#EXTINF:-1,Ro: HBO Romania
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16266
-#EXTINF:-1,Ro: HIT
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16267
-#EXTINF:-1,Ro: Look+
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16268
-#EXTINF:-1,Ro: Hit Music
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16269
-#EXTINF:-1,Ro: Nickelodeon
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16271
-#EXTINF:-1,Ro: Paprika
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16272
-#EXTINF:-1,Ro: Paramount Channel
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16273
-#EXTINF:-1,Ro: Prima Tv
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16274
-#EXTINF:-1,Ro: Pro Cinema
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16275
-#EXTINF:-1,Ro: Traditional
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16279
-#EXTINF:-1,Ro: TV5 MONDE
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16280
-#EXTINF:-1,Ro: U TV
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16282
-#EXTINF:-1,Ro: Viasat History
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16283
-#EXTINF:-1,Ro: Fishing and Hunting
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16284
-#EXTINF:-1,Ro: ZU TV
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16285
-#EXTINF:-1,RO | Acasa
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16286
-#EXTINF:-1,RO | Acasa Gold
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16287
-#EXTINF:-1,RO | AgroTV
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16288
-#EXTINF:-1,RO | Antena 1
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16289
-#EXTINF:-1,RO | Antena 1 FHD
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16290
-#EXTINF:-1,RO | Antena 3
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16291
-#EXTINF:-1,RO | Antena 3 FHD
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16292
-#EXTINF:-1,RO | Antena Stars
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16293
-#EXTINF:-1,RO | Antena Stars HD
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16294
-#EXTINF:-1,RO | AXN
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16295
-#EXTINF:-1,RO | AXN FHD
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16296
-#EXTINF:-1,RO | AXN Black
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16297
-#EXTINF:-1,RO | AXN SPIN
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16298
-#EXTINF:-1,RO | AXN White
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16299
-#EXTINF:-1,RO | B1
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16300
-#EXTINF:-1,RO | Boomerang
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16301
-#EXTINF:-1,RO | Cartoon Network
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16302
-#EXTINF:-1,RO | Cinemax 1
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16303
-#EXTINF:-1,RO | Cinemax 2
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16304
-#EXTINF:-1,RO | Comedy Central
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16305
-#EXTINF:-1,RO | DIGI 24
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16307
-#EXTINF:-1,RO | DIGI ANIMAL WORLD
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16308
-#EXTINF:-1,RO | DIGI FILM
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16309
-#EXTINF:-1,RO | DIGI Life
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16310
-#EXTINF:-1,RO | DIGI Sport 1
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16311
-#EXTINF:-1,RO | DIGI Sport 2
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16312
-#EXTINF:-1,RO | DIGI Sport 3
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16313
-#EXTINF:-1,RO | DIGI Sport 4
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16314
-#EXTINF:-1,RO | Digi Sport 1 FHD
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16315
-#EXTINF:-1,RO | Digi Sports 2 FHD
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16316
-#EXTINF:-1,RO | Digi Sports 3 FHD
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16317
-#EXTINF:-1,RO | Digi Sports 4 FHD
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16318
-#EXTINF:-1,RO | DIGI WORLD
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16319
-#EXTINF:-1,RO | Discovery ID
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16321
-#EXTINF:-1,RO | Discovery Science
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16322
-#EXTINF:-1,RO | Disney Channel
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16323
-#EXTINF:-1,RO | Disney Jr
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16324
-#EXTINF:-1,RO | Diva
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16325
-#EXTINF:-1,RO | DTX
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16326
-#EXTINF:-1,RO | Etno
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16328
-#EXTINF:-1,RO | Eurosport 1
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16329
-#EXTINF:-1,RO | Eurosport 2
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16330
-#EXTINF:-1,RO | Extreme Sport
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16331
-#EXTINF:-1,RO | Favorit TV
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16332
-#EXTINF:-1,RO | Film Cafe
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16333
-#EXTINF:-1,RO | Fishing and Hunting
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16334
-#EXTINF:-1,RO | Food Network
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16335
-#EXTINF:-1,RO | Happy Channel
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16336
-#EXTINF:-1,RO | HBO
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16337
-#EXTINF:-1,RO | HBO 3
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16338
-#EXTINF:-1,RO | HBO2
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16339
-#EXTINF:-1,RO | History
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16341
-#EXTINF:-1,RO | HIT MUSIC
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16342
-#EXTINF:-1,RO | Hora TV
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16343
-#EXTINF:-1,RO | Kanal D
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16345
-#EXTINF:-1,RO | Kanal D HD
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16346
-#EXTINF:-1,RO | Kiss TV
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16347
-#EXTINF:-1,RO | Look Plus
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16348
-#EXTINF:-1,RO | Look TV
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16349
-#EXTINF:-1,RO | MTV
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16352
-#EXTINF:-1,RO | MTV Dance
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16353
-#EXTINF:-1,RO | MTV Hits
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16354
-#EXTINF:-1,RO | Nat Geo Wild
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16358
-#EXTINF:-1,RO | National 24
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16359
-#EXTINF:-1,RO | National Geographic
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16360
-#EXTINF:-1,RO | National TV
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16361
-#EXTINF:-1,RO | Nickelodeon
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16362
-#EXTINF:-1,RO | Paramount Channel
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16363
-#EXTINF:-1,RO | Prima TV
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16364
-#EXTINF:-1,RO | PRO Cinema
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16365
-#EXTINF:-1,RO | PRO TV
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16366
-#EXTINF:-1,RO | Pro TV FHD
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16367
-#EXTINF:-1,RO | Realitatea TV
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16368
-#EXTINF:-1,RO | ROmania TV
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16369
-#EXTINF:-1,RO | Sport
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16370
-#EXTINF:-1,RO | Telekom 1
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16371
-#EXTINF:-1,RO | Telekom 2
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16372
-#EXTINF:-1,RO | TLC
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16375
-#EXTINF:-1,RO | TNT
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16376
-#EXTINF:-1,RO | Travel Mix
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16378
-#EXTINF:-1,RO | TV Paprika
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16379
-#EXTINF:-1,RO | TV1000
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16380
-#EXTINF:-1,RO | TVR
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16381
-#EXTINF:-1,RO | TVR1
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16382
-#EXTINF:-1,RO | TVR2
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16383
-#EXTINF:-1,RO | UTV
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16385
-#EXTINF:-1,RO | VH1
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16386
-#EXTINF:-1,RO | VH1 Classic
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16387
-#EXTINF:-1,RO | Viasat
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16388
-#EXTINF:-1,RO | Viasat History
-http://s1.urhdiptv.info:8080/6RaQo1ZDwo/M3FrRlHvqn/16389
-
-#EXTINF:-1,Ro: Antena 1
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16211
-#EXTINF:-1,Ro: Tvr 1
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16212
-#EXTINF:-1,Ro: Tvr 2
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16213
-#EXTINF:-1,Ro: Romania
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16214
-#EXTINF:-1,Ro: National
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16215
-#EXTINF:-1,Ro: NatGeo Wild
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16216
-#EXTINF:-1,Ro: Nat Geographic
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16217
-#EXTINF:-1,Ro: Fishing & Hunting
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16218
-#EXTINF:-1,Ro: Digi Animal World
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16219
-#EXTINF:-1,Ro: Disney Junior
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16220
-#EXTINF:-1,Ro: Hbo 2
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16222
-#EXTINF:-1,Ro: Hbo 3
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16223
-#EXTINF:-1,Ro: Eurosport
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16225
-#EXTINF:-1,Ro: Eurosport 2
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16226
-#EXTINF:-1,Ro: Digi Life
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16227
-#EXTINF:-1,Ro: Digi Film
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16228
-#EXTINF:-1,Ro: Digi 24
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16229
-#EXTINF:-1,Ro: Cinemax 2
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16230
-#EXTINF:-1,Ro: B1
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16231
-#EXTINF:-1,Ro: Antena Stars
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16232
-#EXTINF:-1,Ro: TV1000
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16233
-#EXTINF:-1,Ro: Taraf
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16234
-#EXTINF:-1,Ro: Realitatea+
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16235
-#EXTINF:-1,Ro: Pro TV
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16236
-#EXTINF:-1,Ro: Happy
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16238
-#EXTINF:-1,Ro: Look Sport
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16240
-#EXTINF:-1,Ro: Kanal D
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16241
-#EXTINF:-1,Ro: History
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16242
-#EXTINF:-1,Ro: Digi World
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16243
-#EXTINF:-1,Ro: 1 Music
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16244
-#EXTINF:-1,Ro: JimJam
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16245
-#EXTINF:-1,Ro: Alfa & Omega
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16248
-#EXTINF:-1,Ro: Animal Planet
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16249
-#EXTINF:-1,Ro: Antena 3
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16250
-#EXTINF:-1,Ro: AXN White
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16253
-#EXTINF:-1,Ro: Boomerang
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16254
-#EXTINF:-1,Ro: Cartoon Network
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16255
-#EXTINF:-1,Ro: Bollywood Clasic
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16257
-#EXTINF:-1,Ro: Cinemax Ro
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16258
-#EXTINF:-1,Ro: Comedy Central
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16259
-#EXTINF:-1,Ro: Discovery ID
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16261
-#EXTINF:-1,Ro: Discovery Science
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16262
-#EXTINF:-1,Ro: Discovery Turbo Xtra
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16263
-#EXTINF:-1,Ro: Favorit Tv
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16265
-#EXTINF:-1,Ro: HBO Romania
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16266
-#EXTINF:-1,Ro: HIT
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16267
-#EXTINF:-1,Ro: Look+
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16268
-#EXTINF:-1,Ro: Hit Music
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16269
-#EXTINF:-1,Ro: Nickelodeon
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16271
-#EXTINF:-1,Ro: Paprika
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16272
-#EXTINF:-1,Ro: Paramount Channel
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16273
-#EXTINF:-1,Ro: Prima Tv
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16274
-#EXTINF:-1,Ro: Pro Cinema
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16275
-#EXTINF:-1,Ro: Traditional
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16279
-#EXTINF:-1,Ro: TV5 MONDE
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16280
-#EXTINF:-1,Ro: U TV
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16282
-#EXTINF:-1,Ro: Viasat History
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16283
-#EXTINF:-1,Ro: Fishing and Hunting
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16284
-#EXTINF:-1,Ro: ZU TV
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16285
-#EXTINF:-1,RO | Acasa
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16286
-#EXTINF:-1,RO | Acasa Gold
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16287
-#EXTINF:-1,RO | AgroTV
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16288
-#EXTINF:-1,RO | Antena 1
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16289
-#EXTINF:-1,RO | Antena 1 FHD
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16290
-#EXTINF:-1,RO | Antena 3
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16291
-#EXTINF:-1,RO | Antena 3 FHD
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16292
-#EXTINF:-1,RO | Antena Stars
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16293
-#EXTINF:-1,RO | Antena Stars HD
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16294
-#EXTINF:-1,RO | AXN
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16295
-#EXTINF:-1,RO | AXN FHD
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16296
-#EXTINF:-1,RO | AXN Black
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16297
-#EXTINF:-1,RO | AXN SPIN
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16298
-#EXTINF:-1,RO | AXN White
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16299
-#EXTINF:-1,RO | B1
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16300
-#EXTINF:-1,RO | Boomerang
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16301
-#EXTINF:-1,RO | Cartoon Network
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16302
-#EXTINF:-1,RO | Cinemax 1
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16303
-#EXTINF:-1,RO | Cinemax 2
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16304
-#EXTINF:-1,RO | Comedy Central
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16305
-#EXTINF:-1,RO | DIGI 24
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16307
-#EXTINF:-1,RO | DIGI ANIMAL WORLD
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16308
-#EXTINF:-1,RO | DIGI FILM
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16309
-#EXTINF:-1,RO | DIGI Life
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16310
-#EXTINF:-1,RO | DIGI Sport 1
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16311
-#EXTINF:-1,RO | DIGI Sport 2
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16312
-#EXTINF:-1,RO | DIGI Sport 3
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16313
-#EXTINF:-1,RO | DIGI Sport 4
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16314
-#EXTINF:-1,RO | Digi Sport 1 FHD
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16315
-#EXTINF:-1,RO | Digi Sports 2 FHD
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16316
-#EXTINF:-1,RO | Digi Sports 3 FHD
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16317
-#EXTINF:-1,RO | Digi Sports 4 FHD
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16318
-#EXTINF:-1,RO | DIGI WORLD
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16319
-#EXTINF:-1,RO | Discovery ID
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16321
-#EXTINF:-1,RO | Discovery Science
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16322
-#EXTINF:-1,RO | Disney Channel
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16323
-#EXTINF:-1,RO | Disney Jr
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16324
-#EXTINF:-1,RO | Diva
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16325
-#EXTINF:-1,RO | DTX
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16326
-#EXTINF:-1,RO | Etno
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16328
-#EXTINF:-1,RO | Eurosport 1
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16329
-#EXTINF:-1,RO | Eurosport 2
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16330
-#EXTINF:-1,RO | Extreme Sport
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16331
-#EXTINF:-1,RO | Favorit TV
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16332
-#EXTINF:-1,RO | Film Cafe
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16333
-#EXTINF:-1,RO | Fishing and Hunting
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16334
-#EXTINF:-1,RO | Food Network
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16335
-#EXTINF:-1,RO | Happy Channel
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16336
-#EXTINF:-1,RO | HBO
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16337
-#EXTINF:-1,RO | HBO 3
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16338
-#EXTINF:-1,RO | HBO2
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16339
-#EXTINF:-1,RO | History
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16341
-#EXTINF:-1,RO | HIT MUSIC
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16342
-#EXTINF:-1,RO | Hora TV
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16343
-#EXTINF:-1,RO | Kanal D
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16345
-#EXTINF:-1,RO | Kanal D HD
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16346
-#EXTINF:-1,RO | Kiss TV
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16347
-#EXTINF:-1,RO | Look Plus
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16348
-#EXTINF:-1,RO | Look TV
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16349
-#EXTINF:-1,RO | MTV
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16352
-#EXTINF:-1,RO | MTV Dance
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16353
-#EXTINF:-1,RO | MTV Hits
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16354
-#EXTINF:-1,RO | Nat Geo Wild
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16358
-#EXTINF:-1,RO | National 24
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16359
-#EXTINF:-1,RO | National Geographic
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16360
-#EXTINF:-1,RO | National TV
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16361
-#EXTINF:-1,RO | Nickelodeon
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16362
-#EXTINF:-1,RO | Paramount Channel
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16363
-#EXTINF:-1,RO | Prima TV
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16364
-#EXTINF:-1,RO | PRO Cinema
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16365
-#EXTINF:-1,RO | PRO TV
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16366
-#EXTINF:-1,RO | Pro TV FHD
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16367
-#EXTINF:-1,RO | Realitatea TV
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16368
-#EXTINF:-1,RO | ROmania TV
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16369
-#EXTINF:-1,RO | Sport
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16370
-#EXTINF:-1,RO | Telekom 1
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16371
-#EXTINF:-1,RO | Telekom 2
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16372
-#EXTINF:-1,RO | TLC
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16375
-#EXTINF:-1,RO | TNT
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16376
-#EXTINF:-1,RO | Travel Mix
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16378
-#EXTINF:-1,RO | TV Paprika
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16379
-#EXTINF:-1,RO | TV1000
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16380
-#EXTINF:-1,RO | TVR
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16381
-#EXTINF:-1,RO | TVR1
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16382
-#EXTINF:-1,RO | TVR2
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16383
-#EXTINF:-1,RO | UTV
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16385
-#EXTINF:-1,RO | VH1
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16386
-#EXTINF:-1,RO | VH1 Classic
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16387
-#EXTINF:-1,RO | Viasat
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16388
-#EXTINF:-1,RO | Viasat History
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16389
-#EXTINF:-1,RO | Viasat Nature
-http://s1.urhdiptv.info:8080/UwUD1a2Vl4/VmvKjazWMP/16390
-
-#EXTINF:-1,Ro: Antena 1
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16211
-#EXTINF:-1,Ro: Tvr 1
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16212
-#EXTINF:-1,Ro: Tvr 2
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16213
-#EXTINF:-1,Ro: Romania
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16214
-#EXTINF:-1,Ro: National
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16215
-#EXTINF:-1,Ro: NatGeo Wild
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16216
-#EXTINF:-1,Ro: Nat Geographic
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16217
-#EXTINF:-1,Ro: Fishing & Hunting
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16218
-#EXTINF:-1,Ro: Digi Animal World
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16219
-#EXTINF:-1,Ro: Disney Junior
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16220
-#EXTINF:-1,Ro: Hbo 2
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16222
-#EXTINF:-1,Ro: Hbo 3
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16223
-#EXTINF:-1,Ro: Eurosport
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16225
-#EXTINF:-1,Ro: Eurosport 2
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16226
-#EXTINF:-1,Ro: Digi Life
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16227
-#EXTINF:-1,Ro: Digi Film
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16228
-#EXTINF:-1,Ro: Digi 24
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16229
-#EXTINF:-1,Ro: Cinemax 2
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16230
-#EXTINF:-1,Ro: B1
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16231
-#EXTINF:-1,Ro: Antena Stars
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16232
-#EXTINF:-1,Ro: TV1000
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16233
-#EXTINF:-1,Ro: Taraf
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16234
-#EXTINF:-1,Ro: Realitatea+
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16235
-#EXTINF:-1,Ro: Pro TV
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16236
-#EXTINF:-1,Ro: Happy
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16238
-#EXTINF:-1,Ro: Look Sport
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16240
-#EXTINF:-1,Ro: Kanal D
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16241
-#EXTINF:-1,Ro: History
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16242
-#EXTINF:-1,Ro: Digi World
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16243
-#EXTINF:-1,Ro: 1 Music
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16244
-#EXTINF:-1,Ro: JimJam
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16245
-#EXTINF:-1,Ro: Alfa & Omega
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16248
-#EXTINF:-1,Ro: Animal Planet
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16249
-#EXTINF:-1,Ro: Antena 3
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16250
-#EXTINF:-1,Ro: AXN White
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16253
-#EXTINF:-1,Ro: Boomerang
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16254
-#EXTINF:-1,Ro: Cartoon Network
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16255
-#EXTINF:-1,Ro: Bollywood Clasic
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16257
-#EXTINF:-1,Ro: Cinemax Ro
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16258
-#EXTINF:-1,Ro: Comedy Central
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16259
-#EXTINF:-1,Ro: Discovery ID
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16261
-#EXTINF:-1,Ro: Discovery Science
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16262
-#EXTINF:-1,Ro: Discovery Turbo Xtra
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16263
-#EXTINF:-1,Ro: Favorit Tv
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16265
-#EXTINF:-1,Ro: HBO Romania
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16266
-#EXTINF:-1,Ro: HIT
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16267
-#EXTINF:-1,Ro: Look+
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16268
-#EXTINF:-1,Ro: Hit Music
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16269
-#EXTINF:-1,Ro: Nickelodeon
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16271
-#EXTINF:-1,Ro: Paprika
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16272
-#EXTINF:-1,Ro: Paramount Channel
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16273
-#EXTINF:-1,Ro: Prima Tv
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16274
-#EXTINF:-1,Ro: Pro Cinema
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16275
-#EXTINF:-1,Ro: Traditional
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16279
-#EXTINF:-1,Ro: TV5 MONDE
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16280
-#EXTINF:-1,Ro: U TV
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16282
-#EXTINF:-1,Ro: Viasat History
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16283
-#EXTINF:-1,Ro: Fishing and Hunting
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16284
-#EXTINF:-1,Ro: ZU TV
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16285
-#EXTINF:-1,RO | Acasa
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16286
-#EXTINF:-1,RO | Acasa Gold
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16287
-#EXTINF:-1,RO | AgroTV
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16288
-#EXTINF:-1,RO | Antena 1
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16289
-#EXTINF:-1,RO | Antena 1 FHD
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16290
-#EXTINF:-1,RO | Antena 3
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16291
-#EXTINF:-1,RO | Antena 3 FHD
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16292
-#EXTINF:-1,RO | Antena Stars
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16293
-#EXTINF:-1,RO | Antena Stars HD
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16294
-#EXTINF:-1,RO | AXN
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16295
-#EXTINF:-1,RO | AXN FHD
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16296
-#EXTINF:-1,RO | AXN Black
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16297
-#EXTINF:-1,RO | AXN SPIN
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16298
-#EXTINF:-1,RO | AXN White
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16299
-#EXTINF:-1,RO | B1
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16300
-#EXTINF:-1,RO | Boomerang
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16301
-#EXTINF:-1,RO | Cartoon Network
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16302
-#EXTINF:-1,RO | Cinemax 1
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16303
-#EXTINF:-1,RO | Cinemax 2
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16304
-#EXTINF:-1,RO | Comedy Central
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16305
-#EXTINF:-1,RO | DIGI 24
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16307
-#EXTINF:-1,RO | DIGI ANIMAL WORLD
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16308
-#EXTINF:-1,RO | DIGI FILM
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16309
-#EXTINF:-1,RO | DIGI Life
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16310
-#EXTINF:-1,RO | DIGI Sport 1
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16311
-#EXTINF:-1,RO | DIGI Sport 2
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16312
-#EXTINF:-1,RO | DIGI Sport 3
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16313
-#EXTINF:-1,RO | DIGI Sport 4
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16314
-#EXTINF:-1,RO | Digi Sport 1 FHD
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16315
-#EXTINF:-1,RO | Digi Sports 2 FHD
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16316
-#EXTINF:-1,RO | Digi Sports 3 FHD
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16317
-#EXTINF:-1,RO | Digi Sports 4 FHD
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16318
-#EXTINF:-1,RO | DIGI WORLD
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16319
-#EXTINF:-1,RO | Discovery ID
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16321
-#EXTINF:-1,RO | Discovery Science
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16322
-#EXTINF:-1,RO | Disney Channel
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16323
-#EXTINF:-1,RO | Disney Jr
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16324
-#EXTINF:-1,RO | Diva
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16325
-#EXTINF:-1,RO | DTX
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16326
-#EXTINF:-1,RO | Etno
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16328
-#EXTINF:-1,RO | Eurosport 1
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16329
-#EXTINF:-1,RO | Eurosport 2
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16330
-#EXTINF:-1,RO | Extreme Sport
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16331
-#EXTINF:-1,RO | Favorit TV
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16332
-#EXTINF:-1,RO | Film Cafe
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16333
-#EXTINF:-1,RO | Fishing and Hunting
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16334
-#EXTINF:-1,RO | Food Network
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16335
-#EXTINF:-1,RO | Happy Channel
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16336
-#EXTINF:-1,RO | HBO
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16337
-#EXTINF:-1,RO | HBO 3
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16338
-#EXTINF:-1,RO | HBO2
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16339
-#EXTINF:-1,RO | History
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16341
-#EXTINF:-1,RO | HIT MUSIC
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16342
-#EXTINF:-1,RO | Hora TV
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16343
-#EXTINF:-1,RO | Kanal D
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16345
-#EXTINF:-1,RO | Kanal D HD
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16346
-#EXTINF:-1,RO | Kiss TV
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16347
-#EXTINF:-1,RO | Look Plus
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16348
-#EXTINF:-1,RO | Look TV
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16349
-#EXTINF:-1,RO | MTV
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16352
-#EXTINF:-1,RO | MTV Dance
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16353
-#EXTINF:-1,RO | MTV Hits
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16354
-#EXTINF:-1,RO | Nat Geo Wild
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16358
-#EXTINF:-1,RO | National 24
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16359
-#EXTINF:-1,RO | National Geographic
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16360
-#EXTINF:-1,RO | National TV
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16361
-#EXTINF:-1,RO | Nickelodeon
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16362
-#EXTINF:-1,RO | Paramount Channel
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16363
-#EXTINF:-1,RO | Prima TV
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16364
-#EXTINF:-1,RO | PRO Cinema
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16365
-#EXTINF:-1,RO | PRO TV
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16366
-#EXTINF:-1,RO | Pro TV FHD
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16367
-#EXTINF:-1,RO | Realitatea TV
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16368
-#EXTINF:-1,RO | ROmania TV
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16369
-#EXTINF:-1,RO | Sport
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16370
-#EXTINF:-1,RO | Telekom 1
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16371
-#EXTINF:-1,RO | Telekom 2
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16372
-#EXTINF:-1,RO | TLC
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16375
-#EXTINF:-1,RO | TNT
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16376
-#EXTINF:-1,RO | Travel Mix
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16378
-#EXTINF:-1,RO | TV Paprika
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16379
-#EXTINF:-1,RO | TV1000
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16380
-#EXTINF:-1,RO | TVR
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16381
-#EXTINF:-1,RO | TVR1
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16382
-#EXTINF:-1,RO | TVR2
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16383
-#EXTINF:-1,RO | UTV
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16385
-#EXTINF:-1,RO | VH1
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16386
-#EXTINF:-1,RO | VH1 Classic
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16387
-#EXTINF:-1,RO | Viasat
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16388
-#EXTINF:-1,RO | Viasat History
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16389
-#EXTINF:-1,RO | Viasat Nature
-http://s1.urhdiptv.info:8080/1MSUfnCWmw/PA9CkbLDrp/16390
+#EXTINF:-1,RO: Antena 1
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16211
+#EXTINF:-1,RO: Tvr 1
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16212
+#EXTINF:-1,RO: Tvr 2
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16213
+#EXTINF:-1,RO: Romania
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16214
+#EXTINF:-1,RO: National
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16215
+#EXTINF:-1,RO: NatGeo Wild
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16216
+#EXTINF:-1,RO: Nat Geographic
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16217
+#EXTINF:-1,RO: Fishing & Hunting
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16218
+#EXTINF:-1,RO: Digi Animal World
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16219
+#EXTINF:-1,RO: Disney Junior
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16220
+#EXTINF:-1,RO: Hbo 2
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16222
+#EXTINF:-1,RO: Hbo 3
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16223
+#EXTINF:-1,RO: Eurosport
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16225
+#EXTINF:-1,RO: Eurosport 2
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16226
+#EXTINF:-1,RO: Digi Life
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16227
+#EXTINF:-1,RO: Digi Film
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16228
+#EXTINF:-1,RO: Digi 24
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16229
+#EXTINF:-1,RO: Cinemax 2
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16230
+#EXTINF:-1,RO: B1
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16231
+#EXTINF:-1,RO: Antena Stars
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16232
+#EXTINF:-1,RO: TV1000
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16233
+#EXTINF:-1,RO: Taraf
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16234
+#EXTINF:-1,RO: Realitatea+
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16235
+#EXTINF:-1,RO: Pro TV
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16236
+#EXTINF:-1,RO: Happy
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16238
+#EXTINF:-1,RO: Look Sport
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16240
+#EXTINF:-1,RO: Kanal D
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16241
+#EXTINF:-1,RO: History
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16242
+#EXTINF:-1,RO: Digi World
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16243
+#EXTINF:-1,RO: 1 Music
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16244
+#EXTINF:-1,RO: Bollywood
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16245
+#EXTINF:-1,RO: Alfa & Omega
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16248
+#EXTINF:-1,RO: Animal Planet
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16249
+#EXTINF:-1,RO: Antena 3
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16250
+#EXTINF:-1,RO: AXN White
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16253
+#EXTINF:-1,RO: Boomerang
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16254
+#EXTINF:-1,RO: Cartoon Network
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16255
+#EXTINF:-1,RO: Bollywood Clasic
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16257
+#EXTINF:-1,RO: Cinemax Ro
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16258
+#EXTINF:-1,RO: Comedy Central
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16259
+#EXTINF:-1,RO: Discovery ID
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16261
+#EXTINF:-1,RO: Discovery Science
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16262
+#EXTINF:-1,RO: Discovery Turbo Xtra
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16263
+#EXTINF:-1,RO: Favorit Tv
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16265
+#EXTINF:-1,RO: HBO Romania
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16266
+#EXTINF:-1,RO: HIT
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16267
+#EXTINF:-1,RO: Look+
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16268
+#EXTINF:-1,RO: Hit Music
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16269
+#EXTINF:-1,RO: Nickelodeon
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16271
+#EXTINF:-1,RO: Paprika
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16272
+#EXTINF:-1,RO: Paramount Channel
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16273
+#EXTINF:-1,RO: Prima Tv
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16274
+#EXTINF:-1,RO: Pro Cinema
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16275
+#EXTINF:-1,RO: Traditional
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16279
+#EXTINF:-1,RO: TV5 MONDE
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16280
+#EXTINF:-1,RO: U TV
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16282
+#EXTINF:-1,RO: Viasat History
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16283
+#EXTINF:-1,RO: Viasat Nature
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16284
+#EXTINF:-1,RO: ZU TV
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16285
+#EXTINF:-1,RO: Acasa
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16286
+#EXTINF:-1,RO: Acasa Gold
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16287
+#EXTINF:-1,RO: AgroTV
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16288
+#EXTINF:-1,RO: Antena 1
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16289
+#EXTINF:-1,RO: Antena 1 FHD
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16290
+#EXTINF:-1,RO: Antena 3
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16291
+#EXTINF:-1,RO: Antena 3 FHD
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16292
+#EXTINF:-1,RO: Antena Stars
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16293
+#EXTINF:-1,RO: Antena Stars HD
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16294
+#EXTINF:-1,RO: AXN
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16295
+#EXTINF:-1,RO: AXN FHD
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16296
+#EXTINF:-1,RO: AXN Black
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16297
+#EXTINF:-1,RO: AXN SPIN
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16298
+#EXTINF:-1,RO: AXN White
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16299
+#EXTINF:-1,RO: B1
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16300
+#EXTINF:-1,RO: Boomerang
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16301
+#EXTINF:-1,RO: Cartoon Network
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16302
+#EXTINF:-1,RO: Cinemax 1
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16303
+#EXTINF:-1,RO: Cinemax 2
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16304
+#EXTINF:-1,RO: Comedy Central
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16305
+#EXTINF:-1,RO: DIGI 24
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16307
+#EXTINF:-1,RO: DIGI ANIMAL WORLD
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16308
+#EXTINF:-1,RO: DIGI FILM
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16309
+#EXTINF:-1,RO: DIGI Life
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16310
+#EXTINF:-1,RO: DIGI Sport 1
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16311
+#EXTINF:-1,RO: DIGI Sport 2
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16312
+#EXTINF:-1,RO: DIGI Sport 3
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16313
+#EXTINF:-1,RO: DIGI Sport 4
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16314
+#EXTINF:-1,RO: Digi Sport 1 FHD
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16315
+#EXTINF:-1,RO: Digi Sports 2 FHD
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16316
+#EXTINF:-1,RO: Digi Sports 3 FHD
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16317
+#EXTINF:-1,RO: Digi Sports 4 FHD
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16318
+#EXTINF:-1,RO: DIGI WORLD
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16319
+#EXTINF:-1,RO: Discovery ID
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16321
+#EXTINF:-1,RO: Discovery Science
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16322
+#EXTINF:-1,RO: Disney Channel
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16323
+#EXTINF:-1,RO: Disney Jr
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16324
+#EXTINF:-1,RO: Diva
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16325
+#EXTINF:-1,RO: DTX
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16326
+#EXTINF:-1,RO: Etno
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16328
+#EXTINF:-1,RO: Eurosport 1
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16329
+#EXTINF:-1,RO: Eurosport 2
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16330
+#EXTINF:-1,RO: Extreme Sport
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16331
+#EXTINF:-1,RO: Favorit TV
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16332
+#EXTINF:-1,RO: Film Cafe
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16333
+#EXTINF:-1,RO: Fishing and Hunting
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16334
+#EXTINF:-1,RO: Food Network
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16335
+#EXTINF:-1,RO: Happy Channel
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16336
+#EXTINF:-1,RO: HBO
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16337
+#EXTINF:-1,RO: HBO 3
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16338
+#EXTINF:-1,RO: HBO2
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16339
+#EXTINF:-1,RO: History
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16341
+#EXTINF:-1,RO: HIT MUSIC
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16342
+#EXTINF:-1,RO: Hora TV
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16343
+#EXTINF:-1,RO: Kanal D
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16345
+#EXTINF:-1,RO: Kanal D HD
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16346
+#EXTINF:-1,RO: Kiss TV
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16347
+#EXTINF:-1,RO: Look Plus
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16348
+#EXTINF:-1,RO: Look TV
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16349
+#EXTINF:-1,RO: MTV
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16352
+#EXTINF:-1,RO: MTV Dance
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16353
+#EXTINF:-1,RO: MTV Hits
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16354
+#EXTINF:-1,RO: Nat Geo Wild
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16358
+#EXTINF:-1,RO: National 24
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16359
+#EXTINF:-1,RO: National Geographic
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16360
+#EXTINF:-1,RO: National TV
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16361
+#EXTINF:-1,RO: Nickelodeon
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16362
+#EXTINF:-1,RO: Paramount Channel
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16363
+#EXTINF:-1,RO: Prima TV
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16364
+#EXTINF:-1,RO: PRO Cinema
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16365
+#EXTINF:-1,RO: PRO TV
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16366
+#EXTINF:-1,RO: Pro TV FHD
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16367
+#EXTINF:-1,RO: Realitatea TV
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16368
+#EXTINF:-1,RO: ROmania TV
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16369
+#EXTINF:-1,RO: Sport
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16370
+#EXTINF:-1,RO: Telekom 1
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16371
+#EXTINF:-1,RO: Telekom 2
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16372
+#EXTINF:-1,RO: TLC
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16375
+#EXTINF:-1,RO: TNT
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16376
+#EXTINF:-1,RO: Travel Mix
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16378
+#EXTINF:-1,RO: TV Paprika
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16379
+#EXTINF:-1,RO: TV1000
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16380
+#EXTINF:-1,RO: TVR
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16381
+#EXTINF:-1,RO: TVR1
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16382
+#EXTINF:-1,RO: TVR2
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16383
+#EXTINF:-1,RO: UTV
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16385
+#EXTINF:-1,RO: VH1
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16386
+#EXTINF:-1,RO: VH1 Classic
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16387
+#EXTINF:-1,RO: Viasat
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16388
+#EXTINF:-1,RO: Viasat History
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16389
+#EXTINF:-1,RO: Viasat Nature
+http://s1.urhdiptv.info:8080/vatdLxtvhP/yvORVRATpZ/16390
+#EXTINF:-1,RO: Antena 1
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16211
+#EXTINF:-1,RO: Tvr 1
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16212
+#EXTINF:-1,RO: Tvr 2
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16213
+#EXTINF:-1,RO: Romania
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16214
+#EXTINF:-1,RO: National
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16215
+#EXTINF:-1,RO: NatGeo Wild
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16216
+#EXTINF:-1,RO: Nat Geographic
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16217
+#EXTINF:-1,RO: Fishing & Hunting
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16218
+#EXTINF:-1,RO: Digi Animal World
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16219
+#EXTINF:-1,RO: Disney Junior
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16220
+#EXTINF:-1,RO: Hbo 2
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16222
+#EXTINF:-1,RO: Hbo 3
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16223
+#EXTINF:-1,RO: Eurosport
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16225
+#EXTINF:-1,RO: Eurosport 2
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16226
+#EXTINF:-1,RO: Digi Life
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16227
+#EXTINF:-1,RO: Digi Film
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16228
+#EXTINF:-1,RO: Digi 24
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16229
+#EXTINF:-1,RO: Cinemax 2
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16230
+#EXTINF:-1,RO: B1
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16231
+#EXTINF:-1,RO: Antena Stars
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16232
+#EXTINF:-1,RO: TV1000
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16233
+#EXTINF:-1,RO: Taraf
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16234
+#EXTINF:-1,RO: Realitatea+
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16235
+#EXTINF:-1,RO: Pro TV
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16236
+#EXTINF:-1,RO: Happy
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16238
+#EXTINF:-1,RO: Look Sport
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16240
+#EXTINF:-1,RO: Kanal D
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16241
+#EXTINF:-1,RO: History
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16242
+#EXTINF:-1,RO: Digi World
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16243
+#EXTINF:-1,RO: 1 Music
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16244
+#EXTINF:-1,RO: Bollywood
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16245
+#EXTINF:-1,RO: Alfa & Omega
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16248
+#EXTINF:-1,RO: Animal Planet
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16249
+#EXTINF:-1,RO: Antena 3
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16250
+#EXTINF:-1,RO: AXN White
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16253
+#EXTINF:-1,RO: Boomerang
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16254
+#EXTINF:-1,RO: Cartoon Network
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16255
+#EXTINF:-1,RO: Bollywood Clasic
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16257
+#EXTINF:-1,RO: Cinemax Ro
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16258
+#EXTINF:-1,RO: Comedy Central
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16259
+#EXTINF:-1,RO: Discovery ID
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16261
+#EXTINF:-1,RO: Discovery Science
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16262
+#EXTINF:-1,RO: Discovery Turbo Xtra
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16263
+#EXTINF:-1,RO: Favorit Tv
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16265
+#EXTINF:-1,RO: HBO Romania
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16266
+#EXTINF:-1,RO: HIT
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16267
+#EXTINF:-1,RO: Look+
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16268
+#EXTINF:-1,RO: Hit Music
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16269
+#EXTINF:-1,RO: Nickelodeon
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16271
+#EXTINF:-1,RO: Paprika
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16272
+#EXTINF:-1,RO: Paramount Channel
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16273
+#EXTINF:-1,RO: Prima Tv
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16274
+#EXTINF:-1,RO: Pro Cinema
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16275
+#EXTINF:-1,RO: Traditional
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16279
+#EXTINF:-1,RO: TV5 MONDE
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16280
+#EXTINF:-1,RO: U TV
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16282
+#EXTINF:-1,RO: Viasat History
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16283
+#EXTINF:-1,RO: Viasat Nature
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16284
+#EXTINF:-1,RO: ZU TV
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16285
+#EXTINF:-1,RO: Acasa
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16286
+#EXTINF:-1,RO: Acasa Gold
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16287
+#EXTINF:-1,RO: AgroTV
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16288
+#EXTINF:-1,RO: Antena 1
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16289
+#EXTINF:-1,RO: Antena 1 FHD
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16290
+#EXTINF:-1,RO: Antena 3
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16291
+#EXTINF:-1,RO: Antena 3 FHD
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16292
+#EXTINF:-1,RO: Antena Stars
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16293
+#EXTINF:-1,RO: Antena Stars HD
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16294
+#EXTINF:-1,RO: AXN
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16295
+#EXTINF:-1,RO: AXN FHD
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16296
+#EXTINF:-1,RO: AXN Black
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16297
+#EXTINF:-1,RO: AXN SPIN
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16298
+#EXTINF:-1,RO: AXN White
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16299
+#EXTINF:-1,RO: B1
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16300
+#EXTINF:-1,RO: Boomerang
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16301
+#EXTINF:-1,RO: Cartoon Network
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16302
+#EXTINF:-1,RO: Cinemax 1
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16303
+#EXTINF:-1,RO: Cinemax 2
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16304
+#EXTINF:-1,RO: Comedy Central
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16305
+#EXTINF:-1,RO: DIGI 24
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16307
+#EXTINF:-1,RO: DIGI ANIMAL WORLD
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16308
+#EXTINF:-1,RO: DIGI FILM
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16309
+#EXTINF:-1,RO: DIGI Life
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16310
+#EXTINF:-1,RO: DIGI Sport 1
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16311
+#EXTINF:-1,RO: DIGI Sport 2
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16312
+#EXTINF:-1,RO: DIGI Sport 3
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16313
+#EXTINF:-1,RO: DIGI Sport 4
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16314
+#EXTINF:-1,RO: Digi Sport 1 FHD
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16315
+#EXTINF:-1,RO: Digi Sports 2 FHD
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16316
+#EXTINF:-1,RO: Digi Sports 3 FHD
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16317
+#EXTINF:-1,RO: Digi Sports 4 FHD
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16318
+#EXTINF:-1,RO: DIGI WORLD
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16319
+#EXTINF:-1,RO: Discovery ID
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16321
+#EXTINF:-1,RO: Discovery Science
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16322
+#EXTINF:-1,RO: Disney Channel
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16323
+#EXTINF:-1,RO: Disney Jr
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16324
+#EXTINF:-1,RO: Diva
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16325
+#EXTINF:-1,RO: DTX
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16326
+#EXTINF:-1,RO: Etno
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16328
+#EXTINF:-1,RO: Eurosport 1
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16329
+#EXTINF:-1,RO: Eurosport 2
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16330
+#EXTINF:-1,RO: Extreme Sport
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16331
+#EXTINF:-1,RO: Favorit TV
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16332
+#EXTINF:-1,RO: Film Cafe
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16333
+#EXTINF:-1,RO: Fishing and Hunting
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16334
+#EXTINF:-1,RO: Food Network
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16335
+#EXTINF:-1,RO: Happy Channel
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16336
+#EXTINF:-1,RO: HBO
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16337
+#EXTINF:-1,RO: HBO 3
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16338
+#EXTINF:-1,RO: HBO2
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16339
+#EXTINF:-1,RO: History
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16341
+#EXTINF:-1,RO: HIT MUSIC
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16342
+#EXTINF:-1,RO: Hora TV
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16343
+#EXTINF:-1,RO: Kanal D
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16345
+#EXTINF:-1,RO: Kanal D HD
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16346
+#EXTINF:-1,RO: Kiss TV
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16347
+#EXTINF:-1,RO: Look Plus
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16348
+#EXTINF:-1,RO: Look TV
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16349
+#EXTINF:-1,RO: MTV
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16352
+#EXTINF:-1,RO: MTV Dance
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16353
+#EXTINF:-1,RO: MTV Hits
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16354
+#EXTINF:-1,RO: Nat Geo Wild
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16358
+#EXTINF:-1,RO: National 24
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16359
+#EXTINF:-1,RO: National Geographic
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16360
+#EXTINF:-1,RO: National TV
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16361
+#EXTINF:-1,RO: Nickelodeon
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16362
+#EXTINF:-1,RO: Paramount Channel
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16363
+#EXTINF:-1,RO: Prima TV
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16364
+#EXTINF:-1,RO: PRO Cinema
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16365
+#EXTINF:-1,RO: PRO TV
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16366
+#EXTINF:-1,RO: Pro TV FHD
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16367
+#EXTINF:-1,RO: Realitatea TV
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16368
+#EXTINF:-1,RO: ROmania TV
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16369
+#EXTINF:-1,RO: Sport
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16370
+#EXTINF:-1,RO: Telekom 1
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16371
+#EXTINF:-1,RO: Telekom 2
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16372
+#EXTINF:-1,RO: TLC
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16375
+#EXTINF:-1,RO: TNT
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16376
+#EXTINF:-1,RO: Travel Mix
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16378
+#EXTINF:-1,RO: TV Paprika
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16379
+#EXTINF:-1,RO: TV1000
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16380
+#EXTINF:-1,RO: TVR
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16381
+#EXTINF:-1,RO: TVR1
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16382
+#EXTINF:-1,RO: TVR2
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16383
+#EXTINF:-1,RO: UTV
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16385
+#EXTINF:-1,RO: VH1
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16386
+#EXTINF:-1,RO: VH1 Classic
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16387
+#EXTINF:-1,RO: Viasat
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16388
+#EXTINF:-1,RO: Viasat History
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16389
+#EXTINF:-1,RO: Viasat Nature
+http://s1.urhdiptv.info:8080/3ft4dxT8qM/jHCZW1eUo1/16390
