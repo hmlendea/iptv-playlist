@@ -400,11 +400,6 @@ https://vid.hls.protv.ro/procineman/procinema_2_34/index.m3u8?1
 #EXTINF:-1,RO: Pro Cinema
 https://vid.hls.protv.ro/procineman/procinema_1_34/index.m3u8?1
 
-#EXTINF:-1,RO: Pro FM
-http://edge126.rdsnet.ro/profm/profm/index.m3u8
-#EXTINF:-1,RO: Pro FM DanceFM
-http://edge126.rdsnet.ro/profm/dancefm/index.m3u8
-
 #EXTINF:-1,RO: Pro Gold
 https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
 #EXTINF:-1,RO: Pro Gold
