@@ -98,10 +98,6 @@ http://80.86.107.169:8100/stream.flv
 https://stream2.kanald.ro/iphone/knd-live_low/index.m3u8
 
 #EXTINF:-1,RO: Kapital TV
-http://kapital-tv.duckdns.org:1935/live/livestream/playlist.m3u
-#EXTINF:-1,RO: Kapital TV
-http://kapital-tv.duckdns.org:1935/live/livestream/playlist.m3u8
-#EXTINF:-1,RO: Kapital TV
 https://netstreaming.eu:8080/hls/livestream.m3u8
 #EXTINF:-1,RO: Kapital TV
 http://iptv-watch.duckdns.org:8080/hls/livestream.m3u8
@@ -111,9 +107,6 @@ http://185.162.141.69:20077/kiss
 
 #EXTINF:-1,RO: LinkPress TV
 http://cast.independentmedia.network:9090/seconds6hls/live.m3u8
-
-#EXTINF:-1,RO: Magic TV
-http://iptv-max.duckdns.org/live3/_definst_/magictv/playlist.m3u8
 
 #EXTINF:-1,RO: Metropola TV
 http://cdn.metropolatv.ro:9090/seconds3hls/live.m3u8
@@ -126,22 +119,10 @@ https://vidl.misatv.ro:5050/MSTV/romanian_360p/chunklist.m3u8
 #EXTINF:-1,RO: Muscel TV
 mmsh://musceltvlive.muscel.ro:8080
 
-#EXTINF:-1,RO: Național 24 Plus
-http://iptv-max.duckdns.org/live3/_definst_/n24/playlist.m3u8
-
-#EXTINF:-1,RO: Național TV
-http://iptv-max.duckdns.org/live3/_definst_/nationaltv/playlist.m3u8
-
 #EXTINF:-1,RO: Nova TV
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1,RO: Nova TV
 http://novapress.ro:2022/live/nova/chunklist.m3u8
-#EXTINF:-1,RO: Nova TV
-http://novapress.ro:1935/live/nova/playlist.m3u8
-#EXTINF:-1,RO: Nova TV
-http://novapress.ro:1935/live/nova/chunklist.m3u8
-#EXTINF:-1,RO: Nova TV
-http://novapress.ro:1935/live/nova/chunklist_w1325158178.m3u8
 
 #EXTINF:-1,RO: ONE TV
 http://onetv.srfms.com:1935/ONETV/livestream/playlist.m3u8
@@ -270,13 +251,6 @@ https://vdo.ssl-stream.com:3247/stream/play.m3u8
 #EXTINF:-1,RO: Telestar
 http://telestar1.duckdns.org:8090/
 
-#EXTINF:-1,RO: Tezaur TV
-https://netstreaming.eu:8080/hls/tezaurtv.m3u8
-#EXTINF:-1,RO: Tezaur TV
-http://iptv-watch.duckdns.org:8080/hls/tezaurtv.m3u8
-#EXTINF:-1,RO: Tezaur TV
-http://tezaur-tv.duckdns.org:1935/live/_definst_/tezaurtv/playlist.m3u8
-
 #EXTINF:-1,RO: Tradițional TV
 http://traditional-tv.duckdns.org:8085/udp/239.30.0.9:4000
 
@@ -285,17 +259,11 @@ http://watching-iptv.duckdns.org:39520
 #EXTINF:-1,RO: Travel Mix
 https://ch.iptvmate.net/7c06b81435fa03b0939289718990d5de.m3u8
 
-#EXTINF:-1,RO: Trinitas
-http://iptv-max.duckdns.org/live3/_definst_/trinitas/playlist.m3u8
-
 #EXTINF:-1,RO: TV Arad
 https://live.djemba.ro/live/tvaradlive/playlist.m3u8
 
 #EXTINF:-1,RO: TV Buzău
 http://tv-buzau.duckdns.org:8080
-
-#EXTINF:-1,RO: TV City
-http://iptv-max.duckdns.org/live3/_definst_/citytv/playlist.m3u8
 
 #EXTINF:-1,RO: TV Plus Suceava
 http://tvplus-suceava.duckdns.org:8080
