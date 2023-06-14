@@ -234,7 +234,7 @@ https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uh
 http://media.3netmedia.ro:8000/Live128.m3u
 
 #EXTINF:-1,RO: Radio ZU Video HD
-https://play.myovn.com/s1/cache/radiozu/chunklist.m3u8
+https://ivm.antenaplay.ro/live/zurtv/playlist.m3u8?version=1&session=drCUjgwZCK5k2uVuXw1x&starttime=1686727154&endtime=1686734384&source=zuweb&token=ERtqh1xw4F4QURkkbOkPY7zSjdI=
 
 #EXTINF:-1,RO: Realitatea Plus
 https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
@@ -243,10 +243,6 @@ https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:-1,RO: Realitatea TV
 http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF:-1,RO: Realitatea TV
-http://iptv-max.duckdns.org/live3/_definst_/realitatea/playlist.m3u8
-#EXTINF:-1,RO: Realitatea TV
-https://ch.iptvmate.net/3d5810f4977ab3247bf7b5f7ad03d6e2.m3u8
 
 #EXTINF:-1,RO: Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -258,7 +254,7 @@ http://whoptv.on-the-web.tv:8081/diretta/direttats/playlist.m3u8
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1,RO: Romania TV
-http://iptv-max.duckdns.org/live3/_definst_/rtv/playlist.m3u8
+https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 
 #EXTINF:-1,RO: Super TV
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
@@ -270,7 +266,7 @@ http://telem-botosani.duckdns.org:8080/testing/pl5/playlist/ram/playlist.m3u8
 
 #EXTINF:-1,RO: TeleMoldova Plus
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
-https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
+
 #EXTINF:-1,RO: Telestar
 http://telestar1.duckdns.org:8090/
 
