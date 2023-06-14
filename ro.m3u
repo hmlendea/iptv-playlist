@@ -134,9 +134,6 @@ https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
 #EXTINF:-1,RO: LinkPress TV
 http://cast.independentmedia.network:9090/seconds6hls/live.m3u8
 
-#EXTINF:-1,RO: Lira TV
-https://5d79ae45bc63b.streamlock.net:443/liratv/liratv/playlist.m3u8
-
 #EXTINF:-1,RO: Magic TV
 https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
 #EXTINF:-1,RO: Magic TV
@@ -158,22 +155,8 @@ https://vidl.misatv.ro:5050/MSTV/romanian_360p/playlist.m3u8
 #EXTINF:-1,RO: Misa Senzațional TV
 https://vidl.misatv.ro:5050/MSTV/romanian_360p/chunklist.m3u8
 
-#EXTINF:-1,RO: Mooz Ro!
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,RO: Mooz HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,RO: Mooz Dance
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/18.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,RO: Mooz Hits
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/18.m3u8/Level(545259)?start=LIVE&end=END
-
 #EXTINF:-1,RO: Muscel TV
 mmsh://musceltvlive.muscel.ro:8080
-
-#EXTINF:-1,RO: Nasul TV
-https://5ab29cc78f681.streamlock.net/nasultvlive/nasultvlive/playlist.m3u8
-#EXTINF:-1,RO: Nasul TV
-http://tvron.net/53-1.m3u8
 
 #EXTINF:-1,RO: Național 24 Plus
 http://glorious-iptv.duckdns.org/N24plus/playlist.m3u8
@@ -186,9 +169,6 @@ http://fms91.mediadirect.ro:1937/live3/_definst_/nationaltv_low/playlist.m3u8?pu
 http://glorious-iptv.duckdns.org/National/playlist.m3u8
 #EXTINF:-1,RO: Național TV
 http://iptv-max.duckdns.org/live3/_definst_/nationaltv/playlist.m3u8
-
-#EXTINF:-1,RO: Neptun TV
-http://tvron.net/54-2.m3u8
 
 #EXTINF:-1,RO: NEst TV
 http://webmobile.xdev.ro:81/tv13/playlist.m3u8
@@ -333,8 +313,6 @@ https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w1000915
 http://whoptv.on-the-web.tv:8081/diretta/direttats/playlist.m3u8
 
 #EXTINF:-1,RO: Romania TV
-http://ppext.arktv.ro/hls/channel6/adaptive.m3u8
-#EXTINF:-1,RO: Romania TV
 http://iptv-max.duckdns.org/live3/_definst_/rtv/playlist.m3u8
 
 #EXTINF:-1,RO: RTS
@@ -348,34 +326,16 @@ https://ch.iptvmate.net/7dc7aaf375f66dd8ea52851e19954946.m3u8
 #EXTINF:-1,RO: Somax
 http://webmobile.xdev.ro:81/tv12/playlist.m3u8
 
-#EXTINF:-1,RO: Speranța TV
-http://amsix214.streamkit.tv/edge/_definst_/sperantatv_1200/chunklist.m3u8
-#EXTINF:-1,RO: Speranța TV
-http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
-#EXTINF:-1,RO: Speranța TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-
-#EXTINF:-1,RO: Super TV HD
-http://91.235.165.114/live/smil:hls.smil/playlist.m3u8
 #EXTINF:-1,RO: Super TV
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
 #EXTINF:-1,RO: Super TV
 http://iptv.supertv.ro:8000/play/a002/index.m3u8
-#EXTINF:-1,RO: Super TV
-http://live.supertv.ro/live/smil:hls.smil/index.m3u8
 
 #EXTINF:-1,RO: Taraf TV
 http://glorious-iptv.duckdns.org/TarafTV/playlist.m3u8
 
-#EXTINF:-1,RO: Tele2 Drobeta
-https://stream.tele2drobeta.ro/hls/live.stream.m3u8
-#EXTINF:-1,RO: Tele2 Drobeta
-http://89.47.38.12:8098
-
 #EXTINF:-1,RO: TeleMoldova Botoșani
 http://telem-botosani.duckdns.org:8080/testing/pl5/playlist/ram/playlist.m3u8
-#EXTINF:-1,RO: TeleMoldova Botoșani
-http://webmobile.xdev.ro:81/tv11/playlist.m3u8
 
 #EXTINF:-1,RO: TeleMoldova Iași
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
@@ -387,8 +347,6 @@ http://webmobile.xdev.ro:81/tv5/playlist.m3u8
 http://s1.streamnet.ro:8053/stream.flv
 #EXTINF:-1,RO: Telestar
 http://telestar1.duckdns.org:8090/
-#EXTINF:-1,RO: Telestar
-http://tvron.net/57-3.m3u8
 
 
 #EXTINF:-1,RO: Tezaur TV
@@ -398,21 +356,9 @@ http://iptv-watch.duckdns.org:8080/hls/tezaurtv.m3u8
 #EXTINF:-1,RO: Tezaur TV
 http://tezaur-tv.duckdns.org:1935/live/_definst_/tezaurtv/playlist.m3u8
 
-#EXTINF:-1,RO: TL Plus
-http://nginx.arya.ro:8080/hls/tlplus.m3u8
-
-#EXTINF:-1,RO: Tradiții TV
-https://ppext.arktv.ro/hls/channel5/adaptive.m3u8
-#EXTINF:-1,RO: Tradiții TV
-http://ppext.arktv.ro/hls/channel5/bitrate4.m3u8
-#EXTINF:-1,RO: Tradiții TV
-http://v6.arya.ro:8080/hls/traditiitv.m3u8
-
 #EXTINF:-1,RO: Tradițional TV
 http://traditional-tv.duckdns.org:8085/udp/239.30.0.9:4000
 
-#EXTINF:-1,RO: Travel Mix
-https://ppext.arktv.ro/hls/channel1/adaptive.m3u8
 #EXTINF:-1,RO: Travel Mix
 http://watching-iptv.duckdns.org:39520
 #EXTINF:-1,RO: Travel Mix
@@ -450,14 +396,6 @@ http://iptv-online.duckdns.org:39419
 https://ch.iptvmate.net/d70fbf6bb5de6d71ac64f359ada1342b.m3u8
 #EXTINF:-1,RO: TV Sud Est TVSAT
 http://iptv-online.duckdns.org:39443
-
-#EXTINF:-1,RO: TV Sud Gorj
-http://nginx.arya.ro:8080/hls/tvsudmobil.m3u8
-
-#EXTINF:-1,RO: TVH
-http://ppext.arktv.ro/hls/channel7/adaptive.m3u8
-#EXTINF:-1,RO: TVH
-http://ppext.arktv.ro/hls/channel7/bitrate4.m3u8
 
 #EXTINF:-1,RO: TVR 1
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
@@ -503,13 +441,6 @@ http://mn-nl.mncdn.com/tvr_timisoara_live/tvr_timisoara_live2/playlist.m3u8
 #EXTINF:-1,RO: TVR Timișoara
 https://ch.iptvmate.net/6a92cb9fdcb8293667ba4cb48df667e2.m3u8
 
-#EXTINF:-1,RO: TVH
-https://ppext.arktv.ro/hls/channel7/adaptive.m3u8
-#EXTINF:-1,RO: TVH
-https://ppext.arktv.ro/hls/channel7/bitrate4.m3u8
-#EXTINF:-1,RO: TVH
-http://tvron.net/59-1.m3u8
-
 #EXTINF:-1,RO: U TV
 http://glorious-iptv.duckdns.org/UTV/playlist.m3u8
 #EXTINF:-1,RO: U TV
@@ -522,9 +453,4 @@ http://tv-online-free.duckdns.org/utvedge/utvlive/index.m3u8
 #EXTINF:-1,RO: Valea Prahovei TV
 http://iptv-online.duckdns.org:39437
 #EXTINF:-1,RO: Valea Prahovei TV
-https://ppext.arktv.ro/hls/channel2/adaptive.m3u8
-#EXTINF:-1,RO: Valea Prahovei TV
 https://ch.iptvmate.net/e6566abb541c96b09a710d718fe750ab.m3u8
-
-#EXTINF:-1,RO: VTV
-http://tvron.net/59-3.m3u8
