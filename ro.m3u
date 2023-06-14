@@ -190,9 +190,9 @@ https://www.djing.com/tv/hits.m3u8
 #EXTINF:-1,RO: Dotto TV
 https://dotto.edvr.ro/index.m3u8
 
-#EXTINF:-1,RO: Est TV
+#EXTINF:-1,RO: Moldova TV
 http://watching-iptv.duckdns.org:39519
-#EXTINF:-1,RO: Est TV
+#EXTINF:-1,RO: Moldova TV
 https://ch.iptvmate.net/481759b863db782ad989e4454ddc7ae9.m3u8
 
 #EXTINF:-1,RO: Etno TV
@@ -277,11 +277,6 @@ https://5ab29cc78f681.streamlock.net/NasulTV/livestream/master.m3u8
 https://5ab29cc78f681.streamlock.net/NasulTV/livestream/chunklist.m3u8
 #EXTINF:-1,RO: Nașul TV
 https://5ab29cc78f681.streamlock.net/NasulTV/livestream/chunklist_w294337006.m3u8
-
-#EXTINF:-1,RO: Național TV
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b6096000.m3u8
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b1048000.m3u8
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
 
 #EXTINF:-1,RO: Nova TV
 http://novapress.ro:2022/live/nova/playlist.m3u8
@@ -455,9 +450,6 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1,RO: Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
-#EXTINF:-1,RO: RO Channel
-http://whoptv.on-the-web.tv:8081/diretta/direttats/playlist.m3u8
-
 #EXTINF:-1,RO: România TV
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 
@@ -518,12 +510,10 @@ https://ch.iptvmate.net/cad4c46912403e9f067ca9d10387d1e9.m3u8
 #EXTINF:-1,RO: TV Sud
 https://stream.leetweb.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 
-#EXTINF:-1,RO: TV Sud Est
+#EXTINF:-1,RO: Exploris
 http://iptv-online.duckdns.org:39419
-#EXTINF:-1,RO: TV Sud Est
+#EXTINF:-1,RO: Exploris
 https://ch.iptvmate.net/d70fbf6bb5de6d71ac64f359ada1342b.m3u8
-#EXTINF:-1,RO: TV Sud Est TVSAT
-http://iptv-online.duckdns.org:39443
 
 #EXTINF:-1,RO: TVR 1
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
