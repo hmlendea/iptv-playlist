@@ -1,10 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1,MD: Busuioc TV
+https://busuioctv.iforward.eu/hls/busuioc.m3u8
+
 #EXTINF:-1,MD: Diaspora Media
 https://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
 
 #EXTINF:-1,MD: Drochia TV
 http://hls.drochia.tv/tv/web.m3u8
+
+#EXTINF:-1,MD: Jurnal TV
+https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8
+
+#EXTINF:-1,MD: Moldova 1
+https://v.trm.md/static/streaming-playlists/hls/8fbc17e5-7dcb-4eb9-ba0b-46116257a0d2/master.m3u8
+#EXTINF:-1,MD: Moldova 1
+https://v.trm.md/static/streaming-playlists/hls/8fbc17e5-7dcb-4eb9-ba0b-46116257a0d2/0.m3u8
+
+#EXTINF:-1,MD: Moldova 2
+https://v3.trm.md/static/streaming-playlists/hls/a841f731-6c85-4177-a8c3-985f9f68b6fb/master.m3u8
+#EXTINF:-1,MD: Moldova 2
+https://v3.trm.md/static/streaming-playlists/hls/a841f731-6c85-4177-a8c3-985f9f68b6fb/0.m3u8
 
 #EXTINF:-1,MD: Noroc TV SD
 http://live.noroc.tv/hls/noroctv_chisinau.m3u8
@@ -16,8 +32,14 @@ https://livebeta.publika.md/LIVE/P/1500.m3u8
 #EXTINF:-1,MD: Publika TV
 https://livebeta.publika.md/LIVE/P/1000.m3u8
 
+#EXTINF:-1,MD: Soroca TV
+http://188.237.212.16:8888/live/cameraFeed.m3u8
+
 #EXTINF:-1,MD: Tezaur TV
 http://tezaur.mlbfan.org/tezaur/index.m3u8
+
+#EXTINF:-1,MD: TV 8
+https://live.cdn.tv8.md/TV7/index.m3u8
 
 #EXTINF:-1,MD: TVR Moldova
 https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8

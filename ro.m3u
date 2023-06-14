@@ -191,8 +191,11 @@ http://iptv.supertv.ro:8000/play/a001/index.m3u8
 #EXTINF:-1,RO: Super TV
 http://iptv.supertv.ro:8000/play/a002/index.m3u8
 
-#EXTINF:-1,RO: TeleMoldova Botoșani
+#EXTINF:-1,RO: TeleM Botoșani
 http://telem-botosani.duckdns.org:8080/testing/pl5/playlist/ram/playlist.m3u8
+
+#EXTINF:-1,RO: TeleM Iași
+https://tv.streambox.ro/hls/telem/index.m3u8
 
 #EXTINF:-1,RO: TeleMoldova Plus
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
