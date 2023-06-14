@@ -163,11 +163,11 @@ http://212.0.215.115/TV8/playlist.m3u8
 http://212.0.215.115/TVPrim/playlist.m3u8
 
 #EXTINF:-1,MD: TVR Moldova
-http://mn-nl.mncdn.com/tvr_moldova/smil:TVRMOLDOVA.smil/playlist.m3u8
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
 #EXTINF:-1,MD: TVR Moldova
-http://mn-nl.mncdn.com/tvr_moldova_live/tvr_moldova_live2/playlist.m3u8
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/chunklist.m3u8
 #EXTINF:-1,MD: TVR Moldova
-http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8
 
 #EXTINF:-1,MD: Vocea Basarabiei
 http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
