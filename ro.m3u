@@ -46,9 +46,6 @@ http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/chunklist_b1128000.m3u8
 #EXTINF:-1,RO: Credo TV
 https://ch.iptvmate.net/78c274e86d422686ab3b4e36d9103933.m3u8
 
-#EXTINF:-1,RO: Cromtel TV
-http://webmobile.xdev.ro:81/tv7/playlist.m3u8
-
 #EXTINF:-1,RO: Curier TV
 http://curier-tv.duckdns.org:1935/live/curiertv/playlist.m3u8
 #EXTINF:-1,RO: Curier TV
@@ -85,9 +82,6 @@ http://inedittv.ro/live-tv/canal/index.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,RO: Inedit TV
 http://encoder.inedittv.ro:9090/seconds3hls/live.m3u8
-
-#EXTINF:-1,RO: Infinit TV
-http://webmobile.xdev.ro:81/tv6/playlist.m3u8
 
 #EXTINF:-1,RO: Info HD
 https://netstreaming.eu:8080/hls/InfoHd.m3u8
@@ -141,9 +135,6 @@ https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/chunklist_w116202
 #EXTINF:-1,RO: Magic TV
 http://iptv-max.duckdns.org/live3/_definst_/magictv/playlist.m3u8
 
-#EXTINF:-1,RO: Media TV
-http://webmobile.xdev.ro:81/tv22/playlist.m3u8
-
 #EXTINF:-1,RO: Metropola TV
 http://cdn.metropolatv.ro:9090/seconds3hls/live.m3u8
 
@@ -169,9 +160,6 @@ http://fms91.mediadirect.ro:1937/live3/_definst_/nationaltv_low/playlist.m3u8?pu
 http://glorious-iptv.duckdns.org/National/playlist.m3u8
 #EXTINF:-1,RO: Național TV
 http://iptv-max.duckdns.org/live3/_definst_/nationaltv/playlist.m3u8
-
-#EXTINF:-1,RO: NEst TV
-http://webmobile.xdev.ro:81/tv13/playlist.m3u8
 
 #EXTINF:-1,RO: Nickelodeon
 http://glorious-iptv.duckdns.org/Nick/playlist.m3u8
@@ -323,9 +311,6 @@ http://s2.streamnet.ro:8035/stream.flv
 #EXTINF:-1,RO: Sângeorz TV
 https://ch.iptvmate.net/7dc7aaf375f66dd8ea52851e19954946.m3u8
 
-#EXTINF:-1,RO: Somax
-http://webmobile.xdev.ro:81/tv12/playlist.m3u8
-
 #EXTINF:-1,RO: Super TV
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
 #EXTINF:-1,RO: Super TV
@@ -337,11 +322,8 @@ http://glorious-iptv.duckdns.org/TarafTV/playlist.m3u8
 #EXTINF:-1,RO: TeleMoldova Botoșani
 http://telem-botosani.duckdns.org:8080/testing/pl5/playlist/ram/playlist.m3u8
 
-#EXTINF:-1,RO: TeleMoldova Iași
-http://webmobile.xdev.ro:81/tv16/playlist.m3u8
-
 #EXTINF:-1,RO: TeleMoldova Plus
-http://webmobile.xdev.ro:81/tv5/playlist.m3u8
+https://vdo.ssl-stream.com:3247/stream/play.m3u8
 
 #EXTINF:-1,RO: Telestar
 http://s1.streamnet.ro:8053/stream.flv
