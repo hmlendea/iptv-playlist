@@ -3,6 +3,9 @@
 #EXTINF:-1,RO: Agro TV
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 
+#EXTINF:-1,RO: Aleph Business
+https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/chunklist_b3170304.m3u8
+
 #EXTINF:-1,RO: Alfa & Omega TV
 http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
 #EXTINF:-1,RO: Alfa & Omega TV
@@ -220,12 +223,12 @@ https://stream1.profit.ro:1945/profit/livestream/chunklist_w1969009807.m3u8
 https://ch.iptvmate.net/625ea96786f2341ff1ae4983c8e44b08.m3u8
 
 #EXTINF:-1 ,RO: Qub TV
-http://qubtv.duckdns.org:7263
+https://live.djemba.ro/live/qubtvlive/playlist.m3u8
 #EXTINF:-1 ,RO: Qub TV
-https://live2.djemba.ro/qub/live/playlist.m3u8
+https://live.djemba.ro/live/qubtvlive/chunklist.m3u8
 
 #EXTINF:-1,RO: Radio m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
 #EXTINF:-1,RO: Radio România 3Net
 http://media.3netmedia.ro:8000/Live128.m3u
@@ -251,6 +254,9 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1,RO: RO Channel
 http://whoptv.on-the-web.tv:8081/diretta/direttats/playlist.m3u8
 
+#EXTINF:-1,RO: Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
 #EXTINF:-1,RO: Romania TV
 http://iptv-max.duckdns.org/live3/_definst_/rtv/playlist.m3u8
 
@@ -264,7 +270,7 @@ http://telem-botosani.duckdns.org:8080/testing/pl5/playlist/ram/playlist.m3u8
 
 #EXTINF:-1,RO: TeleMoldova Plus
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
-
+https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 #EXTINF:-1,RO: Telestar
 http://telestar1.duckdns.org:8090/
 
