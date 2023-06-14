@@ -1,51 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1,RO: 1 Music Channel
-https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
-#EXTINF:-1,RO: 1 Music Channel
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-
-#EXTINF:-1,RO: 6 TV
-https://stream.chrominance.ro/clients/6tv/playlist.m3u8
-#EXTINF:-1,RO: 6 TV
-https://stream.chrominance.ro/enescu/encoder1/playlist.m3u8
-#EXTINF:-1,RO: 6 TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,RO: 6 TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
-
-#EXTINF:-1,RO: A7 TV
-https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
-#EXTINF:-1,RO: A7 TV
-https://amsix46.streamkit.tv/edge/_definst_/aseventv_500/chunklist.m3u8
-
-#EXTINF:-1,RO: Accent TV
-https://accent-tv.duckdns.org:8080/video/emisie.m3u8
-
-#EXTINF:-1,RO: Actualitatea TV
-https://ch.iptvmate.net/6ec9333f2c6069235fe47686145f880e.m3u8
-#EXTINF:-1,RO: Actualitatea TV
-http://webmobile-xdev-ro.duckdns.org:81/tv4/playlist.m3u8
-#EXTINF:-1,RO: Actualitatea TV
-http://webmobile.xdev.ro:81/tv4/playlist.m3u8
-
-#EXTINF:-1,RO: Acum TV
-http://webmobile-xdev-ro.duckdns.org:81/tv9/playlist.m3u8
-#EXTINF:-1,RO: Acum TV
-http://webmobile.xdev.ro:81/tv9/playlist.m3u8
-
 #EXTINF:-1,RO: Agro TV
-http://agrotv.streamnet.ro:9000
-#EXTINF:-1,RO: Agro TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 
-#EXTINF:-1,RO: Alege TV
-http://live.alege.tv:8080/hls/movie.m3u8
+#EXTINF:-1,RO: Aleph Business
+https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 
 #EXTINF:-1,RO: Aleph News
-http://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/chunklist_b3098304.m3u8
-#EXTINF:-1,RO: Aleph News
-https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/chunklist_b3098304.m3u8
+https://streamb.m.ro/Aleph/ngrp:Alephnew2.stream_all/playlist.m3u8
 
 #EXTINF:-1,RO: Alfa & Omega TV
 http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
@@ -58,69 +20,18 @@ https://5b6cade28002a.streamlock.net/alfaomega/smil:alfaomegatv/playlist.m3u8
 #EXTINF:-1,RO: Alfa & Omega TV
 https://5b6cade28002a.streamlock.net/alfaomega/alfaomega1.sdp/playlist.m3u8
 #EXTINF:-1,RO: Alfa & Omega TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,RO: Alfa & Omega TV
 https://ch.iptvmate.net/99ab43b8e05b44765cee828fc5deafb8.m3u8
 #EXTINF:-1,RO: Alfa & Omega TV
 https://ch.iptvmate.net/b780946a8de8f0ebeeed1f43b4ca9582.m3u8
 
-#EXTINF:-1,RO: Alpha Media TV
-http://webmobile.xdev.ro:81/tv27/playlist.m3u8
-
-#EXTINF:-1,RO: Antena 1
-https://tvhd-online.com/a1.m3u8
-
-#EXTINF:-1,RO: Antena 3
-https://tvhd-online.com/a3.m3u8
-
-#EXTINF:-1,RO: Antena Comedy
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:-1,RO: Antena Comedy
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b1000000.m3u8
-
-#EXTINF:-1,RO: Antena Cook
-http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
-
-#EXTINF:-1,RO: Antena Monden
-http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-
-#EXTINF:-1,RO: Antena Stars
-https://tvhd-online.com/astar.m3u8
-
-#EXTINF:-1,RO: Arcadia World
-http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
-#EXTINF:-1,RO: Arcadia World
-http://watching-iptv.duckdns.org:39553/
-
 #EXTINF:-1,RO: Ardeal TV
-http://ardeal-tv.duckdns.org:88/live/livestream/playlist.m3u8
-
-#EXTINF:-1,RO: AXN Black
-http://axn-online.duckdns.org:8111/11003
-#EXTINF:-1,RO: AXN White
-http://axn-online.duckdns.org:8111/11002
+https://frn.rtsp.me/qbOcIT5qZjl4vakN4CB0tw/1686733566/hls/yZ9ED27Q.m3u8
 
 #EXTINF:-1,RO: B1 TV
-http://stream.adunity.com/b1/b1.m3u8
-#EXTINF:-1,RO: B1 TV
-https://ch.iptvmate.net/f971a1699633eca2551d622a7e168e25.m3u8
-#EXTINF:-1,RO: B1 TV
-http://stream.adunity.com/b1/b1_640-.m3u8
+https://live3.cdn.dejacast.com/b1tv/b1tv_0.m3u8?from=1686730048&to=1686751648&session=Wnpw0MNicLwEYMaR&source=cms&token=Qc34bgtLHzuQW4v_D1vbUCQGPTA=
 
 #EXTINF:-1,RO: Banat TV
-http://banat-tv.duckdns.org:1935/live/banat-tv/playlist.m3u8
-
-#EXTINF:-1,RO: BIT TV
-http://webmobile-xdev-ro.duckdns.org:81/tv2/playlist.m3u8
-#EXTINF:-1,RO: BIT TV
-https://server.razvan-andrei.com:5443/LiveApp/streams/448242043913167746015394.m3u8
-#EXTINF:-1,RO: BIT TV
-https://ch.iptvmate.net/e475be4b644ee15fda55be982564f454.m3u8
-
-#EXTINF:-1,RO: Bollywood TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,RO: Bollywood Clasic
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+https://btv.ro/hls/banat-tv.m3u8
 
 #EXTINF:-1,RO: Bucovina TV
 http://live-iptv-watch.duckdns.org:9999/btvsvlive/playlist.m3u8
@@ -133,82 +44,24 @@ https://ch.iptvmate.net/8638921bf17f446eeb1661b195d2e7ca.m3u8
 
 #EXTINF:-1,RO: București TV
 http://iptv-online.duckdns.org:39459
-#EXTINF:-1,RO: București TV
-https://ppext.arktv.ro/hls/Channel3/adaptive.m3u8
-#EXTINF:-1,RO: București TV
-https://ppext.arktv.ro/hls/channel3/bitrate5.m3u8
-#EXTINF:-1,RO: București TV
-https://ppext.arktv.ro/hls/channel3/bitrate4.m3u8
 
-#EXTINF:-1,RO: Campus TV Buzau
-http://campus-tv.duckdns.org:8080
-
-#EXTINF:-1,RO: Canal33
-https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8
-#EXTINF:-1,RO: Canal33
-http://fms91.mediadirect.ro:1937/live3/_definst_/canal33_low/playlist.m3u8?publisher=17&token=405acbd815e4c94f28739365945c9b408da34940497bd263
-#EXTINF:-1,RO: Canal33
-https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/chunklist_w1456597134_b680000.m3u8
-#EXTINF:-1,RO: Canal33
-http://fms-https1.mediadirect.ro:1935/live3/_definst_/canal33/playlist.m3u8
-#EXTINF:-1,RO: Canal33
-http://fms-https1.mediadirect.ro/live3/_definst_/canal33/playlist.m3u8
-
-#EXTINF:-1,RO: Cinemaraton
-https://cmn.digitalcable.ro/free/cm/playlist.m3u8
-#EXTINF:-1,RO: Cinemaraton
-https://cmn.digitalcable.ro/free/cm/chunks.m3u8
-
-#EXTINF:-1,RO: Cinethronix
-http://webmobile.xdev.ro:81/tv25/playlist.m3u8
+#EXTINF:-1,RO: Campus TV Buzău
+https://campusbuzau.ro//wp-content/uploads/downloadables/radio-campus.m3u
 
 #EXTINF:-1,RO: Columna TV
-https://ppext.arktv.ro/hls/channel4/adaptive.m3u8
-#EXTINF:-1,RO: Columna TV
-https://ppext.arktv.ro/hls/channel4/bitrate4.m3u8
+http://142.132.136.139:1935/columnatv/live/playlist.m3u8
 
-#EXTINF:-1,RO: Comedy Est
-https://cmn.digitalcable.ro/free/comedyest/playlist.m3u8
-#EXTINF:-1,RO: Comedy Est
-https://cmn.digitalcable.ro/free/comedyest/chunks.m3u8
-
-#EXTINF:-1,RO: Cornea TV
-http://cornea-tv.duckdns.org:1935/CorneaTV/myStream/playlist.m3u8
-
-#EXTINF:-1,RO: Credo TV
-http://lbctv.credotv.org:8081/ctv/smil:livecredo.smil/playlist.m3u8
 #EXTINF:-1,RO: Credo TV
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
 #EXTINF:-1,RO: Credo TV
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/chunklist_b1128000.m3u8
 #EXTINF:-1,RO: Credo TV
 https://ch.iptvmate.net/78c274e86d422686ab3b4e36d9103933.m3u8
-#EXTINF:-1,RO: Credo TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-
-#EXTINF:-1,RO: Cromtel TV
-http://webmobile.xdev.ro:81/tv7/playlist.m3u8
 
 #EXTINF:-1,RO: Curier TV
 http://curier-tv.duckdns.org:1935/live/curiertv/playlist.m3u8
 #EXTINF:-1,RO: Curier TV
 https://frn.rtsp.me/MfpmJ_edmKYM28QRKHDEtg/1603126844/hls/NaZSRK5b.m3u8
-
-#EXTINF:-1,RO: DiBiTV
-http://tv.dibitv.ro:1935/dibitv/live/playlist.m3u8
-
-#EXTINF:-1,RO: Digi24
-http://tv-online-free.duckdns.org/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1,RO: Digi24
-http://iptv-max.duckdns.org/live3/_definst_/digi24/playlist.m3u8
-#EXTINF:-1,RO: Digi24
-https://edge81.rcs-rds.ro/V4-6827572-9a1b54e2170ac14cf3814de473ab269a-3155703410-0-1602841092-487-digi24/digi24/digi24hq.stream/chunklist.m3u8
-
-#EXTINF:-1,RO: Digi Film
-http://digi-film.duckdns.org:82/tc/7/7hq/01.m3u8
-
-#EXTINF:-1,RO: Disney Channel
-http://glorious-iptv.duckdns.org/DisneyChannel/playlist.m3u8
 
 #EXTINF:-1,RO: DJing TV
 https://www.djing.com/tv/hits.m3u8
@@ -222,232 +75,68 @@ http://watching-iptv.duckdns.org:39519
 https://ch.iptvmate.net/481759b863db782ad989e4454ddc7ae9.m3u8
 
 #EXTINF:-1,RO: Etno TV
-http://iptv-max.duckdns.org/live3/_definst_/etno/playlist.m3u8
-#EXTINF:-1,RO: Etno TV
-http://glorious-iptv.duckdns.org/EtnoTV/playlist.m3u8
+https://live2.cdn.dejacast.com/etno/etno_0.m3u8?from=1686730862&to=1686752462&session=n8RAUudub45wqbCp&source=cms&token=DvqArDcmU7hWB-xPqAFx4PfMJsw=
 
-#EXTINF:-1,RO: Favorit TV
-http://glorious-iptv.duckdns.org/Favorit/playlist.m3u8
-#EXTINF:-1,RO: Favorit TV
-http://favorit-tv.duckdns.org:6010/favorit
+#EXTINF:-1,RO: Iași TV Life
+https://tv.streambox.ro/hls/itv/index.m3u8
 
-#EXTINF:-1,RO: Gurinel TV
-http://glorious-iptv.duckdns.org/Gurinel/playlist.m3u8
+#EXTINF:-1,RO: Impact TV Dance
+http://tvradioimpact.go.ro:8080/tmp_hls/tvimpact/index.m3u8
 
-#EXTINF:-1,RO: Happy Channel
-https://tvhd-online.com/happy.m3u8
-
-#EXTINF:-1,RO: Iasi TV Life
-http://webmobile.xdev.ro:81/tv24/playlist.m3u8
-
-#EXTINF:-1,RO: Impact TV
-http://89.36.10.12:8080
-#EXTINF:-1,RO: Impact TV
-http://impact-tv.duckdns.org:8080/hls/impact_tv.m3u8
+#EXTINF:-1,RO: Impact TV Manele
+https://online.tvimpact.live/hls/impact_tv.m3u8
 
 #EXTINF:-1,RO: Inedit TV
 http://inedit-tv.duckdns.org:1359/live/myStream/playlist.m3u8
-#EXTINF:-1,RO: Inedit TV
-http://ibu.inedittv.ro:9090/seconds2hls/live.m3u8
-#EXTINF:-1,RO: Inedit TV
-http://ibu.inedittv.ro:9090/seconds3hls/live.m3u8
-#EXTINF:-1,RO: Inedit TV
-http://inedittv.ro/live-tv/canal/index.m3u8
-#EXTINF:-1,RO: Inedit TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,RO: Inedit TV
-http://encoder.inedittv.ro:9090/seconds3hls/live.m3u8
 
-#EXTINF:-1,RO: Infinit TV
-http://webmobile.xdev.ro:81/tv6/playlist.m3u8
-
-#EXTINF:-1,RO: Info HD
-https://netstreaming.eu:8080/hls/InfoHd.m3u8
-#EXTINF:-1,RO: Info HD
-http://iptv-watch.duckdns.org:8080/hls/InfoHd.m3u8
-
-#EXTINF:-1,RO: Informatia TV
-http://s1.streamnet.ro:8014/stream.flv
-#EXTINF:-1,RO: Informatia TV
-http://83.103.145.35:8001
+#EXTINF:-1,RO: Info TV România
+https://vmi347009.contaboserver.net/live/stream/index.m3u8
 
 #EXTINF:-1,RO: Intermedia Suceava
 http://intermedia-suceava.duckdns.org:8080
 #EXTINF:-1,RO: Intermedia Suceava
 http://live-iptv-watch.duckdns.org:9999/intermedia1/playlist.m3u8
 
-#EXTINF:-1,RO: Job TV
-http://v9.arya.ro:8080/hls/jobtvhq.m3u8
-
-#EXTINF:-1,RO: Kanal D
-http://glorious-iptv.duckdns.org/KanalD/playlist.m3u8
-#EXTINF:-1,RO: KANAL D
-http://livefeed.kanald.ro/iphone/live.m3u8
-#EXTINF:-1,RO: KANAL D
-http://80.86.107.169:8100/stream.flv
+#EXTINF:-1,RO: KANAL D2
+https://stream2.kanald.ro/iphone/knd-live_low/index.m3u8
 
 #EXTINF:-1,RO: Kapital TV
-http://kapital-tv.duckdns.org:1935/live/livestream/playlist.m3u
-#EXTINF:-1,RO: Kapital TV
-http://kapital-tv.duckdns.org:1935/live/livestream/playlist.m3u8
-#EXTINF:-1,RO: Kapital TV
-https://netstreaming.eu:8080/hls/livestream.m3u8
-#EXTINF:-1,RO: Kapital TV
-http://iptv-watch.duckdns.org:8080/hls/livestream.m3u8
+http://kapitaltv.us:1936/ktv/myStream/playlist.m3u8
 
 #EXTINF:-1,RO: Kiss TV
-http://185.162.141.69:20077/kiss
-#EXTINF:-1,RO: Kiss TV
-https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
-
-#EXTINF:-1,RO: LinkPress TV
-http://cast.independentmedia.network:9090/seconds6hls/live.m3u8
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
 
 #EXTINF:-1,RO: Lira TV
-https://5d79ae45bc63b.streamlock.net:443/liratv/liratv/playlist.m3u8
+https://cloud3.streaminglivehd.com:1936/Liratv/Liratv/playlist.m3u8
 
 #EXTINF:-1,RO: Magic TV
-https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
-#EXTINF:-1,RO: Magic TV
-https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/chunklist_w1162027400_b300000.m3u8?publisher=83
-#EXTINF:-1,RO: Magic TV
-http://iptv-max.duckdns.org/live3/_definst_/magictv/playlist.m3u8
-
-#EXTINF:-1,RO: Media TV
-http://webmobile.xdev.ro:81/tv22/playlist.m3u8
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8
 
 #EXTINF:-1,RO: Metropola TV
-http://cdn.metropolatv.ro:9090/seconds3hls/live.m3u8
-
-#EXTINF:-1,RO: MiniMax
-http://glorious-iptv.duckdns.org/Minimax/playlist.m3u8
+http://81.196.109.35:1935/MetropolaTV/Metro/playlist.m3u8
 
 #EXTINF:-1,RO: Misa Senzațional TV
-https://vid.misatv.ro:5050/LiveMSTV_Safe/livestream_ao/playlist.m3u8
+https://vidl.misatv.ro:5050/MSTV/romanian_360p/playlist.m3u8
 #EXTINF:-1,RO: Misa Senzațional TV
-https://misatv.ro:5050/LiveMSTV_Safe/livestream/playlist.m3u8
-
-#EXTINF:-1,RO: Mooz Ro!
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,RO: Mooz HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END 
-#EXTINF:-1,RO: Mooz Dance
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/18.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,RO: Mooz Hits
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/18.m3u8/Level(545259)?start=LIVE&end=END
+https://vidl.misatv.ro:5050/MSTV/romanian_360p/chunklist.m3u8
 
 #EXTINF:-1,RO: Muscel TV
-mmsh://musceltvlive.muscel.ro:8080
+http://188.27.135.199:8099/hls/musceltv/index.m3u8
 
-#EXTINF:-1,RO: Nasul TV
-https://5ab29cc78f681.streamlock.net/nasultvlive/nasultvlive/playlist.m3u8
-#EXTINF:-1,RO: Nasul TV
-http://tvron.net/53-1.m3u8
-
-#EXTINF:-1,RO: Național 24 Plus
-http://glorious-iptv.duckdns.org/N24plus/playlist.m3u8
-#EXTINF:-1,RO: Național 24 Plus
-http://iptv-max.duckdns.org/live3/_definst_/n24/playlist.m3u8
-
-#EXTINF:-1,RO: Național TV
-http://fms91.mediadirect.ro:1937/live3/_definst_/nationaltv_low/playlist.m3u8?publisher=17&token=a7f8a8bb4918e4f3bec92dc6473b2edad11ebcde0f9a4983
-#EXTINF:-1,RO: Național TV
-http://glorious-iptv.duckdns.org/National/playlist.m3u8
-#EXTINF:-1,RO: Național TV
-http://iptv-max.duckdns.org/live3/_definst_/nationaltv/playlist.m3u8
-
-#EXTINF:-1,RO: Neptun TV
-http://tvron.net/54-2.m3u8
-
-#EXTINF:-1,RO: NEst TV
-http://webmobile.xdev.ro:81/tv13/playlist.m3u8
-
-#EXTINF:-1,RO: Nickelodeon
-http://glorious-iptv.duckdns.org/Nick/playlist.m3u8
+#EXTINF:-1,RO: Nașul TV
+https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
 
 #EXTINF:-1,RO: Nova TV
-http://novapress.ro:1935/live/nova/playlist.m3u8
+http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1,RO: Nova TV
-http://novapress.ro:1935/live/nova/chunklist.m3u8
-#EXTINF:-1,RO: Nova TV
-http://novapress.ro:1935/live/nova/chunklist_w1325158178.m3u8
-
-#EXTINF:-1,RO: ONE TV
-http://onetv.srfms.com:1935/ONETV/livestream/playlist.m3u8
-
-#EXTINF:-1,RO: Orizont TV
-http://s3.streamnet.ro:8048/stream.flv
-#EXTINF:-1,RO: Orizont TV
-http://89.45.164.236:8048/stream.flv
-#EXTINF:-1,RO: Orizont TV
-https://ch.iptvmate.net/deb0b2f69ed3462bfdb4b686a387fc17.m3u8
-
-#EXTINF:-1,RO: Pro 2
-https://vid.hls.protv.ro/pro2n/pro2.m3u8?1
-#EXTINF:-1,RO: Pro 2
-https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
-#EXTINF:-1,RO: Pro 2
-https://vid.hls.protv.ro/pro2n/pro2_2_34/index.m3u8?1
-#EXTINF:-1,RO: Pro 2
-https://vid.hls.protv.ro/pro2n/pro2_1_34/index.m3u8?1
-
-#EXTINF:-1,RO: Pro Cinema
-https://vid.hls.protv.ro/procineman/procinema.m3u8?1
-#EXTINF:-1,RO: Pro Cinema
-https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
-#EXTINF:-1,RO: Pro Cinema
-https://vid.hls.protv.ro/procineman/procinema_2_34/index.m3u8?1
-#EXTINF:-1,RO: Pro Cinema
-https://vid.hls.protv.ro/procineman/procinema_1_34/index.m3u8?1
-
-#EXTINF:-1,RO: Pro Gold
-https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
-#EXTINF:-1,RO: Pro Gold
-https://vid.hls.protv.ro/progoldn/progold_2_34/index.m3u8?1
-#EXTINF:-1,RO: Pro Gold
-https://vid.hls.protv.ro/progoldn/progold_1_34/index.m3u8?1
-#EXTINF:-1,RO: Pro Gold
-https://vid.hls.protv.ro/progold/progold_3_34/index.m3u8?1
-#EXTINF:-1,RO: Pro Gold
-https://vid.hls.protv.ro/progold/progold_2_34/index.m3u8?1
-#EXTINF:-1,RO: Pro Gold
-https://vid.hls.protv.ro/progold/progold_1_34/index.m3u8?1
+http://novapress.ro:2022/live/nova/chunklist.m3u8
 
 #EXTINF:-1,RO: Pro TV
-http://watching-iptv.duckdns.org:39532
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
 #EXTINF:-1,RO: Pro TV
-https://vid.hls.protv.ro/protvhdn/protvhd.m3u8?1
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8
 #EXTINF:-1,RO: Pro TV
-https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
-#EXTINF:-1,RO: Pro TV
-https://vid.hls.protv.ro/protvhdn/protvhd_2_34/index.m3u8?1
-#EXTINF:-1,RO: Pro TV
-https://vid.hls.protv.ro/protvhdn/protvhd_1_34/index.m3u8?1
-
-#EXTINF:-1,RO: Pro TV Internațional
-http://pro-tv-international.duckdns.org:2001/protv
-
-#EXTINF:-1,RO: Pro TV News
-http://m2.live.protv.ro:1935/news/1.stream/playlist.m3u8
-#EXTINF:-1,RO: Pro TV News
-https://vid.hls.protv.ro/protvnews/protvnews_high/index.m3u8?1
-#EXTINF:-1,RO: Pro TV News
-https://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
-#EXTINF:-1,RO: Pro TV News
-http://stream1.protv.ro/news/stream%3a1.stream/playlist.m3u8
-#EXTINF:-1,RO: Pro TV News
-http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8
-
-#EXTINF:-1,RO: Pro X
-https://vid.hls.protv.ro/proxhdn/proxhd_high/index.m3u8?1
-#EXTINF:-1,RO: Pro X
-https://vid.hls.protv.ro/proxhdn/proxhd.m3u8?1
-#EXTINF:-1,RO: Pro X
-https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
-#EXTINF:-1,RO: Pro X
-https://vid.hls.protv.ro/proxhdn/proxhd_2_34/index.m3u8?1
-#EXTINF:-1,RO: Pro X
-https://vid.hls.protv.ro/proxhdn/proxhd_1_34/index.m3u8?1
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_mq.m3u8
 
 #EXTINF:-1,RO: Profit.ro
 https://stream1.profit.ro:1945/profit/livestream/playlist.m3u
@@ -459,145 +148,68 @@ https://stream1.profit.ro:1945/profit/livestream/chunklist_w1969009807.m3u8
 https://ch.iptvmate.net/625ea96786f2341ff1ae4983c8e44b08.m3u8
 
 #EXTINF:-1 ,RO: Qub TV
-http://qubtv.duckdns.org:7263
+https://live.djemba.ro/live/qubtvlive/playlist.m3u8
 #EXTINF:-1 ,RO: Qub TV
-https://live2.djemba.ro/qub/live/playlist.m3u8
+https://live.djemba.ro/live/qubtvlive/chunklist.m3u8
 
 #EXTINF:-1,RO: Radio m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
 #EXTINF:-1,RO: Radio România 3Net
 http://media.3netmedia.ro:8000/Live128.m3u
 
 #EXTINF:-1,RO: Radio ZU Video HD
-https://play.myovn.com/s1/cache/radiozu/chunklist.m3u8
+https://live7digi.antenaplay.ro/zurtv/zurtv/chunklist.m3u8?version=1&session=drCUjgwZCK5k2uVuXw1x&starttime=1686733179&endtime=1686747609&source=web&token=7pLo3QHDdbTw79ORNx8hzzEozxo=
+#EXTINF:-1,RO: Radio ZU Video HD
+https://ivm.antenaplay.ro/live/zurtv/playlist.m3u8?version=1&session=drCUjgwZCK5k2uVuXw1x&starttime=1686727154&endtime=1686734384&source=zuweb&token=ERtqh1xw4F4QURkkbOkPY7zSjdI=
 
 #EXTINF:-1,RO: Realitatea Plus
-http://realitatea-plus.duckdns.org/livertmp/plus/chunklist.m3u8
+https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
 
-#EXTINF:-1,RO: Realitatea TV
-http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF:-1,RO: Realitatea TV
-http://liveonline.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF:-1,RO: Realitatea TV
-http://iptv-max.duckdns.org/live3/_definst_/realitatea/playlist.m3u8
-#EXTINF:-1,RO: Realitatea TV
-https://ch.iptvmate.net/3d5810f4977ab3247bf7b5f7ad03d6e2.m3u8
+#EXTINF:-1,RO: Realitatea Sportivă
+https://streamx.realitatea.net/realitatea/sportiva_hd/playlist.m3u8
+#EXTINF:-1,RO: Realitatea Sportivă
+https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
 
 #EXTINF:-1,RO: Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1,RO: Rock TV
-https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
-#EXTINF:-1,RO: Rock TV
-https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w231941046_b1600000.m3u8?publisher=83
-#EXTINF:-1,RO: Rock TV
-https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w100091528_b1600000.m3u8?publisher=83
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1,RO: RO Channel
 http://whoptv.on-the-web.tv:8081/diretta/direttats/playlist.m3u8
 
-#EXTINF:-1,RO: Romania TV
-http://ppext.arktv.ro/hls/channel6/adaptive.m3u8
-#EXTINF:-1,RO: Romania TV
-http://iptv-max.duckdns.org/live3/_definst_/rtv/playlist.m3u8
-
-#EXTINF:-1,RO: RTS
-http://89.47.38.159:8080/hls/live.stream.m3u8
-
-#EXTINF:-1,RO: Sângeorz TV
-http://s2.streamnet.ro:8035/stream.flv
-#EXTINF:-1,RO: Sângeorz TV
-https://ch.iptvmate.net/7dc7aaf375f66dd8ea52851e19954946.m3u8
-
-#EXTINF:-1,RO: Somax
-http://webmobile.xdev.ro:81/tv12/playlist.m3u8
+#EXTINF:-1,RO: România TV
+https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 
 #EXTINF:-1,RO: Speranța TV
-http://amsix214.streamkit.tv/edge/_definst_/sperantatv_1200/chunklist.m3u8
-#EXTINF:-1,RO: Speranța TV
-http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
-#EXTINF:-1,RO: Speranța TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/0dd00c080ff4cbe839a12c923610a55c/manifest/video.m3u8
 
-#EXTINF:-1,RO: Super TV HD
-http://91.235.165.114/live/smil:hls.smil/playlist.m3u8
 #EXTINF:-1,RO: Super TV
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
 #EXTINF:-1,RO: Super TV
 http://iptv.supertv.ro:8000/play/a002/index.m3u8
-#EXTINF:-1,RO: Super TV
-http://live.supertv.ro/live/smil:hls.smil/index.m3u8
-
-#EXTINF:-1,RO: Taraf TV
-http://glorious-iptv.duckdns.org/TarafTV/playlist.m3u8
-
-#EXTINF:-1,RO: Tele2 Drobeta
-https://stream.tele2drobeta.ro/hls/live.stream.m3u8
-#EXTINF:-1,RO: Tele2 Drobeta
-http://89.47.38.12:8098
 
 #EXTINF:-1,RO: TeleMoldova Botoșani
 http://telem-botosani.duckdns.org:8080/testing/pl5/playlist/ram/playlist.m3u8
-#EXTINF:-1,RO: TeleMoldova Botoșani
-http://webmobile.xdev.ro:81/tv11/playlist.m3u8
-
-#EXTINF:-1,RO: TeleMoldova Iași
-http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 
 #EXTINF:-1,RO: TeleMoldova Plus
-http://webmobile.xdev.ro:81/tv5/playlist.m3u8
+https://vdo.ssl-stream.com:3247/stream/play.m3u8
 
-#EXTINF:-1,RO: Telestar
-http://s1.streamnet.ro:8053/stream.flv
-#EXTINF:-1,RO: Telestar
+#EXTINF:-1,RO: Telestar1
+http://89.47.97.15/telestar/telestar.m3u8
+#EXTINF:-1,RO: Telestar1
 http://telestar1.duckdns.org:8090/
-#EXTINF:-1,RO: Telestar
-http://tvron.net/57-3.m3u8
-
-
-#EXTINF:-1,RO: Tezaur TV
-https://netstreaming.eu:8080/hls/tezaurtv.m3u8
-#EXTINF:-1,RO: Tezaur TV
-http://iptv-watch.duckdns.org:8080/hls/tezaurtv.m3u8
-#EXTINF:-1,RO: Tezaur TV
-http://tezaur-tv.duckdns.org:1935/live/_definst_/tezaurtv/playlist.m3u8
-
-#EXTINF:-1,RO: TL Plus
-http://nginx.arya.ro:8080/hls/tlplus.m3u8
-
-#EXTINF:-1,RO: Tradiții TV
-https://ppext.arktv.ro/hls/channel5/adaptive.m3u8
-#EXTINF:-1,RO: Tradiții TV
-http://ppext.arktv.ro/hls/channel5/bitrate4.m3u8
-#EXTINF:-1,RO: Tradiții TV
-http://v6.arya.ro:8080/hls/traditiitv.m3u8
 
 #EXTINF:-1,RO: Tradițional TV
 http://traditional-tv.duckdns.org:8085/udp/239.30.0.9:4000
-
-#EXTINF:-1,RO: Travel Mix
-https://ppext.arktv.ro/hls/channel1/adaptive.m3u8
-#EXTINF:-1,RO: Travel Mix
-http://watching-iptv.duckdns.org:39520
-#EXTINF:-1,RO: Travel Mix
-https://ch.iptvmate.net/7c06b81435fa03b0939289718990d5de.m3u8
-
-#EXTINF:-1,RO: Trinitas
-http://iptv-max.duckdns.org/live3/_definst_/trinitas/playlist.m3u8
-#EXTINF:-1,RO: Trinitas
-http://fms91.mediadirect.ro:1937/live3/_definst_/trinitas_low/playlist.m3u8?publisher=17&token=4c7e22ebbd530c4cc697f56c7c74ba7c82763b2a57585174
 
 #EXTINF:-1,RO: TV Arad
 https://live.djemba.ro/live/tvaradlive/playlist.m3u8
 
 #EXTINF:-1,RO: TV Buzău
 http://tv-buzau.duckdns.org:8080
-
-#EXTINF:-1,RO: TV City
-http://iptv-max.duckdns.org/live3/_definst_/citytv/playlist.m3u8
-#EXTINF:-1,RO: TV City
-http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
 
 #EXTINF:-1,RO: TV Plus Suceava
 http://tvplus-suceava.duckdns.org:8080
@@ -609,6 +221,9 @@ http://iptv-online.duckdns.org:39443
 #EXTINF:-1,RO: TVSat
 https://ch.iptvmate.net/cad4c46912403e9f067ca9d10387d1e9.m3u8
 
+#EXTINF:-1,RO: TV Sud
+https://stream.leetweb.ro/WebRTCApp/streams/118334672595255049029831.m3u8
+
 #EXTINF:-1,RO: TV Sud Est
 http://iptv-online.duckdns.org:39419
 #EXTINF:-1,RO: TV Sud Est
@@ -616,109 +231,91 @@ https://ch.iptvmate.net/d70fbf6bb5de6d71ac64f359ada1342b.m3u8
 #EXTINF:-1,RO: TV Sud Est TVSAT
 http://iptv-online.duckdns.org:39443
 
-#EXTINF:-1,RO: TV Sud Gorj
-http://nginx.arya.ro:8080/hls/tvsudmobil.m3u8
-
-#EXTINF:-1,RO: TVH
-http://ppext.arktv.ro/hls/channel7/adaptive.m3u8
-#EXTINF:-1,RO: TVH
-http://ppext.arktv.ro/hls/channel7/bitrate4.m3u8
-
 #EXTINF:-1,RO: TVR 1
-http://tvr-online.duckdns.org:1935/liveedge/TVRHD.stream/playlist.m3u
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR 1
-http://tvr-online.duckdns.org:1935/liveedge/TVRHD.stream/playlist.m3u8?iptv
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/chunklist.m3u8
 #EXTINF:-1,RO: TVR 1
-http://mn-nl.mncdn.com/tvr_hd/smil:TVRHD.smil/playlist.m3u8
-#EXTINF:-1,RO: TVR 1
-http://mn-nl.mncdn.com/tvr_1/smil:TVR1.smil/playlist.m3u8
-#EXTINF:-1,RO: TVR 1
-http://mn-nl.mncdn.com/tvr_1_live/smil:tvr_1_live.smil/playlist.m3u8
-#EXTINF:-1,RO: TVR 1
-http://tvr-online.duckdns.org:1935/liveedge/TVR1.stream/playlist.m3u8
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 
 #EXTINF:-1,RO: TVR 2
-http://mn-nl.mncdn.com/tvr_2/smil:TVR2.smil/playlist.m3u8
+https://mn-nl.mncdn.com/tvr2_hd_live/smil:tvr2_hd_live.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR 2
-http://mn-nl.mncdn.com/tvr_2_live/smil:tvr_2_live.smil/playlist.m3u8
+https://mn-nl.mncdn.com/tvr2_hd_live/smil:tvr2_hd_live.smil/chunklist.m3u8
 #EXTINF:-1,RO: TVR 2
-http://tvr-online.duckdns.org:1935/liveedge/TVR2.stream/playlist.m3u
+https://mn-nl.mncdn.com/tvr2_hd_live/smil:tvr2_hd_live.smil/index.m3u8
 #EXTINF:-1,RO: TVR 2
-http://tvr-online.duckdns.org:1935/liveedge/TVR2.stream/playlist.m3u8
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/playlist.m3u8
+#EXTINF:-1,RO: TVR 2
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/chunklist.m3u8
+#EXTINF:-1,RO: TVR 2
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
+#EXTINF:-1,RO: TVR 2
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/playlist.m3u8
+#EXTINF:-1,RO: TVR 2
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/chunklist.m3u8
+#EXTINF:-1,RO: TVR 2
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
 
 #EXTINF:-1,RO: TVR 3
-http://mn-nl.mncdn.com/tvr_3/smil:TVR3.smil/playlist.m3u8
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR 3
-http://mn-nl.mncdn.com/tvr_3_live/smil:tvr_3_live.smil/playlist.m3u8
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/chunklist.m3u8
 #EXTINF:-1,RO: TVR 3
-http://tvr-online.duckdns.org:1935/liveedge/TVR3.stream/playlist.m3u
-#EXTINF:-1,RO: TVR 3
-http://tvr-online.duckdns.org:1935/liveedge/TVR3.stream/playlist.m3u8
-
-#EXTINF:-1,RO: TVR Iasi
-http://82.208.151.107:8088/high/tvriasi/index.m3u8
-#EXTINF:-1,RO: TVR Iasi
-http://mn-nl.mncdn.com/tvr_iasi_live/tvr_iasi_live2/playlist.m3u8
-#EXTINF:-1,RO: TVR Iasi
-https://ch.iptvmate.net/40c38d7ce8e052f0647ed5c4056dbaba.m3u8
-
-#EXTINF:-1,RO: TVR International
-http://mn-nl.mncdn.com/tvr_i/smil:TVRI.smil/playlist.m3u8
-#EXTINF:-1,RO: TVR International
-http://mn-nl.mncdn.com/tvr_i_live/smil:tvr_i_live.smil/playlist.m3u8
-#EXTINF:-1,RO: TVR International
-https://mn-nl.mncdn.com/tvr_i_live/smil:tvr_i_live.smil/chunklist_b2564000.m3u8
-#EXTINF:-1,RO: TVR International
-http://tvr-online-international.duckdns.org:1935/liveorigin/TVRI.stream/chunklist.m3u8
-
-#EXTINF:-1,RO: TVR Craiova
-http://mn-nl.mncdn.com/tvr_craiova_live/tvr_craiova_live2/playlist.m3u8
-#EXTINF:-1,RO: TVR Craiova
-http://tvr-online.duckdns.org:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
-#EXTINF:-1,RO: TVR Craiova
-https://ch.iptvmate.net/313dc2be76f8777149bf88f8dacaa295.m3u8
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
 
 #EXTINF:-1,RO: TVR Cluj
-http://mn-nl.mncdn.com/tvr_cluj_live/tvr_cluj_live2/playlist.m3u8
+https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR Cluj
-http://tvr-online.duckdns.org:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
+https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/chunklist.m3u8
 #EXTINF:-1,RO: TVR Cluj
-https://ch.iptvmate.net/8c94f066b6fa9af40e746e12f9153081.m3u8
+https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8
+
+#EXTINF:-1,RO: TVR Craiova
+https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/playlist.m3u8
+#EXTINF:-1,RO: TVR Craiova
+https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/chunklist.m3u8
+#EXTINF:-1,RO: TVR Craiova
+https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8
+
+#EXTINF:-1,RO: TVR Cultural
+https://mn-nl.mncdn.com/tvr_cultural/tvrcultural/playlist.m3u8
+#EXTINF:-1,RO: TVR Cultural
+https://mn-nl.mncdn.com/tvr_cultural/tvrcultural/chunklist.m3u8
+#EXTINF:-1,RO: TVR Cultural
+https://mn-nl.mncdn.com/tvr_cultural/tvrcultural/index.m3u8
+
+#EXTINF:-1,RO: TVR Iași
+https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/playlist.m3u8
+#EXTINF:-1,RO: TVR Iași
+https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/chunklist.m3u8
+#EXTINF:-1,RO: TVR Iași
+https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8
+
+#EXTINF:-1,RO: TVR Internațional
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
+#EXTINF:-1,RO: TVR Internațional
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist.m3u8
+#EXTINF:-1,RO: TVR Internațional
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
+
+#EXTINF:-1,RO: TVR Moldova
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
+#EXTINF:-1,RO: TVR Moldova
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/chunklist.m3u8
+#EXTINF:-1,RO: TVR Moldova
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8
 
 #EXTINF:-1,RO: TVR Târgu Mureș
-http://mn-nl.mncdn.com/tvr_tirgumures_live/tvr_tirgumures_live2/playlist.m3u8
+https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR Târgu Mureș
-http://tvr-online.duckdns.org:1935/liveedge/TVRTGMURES.stream/playlist.m3u8
+https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/chunklist.m3u8
+#EXTINF:-1,RO: TVR Târgu Mureș
+https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8
 
 #EXTINF:-1,RO: TVR Timișoara
-http://mn-nl.mncdn.com/tvr_timisoara_live/tvr_timisoara_live2/playlist.m3u8
+https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/playlist.m3u8
 #EXTINF:-1,RO: TVR Timișoara
-http://tvr-online.duckdns.org:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
+https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/chunklist.m3u8
 #EXTINF:-1,RO: TVR Timișoara
-https://ch.iptvmate.net/6a92cb9fdcb8293667ba4cb48df667e2.m3u8
-
-#EXTINF:-1,RO: TVH
-https://ppext.arktv.ro/hls/channel7/adaptive.m3u8
-#EXTINF:-1,RO: TVH
-https://ppext.arktv.ro/hls/channel7/bitrate4.m3u8
-#EXTINF:-1,RO: TVH
-http://tvron.net/59-1.m3u8
-
-#EXTINF:-1,RO: U TV
-http://glorious-iptv.duckdns.org/UTV/playlist.m3u8
-#EXTINF:-1,RO: U TV
-http://tv-online-free.duckdns.org/utvedge/utvlivehls/chunklist_w894794180.m3u8
-#EXTINF:-1,RO: U TV
-http://tv-online-free.duckdns.org:80/utvedge/utvlive/index.m3u8
-#EXTINF:-1,RO: U TV
-http://tv-online-free.duckdns.org/utvedge/utvlive/index.m3u8
-
-#EXTINF:-1,RO: Valea Prahovei TV
-http://iptv-online.duckdns.org:39437
-#EXTINF:-1,RO: Valea Prahovei TV
-https://ppext.arktv.ro/hls/channel2/adaptive.m3u8
-#EXTINF:-1,RO: Valea Prahovei TV
-https://ch.iptvmate.net/e6566abb541c96b09a710d718fe750ab.m3u8
-
-#EXTINF:-1,RO: VTV
-http://tvron.net/59-3.m3u8
+https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8
