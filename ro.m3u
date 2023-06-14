@@ -4,7 +4,10 @@
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 
 #EXTINF:-1,RO: Aleph Business
-https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/chunklist_b3170304.m3u8
+https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
+
+#EXTINF:-1,RO: Aleph News
+https://streamb.m.ro/Aleph/ngrp:Alephnew2.stream_all/playlist.m3u8
 
 #EXTINF:-1,RO: Alfa & Omega TV
 http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
@@ -21,6 +24,15 @@ https://ch.iptvmate.net/99ab43b8e05b44765cee828fc5deafb8.m3u8
 #EXTINF:-1,RO: Alfa & Omega TV
 https://ch.iptvmate.net/b780946a8de8f0ebeeed1f43b4ca9582.m3u8
 
+#EXTINF:-1,RO: Ardeal TV
+https://frn.rtsp.me/qbOcIT5qZjl4vakN4CB0tw/1686733566/hls/yZ9ED27Q.m3u8
+
+#EXTINF:-1,RO: B1 TV
+https://live3.cdn.dejacast.com/b1tv/b1tv_0.m3u8?from=1686730048&to=1686751648&session=Wnpw0MNicLwEYMaR&source=cms&token=Qc34bgtLHzuQW4v_D1vbUCQGPTA=
+
+#EXTINF:-1,RO: Banat TV
+https://btv.ro/hls/banat-tv.m3u8
+
 #EXTINF:-1,RO: Bucovina TV
 http://live-iptv-watch.duckdns.org:9999/btvsvlive/playlist.m3u8
 #EXTINF:-1,RO: Bucovina TV
@@ -32,6 +44,12 @@ https://ch.iptvmate.net/8638921bf17f446eeb1661b195d2e7ca.m3u8
 
 #EXTINF:-1,RO: București TV
 http://iptv-online.duckdns.org:39459
+
+#EXTINF:-1,RO: Campus TV Buzău
+https://campusbuzau.ro//wp-content/uploads/downloadables/radio-campus.m3u
+
+#EXTINF:-1,RO: Columna TV
+http://142.132.136.139:1935/columnatv/live/playlist.m3u8
 
 #EXTINF:-1,RO: Credo TV
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
@@ -56,30 +74,28 @@ http://watching-iptv.duckdns.org:39519
 #EXTINF:-1,RO: Est TV
 https://ch.iptvmate.net/481759b863db782ad989e4454ddc7ae9.m3u8
 
-#EXTINF:-1,RO: Happy Channel
-https://tvhd-online.com/happy.m3u8
+#EXTINF:-1,RO: Etno TV
+https://live2.cdn.dejacast.com/etno/etno_0.m3u8?from=1686730862&to=1686752462&session=n8RAUudub45wqbCp&source=cms&token=DvqArDcmU7hWB-xPqAFx4PfMJsw=
 
-#EXTINF:-1,RO: Impact TV
-http://89.36.10.12:8080
-#EXTINF:-1,RO: Impact TV
-http://impact-tv.duckdns.org:8080/hls/impact_tv.m3u8
+#EXTINF:-1,RO: Iași TV Life
+https://tv.streambox.ro/hls/itv/index.m3u8
+
+#EXTINF:-1,RO: Impact TV Dance
+http://tvradioimpact.go.ro:8080/tmp_hls/tvimpact/index.m3u8
+
+#EXTINF:-1,RO: Impact TV Manele
+https://online.tvimpact.live/hls/impact_tv.m3u8
 
 #EXTINF:-1,RO: Inedit TV
 http://inedit-tv.duckdns.org:1359/live/myStream/playlist.m3u8
-#EXTINF:-1,RO: Inedit TV
-http://ibu.inedittv.ro:9090/seconds2hls/live.m3u8
-#EXTINF:-1,RO: Inedit TV
-http://ibu.inedittv.ro:9090/seconds3hls/live.m3u8
-#EXTINF:-1,RO: Inedit TV
-http://inedittv.ro/live-tv/canal/index.m3u8
-#EXTINF:-1,RO: Inedit TV
-http://encoder.inedittv.ro:9090/seconds3hls/live.m3u8
 
 #EXTINF:-1,RO: Info HD
 https://netstreaming.eu:8080/hls/InfoHd.m3u8
 #EXTINF:-1,RO: Info HD
 http://iptv-watch.duckdns.org:8080/hls/InfoHd.m3u8
 
+#EXTINF:-1,RO: Info TV România
+https://vmi347009.contaboserver.net/live/stream/index.m3u8
 
 #EXTINF:-1,RO: Intermedia Suceava
 http://intermedia-suceava.duckdns.org:8080
@@ -87,7 +103,7 @@ http://intermedia-suceava.duckdns.org:8080
 http://live-iptv-watch.duckdns.org:9999/intermedia1/playlist.m3u8
 
 #EXTINF:-1,RO: Job TV
-http://v9.arya.ro:8080/hls/jobtvhq.m3u8
+https://jobtvvideo.space/hls/stream/index.m3u8
 
 #EXTINF:-1,RO: KANAL D
 http://livefeed.kanald.ro/iphone/live.m3u8
@@ -108,8 +124,11 @@ http://185.162.141.69:20077/kiss
 #EXTINF:-1,RO: LinkPress TV
 http://cast.independentmedia.network:9090/seconds6hls/live.m3u8
 
+#EXTINF:-1,RO: Magic TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8
+
 #EXTINF:-1,RO: Metropola TV
-http://cdn.metropolatv.ro:9090/seconds3hls/live.m3u8
+http://81.196.109.35:1935/MetropolaTV/Metro/playlist.m3u8
 
 #EXTINF:-1,RO: Misa Senzațional TV
 https://vidl.misatv.ro:5050/MSTV/romanian_360p/playlist.m3u8
@@ -159,15 +178,11 @@ https://vid.hls.protv.ro/progold/progold_2_34/index.m3u8?1
 https://vid.hls.protv.ro/progold/progold_1_34/index.m3u8?1
 
 #EXTINF:-1,RO: Pro TV
-http://watching-iptv.duckdns.org:39532
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
 #EXTINF:-1,RO: Pro TV
-https://vid.hls.protv.ro/protvhdn/protvhd.m3u8?1
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8
 #EXTINF:-1,RO: Pro TV
-https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
-#EXTINF:-1,RO: Pro TV
-https://vid.hls.protv.ro/protvhdn/protvhd_2_34/index.m3u8?1
-#EXTINF:-1,RO: Pro TV
-https://vid.hls.protv.ro/protvhdn/protvhd_1_34/index.m3u8?1
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_mq.m3u8
 
 #EXTINF:-1,RO: Pro TV Internațional
 http://pro-tv-international.duckdns.org:2001/protv
@@ -219,6 +234,11 @@ https://ivm.antenaplay.ro/live/zurtv/playlist.m3u8?version=1&session=drCUjgwZCK5
 
 #EXTINF:-1,RO: Realitatea Plus
 https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
+
+#EXTINF:-1,RO: Realitatea Sportivă
+https://streamx.realitatea.net/realitatea/sportiva_hd/playlist.m3u8
+#EXTINF:-1,RO: Realitatea Sportivă
+https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
 
 #EXTINF:-1,RO: Realitatea TV
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
