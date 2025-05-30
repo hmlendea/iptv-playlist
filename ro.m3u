@@ -28,13 +28,6 @@ https://btv.ro/hls/banat-tv.m3u8
 #EXTINF:-1,RO: Campus TV Buzău
 https://campusbuzau.ro//wp-content/uploads/downloadables/radio-campus.m3u
 
-#EXTINF:-1,RO: Cardio TV
-https://5947cbf6e693a.streamlock.net/live/play2/chunklist_w13858843.m3u8
-https://5947cbf6e693a.streamlock.net/live/play2/playlist.m3u8
-
-#EXTINF:-1,RO: Columna TV
-http://142.132.136.139:1935/columnatv/live/playlist.m3u8
-
 #EXTINF:-1,RO: Cook & Play
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 #EXTINF:-1,RO: Cook & Play
@@ -46,117 +39,43 @@ https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
 
 #EXTINF:-1,RO: Credo TV
+https://651c69fa2ff4e.streamlock.net/ctv/livecredo/playlist.m3u8
+#EXTINF:-1,RO: Credo TV
+https://651c69fa2ff4e.streamlock.net/ctv/livecredo/chunklist.m3u8
+#EXTINF:-1,RO: Credo TV
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
 #EXTINF:-1,RO: Credo TV
-http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/chunklist_b1128000.m3u8
-#EXTINF:-1,RO: Credo TV
-https://5bb3298db4821.streamlock.net/ctv/smil:livecredo.smil/playlist.m3u8
+https://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 
 #EXTINF:-1,RO: Curier TV
 http://curier-tv.duckdns.org:1935/live/curiertv/playlist.m3u8
-#EXTINF:-1,RO: Curier TV
-https://frn.rtsp.me/MfpmJ_edmKYM28QRKHDEtg/1603126844/hls/NaZSRK5b.m3u8
-
-#EXTINF:-1,RO: Digi Sport 1
-https://fls.cdnhks.lol/fls/premium400/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RO: Digi Sport 1
-https://fls.cdnhks.lol/fls/premium400/playlist.m3u8
-#EXTINF:-1,RO: Digi Sport 1
-https://webudit.cdnhks.lol/lb/premium400/index.m3u8
-#EXTINF:-1,RO: Digi Sport 1
-https://webuit.cdnhks.lol/lb/premium400/index.m3u8
-#EXTINF:-1,RO: Digi Sport 1
-https://sportsite777.com/lba/MjhkYjczOTgyYTUwN2E5ZGUzYmMxNWI5M2IwYzY3YzE=/g3/ds1ro.m3u8?token=MjhkYjczOTgyYTUwN2E5ZGUzYmMxNWI5M2IwYzY3YzE=&id=OTdmMGMxMTMwYmI1MTdjMmViOTE2ZTE5MTBjYzcxMGI=&vip=1686735310&dip=NzBmNzQ4MDUwYjZhYjNhNWFjNTNlMzBiMDZhMWM1ZGU=&pip=MmMwZTEyZmY3MzJhNmVlZjgwZjA0OWY4ZTI1MDdlODU=&hip=ODc0YmViMDNiZjE2ZDcwM2E5Y2YwMzkzNWMxNjMxM2U=
-
-#EXTINF:-1,RO: Digi Sport 2
-https://fls.cdnhks.lol/fls/premium401/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RO: Digi Sport 2
-https://fls.cdnhks.lol/fls/premium401/playlist.m3u8
-#EXTINF:-1,RO: Digi Sport 2
-https://webudit.cdnhks.lol/lb/premium401/index.m3u8
-#EXTINF:-1,RO: Digi Sport 2
-https://webuit.cdnhks.lol/lb/premium401/index.m3u8
-#EXTINF:-1,RO: Digi Sport 2
-https://sportsite777.com/lba/YjJjODZlYmZmMGI4OGZlZTIyNWRkNjlkN2RhOGVlMWE=/g5/digisport2ro.m3u8?token=YjJjODZlYmZmMGI4OGZlZTIyNWRkNjlkN2RhOGVlMWE=&id=ZTM5YTFiYzU5YWY2NjIwNjA4Mjc3MmE3YjU0ZGI0ZDY=&vip=1686735395&dip=ZDg1OGZlMTdkMzI4ODk2NWM3N2NmNzQ2MTZiZGIzYmE=&pip=MmMwZTEyZmY3MzJhNmVlZjgwZjA0OWY4ZTI1MDdlODU=&hip=ODc0YmViMDNiZjE2ZDcwM2E5Y2YwMzkzNWMxNjMxM2U=
-
-#EXTINF:-1,RO: Digi Sport 3
-https://fls.cdnhks.lol/fls/premium402/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RO: Digi Sport 3
-https://fls.cdnhks.lol/fls/premium402/playlist.m3u8
-#EXTINF:-1,RO: Digi Sport 3
-https://webudit.cdnhks.lol/lb/premium402/index.m3u8
-#EXTINF:-1,RO: Digi Sport 3
-https://webuit.cdnhks.lol/lb/premium402/index.m3u8
-#EXTINF:-1,RO: Digi Sport 3
-https://sportsite777.com/lba/MmE4YTdlNjcyNjE2NzE3OTQwMzFkMDU3NTJlNzMwMWE=/g8/digi3ro.m3u8?token=MmE4YTdlNjcyNjE2NzE3OTQwMzFkMDU3NTJlNzMwMWE=&id=YzVhNjAzNTJiYTk5ZDUxNmM1NDBmYTI1YmE1NzEwOGY=&vip=1686735463&dip=ODM0OThhNWYyZTdiZjA5N2NhZTRiYzY4NzQ1MTM3MzU=&pip=MmMwZTEyZmY3MzJhNmVlZjgwZjA0OWY4ZTI1MDdlODU=&hip=ODc0YmViMDNiZjE2ZDcwM2E5Y2YwMzkzNWMxNjMxM2U=
-
-#EXTINF:-1,RO: Digi Sport 4
-https://fls.cdnhks.lol/fls/premium403/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RO: Digi Sport 4
-https://fls.cdnhks.lol/fls/premium403/playlist.m3u8
-#EXTINF:-1,RO: Digi Sport 4
-https://webudit.cdnhks.lol/lb/premium403/index.m3u8
-#EXTINF:-1,RO: Digi Sport 4
-https://webuit.cdnhks.lol/lb/premium403/index.m3u8
-#EXTINF:-1,RO: Digi Sport 4
-https://sportsite777.com/lba/Y2ZjOWZlODBhMDUwOTVhMjFkM2FmZGZhNmM2MmRjYmQ=/g3/rodigi4.m3u8?token=Y2ZjOWZlODBhMDUwOTVhMjFkM2FmZGZhNmM2MmRjYmQ=&id=YzlhYThiNmE4ODMyMDIzYjJjODc4YWYxYTI2YmEzZjg=&vip=1686735512&dip=NzAyZThkNTRlOTQ3MjNkZmMwYjZmZTQyODFmNzE0Njc=&pip=MmMwZTEyZmY3MzJhNmVlZjgwZjA0OWY4ZTI1MDdlODU=&hip=ODc0YmViMDNiZjE2ZDcwM2E5Y2YwMzkzNWMxNjMxM2U=
 
 #EXTINF:-1,RO: DJing TV
 https://www.djing.com/tv/hits.m3u8
 
 #EXTINF:-1,RO: Dotto TV
-https://dotto.edvr.ro/index.m3u8
-
-#EXTINF:-1,RO: Moldova TV
-http://watching-iptv.duckdns.org:39519
+https://live.dottotv.ro/index.m3u8
 
 #EXTINF:-1,RO: Etno TV
-https://live2.cdn.dejacast.com/etno/etno_0.m3u8?from=1686730862&to=1686752462&session=n8RAUudub45wqbCp&source=cms&token=DvqArDcmU7hWB-xPqAFx4PfMJsw=
+https://arwen1.panaka.cfd/etno/usergenrnd7ke5lgt.m3u8
+
+#EXTINF:-1,RO: Euronews
+https://thor1.syndula.cfd/ernews/usergenx6vkj8aqrnd.m3u8
 
 #EXTINF:-1,RO: Happy Channel
-https://live5uk.antenaplay.ro/happy/happy_3000k.m3u8?version=1&session=KWRUNFmaiJ6xl1Bl5SGg&starttime=1686741286&endtime=1686755716&source=web&token=FZ4etiRH7x9t192_-gGT1HNphLM=
-
-#EXTINF:-1,RO: HD 365
-https://testcam.go.ro:8080/hls/hd365.m3u8
-
-#EXTINF:-1,RO: HITS 360
-https://cm.hostlagarto.com:4445/hits360tv/hits360HD.myStream/playlist.m3u8
-
-#EXTINF:-1,RO: HD 365
-https://cm.hostlagarto.com:4445/hits360tv/hits360HD.myStream/chunks.m3u8
-
-#EXTINF:-1,RO: Hunedoara TV
-https://testcam.go.ro:8080/hls/hd1.m3u8
+https://saruman1.tharen.cfd/hap/usergenrnd2gd3ogS7bkd.m3u8
 
 #EXTINF:-1,RO: Iași TV Life
 https://tv.streambox.ro/hls/itv/index.m3u8
-
-#EXTINF:-1,RO: Impact TV Dance
-http://tvradioimpact.go.ro:8080/tmp_hls/tvimpact/index.m3u8
-
-#EXTINF:-1,RO: Impact TV Manele
-https://online.tvimpact.live/hls/impact_tv.m3u8
-
-#EXTINF:-1,RO: Inedit TV
-http://inedit-tv.duckdns.org:1359/live/myStream/playlist.m3u8
-
-#EXTINF:-1,RO: Info HD
-https://testcam.go.ro:8080/hls/InfoHd.m3u8
-
-#EXTINF:-1,RO: Info TV România
-https://vmi347009.contaboserver.net/live/stream/index.m3u8
 
 #EXTINF:-1,RO: Intermedia Suceava
 http://intermedia-suceava.duckdns.org:8080
 
 #EXTINF:-1,RO: KANAL D
-https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
-
-#EXTINF:-1,RO: KANAL D2
-https://stream2.kanald.ro/iphone/knd-live_low/index.m3u8
+https://arwen1.panaka.cfd/canald/usergenxq0jl72l0rnd.m3u8
 
 #EXTINF:-1,RO: Kapital TV
-http://kapitaltv.us:1936/ktv/myStream/playlist.m3u8
+http://dinastyknight.go.ro:1936/ktv/myStream/playlist.m3u8
 
 #EXTINF:-1,RO: Kiss TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
@@ -164,15 +83,13 @@ https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
 
 #EXTINF:-1,RO: Lira TV
-https://cloud3.streaminglivehd.com:1936/Liratv/Liratv/playlist.m3u8
-#EXTINF:-1,RO: Lira TV
-https://cloud3.streaminglivehd.com:1936/Liratv/Liratv/chunklist_w892091605.m3u8
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 
 #EXTINF:-1,RO: Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8
 
 #EXTINF:-1,RO: Metropola TV
-http://81.196.109.35:1935/MetropolaTV/Metro/playlist.m3u8
+https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 
 #EXTINF:-1,RO: Misa Senzațional TV
 https://vidl.misatv.ro:5050/MSTV/romanian_360p/playlist.m3u8
@@ -180,149 +97,21 @@ https://vidl.misatv.ro:5050/MSTV/romanian_360p/playlist.m3u8
 https://vidl.misatv.ro:5050/MSTV/romanian_360p/chunklist.m3u8
 
 #EXTINF:-1,RO: Muscel TV
-http://188.27.135.199:8099/hls/musceltv/index.m3u8
+https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 
 #EXTINF:-1,RO: Nașul TV
-https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
-#EXTINF:-1,RO: Nașul TV
-https://5ab29cc78f681.streamlock.net/NasulTV/livestream/master.m3u8
-#EXTINF:-1,RO: Nașul TV
-https://5ab29cc78f681.streamlock.net/NasulTV/livestream/chunklist.m3u8
-#EXTINF:-1,RO: Nașul TV
-https://5ab29cc78f681.streamlock.net/NasulTV/livestream/chunklist_w294337006.m3u8
+https://live.nasul.tv/live/stream.m3u8
 
 #EXTINF:-1,RO: Nova TV
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1,RO: Nova TV
 http://novapress.ro:2022/live/nova/chunklist.m3u8
 
-#EXTINF:-1,RO: Orange Sport 1
-https://fls.cdnhks.lol/fls/premium439/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RO: Orange Sport 1
-https://fls.cdnhks.lol/fls/premium439/playlist.m3u8
-#EXTINF:-1,RO: Orange Sport 1
-https://webudit.cdnhks.lol/lb/premium439/index.m3u8
-#EXTINF:-1,RO: Orange Sport 1
-https://webuit.cdnhks.lol/lb/primaorangesport1/index.m3u8
-#EXTINF:-1,RO: Orange Sport 1
-https://primamax.cdnhks.lol/primamax/primaorangesport1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RO: Orange Sport 1
-https://primamax.cdnhks.lol/primamax/primaorangesport1/playlist.m3u8
-
-#EXTINF:-1,RO: Orange Sport 2
-https://fls.cdnhks.lol/fls/premium440/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RO: Orange Sport 2
-https://fls.cdnhks.lol/fls/premium440/playlist.m3u8
-#EXTINF:-1,RO: Orange Sport 2
-https://webudit.cdnhks.lol/lb/premium440/index.m3u8
-#EXTINF:-1,RO: Orange Sport 2
-https://webuit.cdnhks.lol/lb/primaorangesport2/index.m3u8
-#EXTINF:-1,RO: Orange Sport 2
-https://primamax.cdnhks.lol/primamax/primaorangesport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RO: Orange Sport 2
-https://primamax.cdnhks.lol/primamax/primaorangesport2/playlist.m3u8
-
-#EXTINF:-1,RO: Orange Sport 3
-https://fls.cdnhks.lol/fls/premium441/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RO: Orange Sport 3
-https://fls.cdnhks.lol/fls/premium441/playlist.m3u8
-#EXTINF:-1,RO: Orange Sport 3
-https://webudit.cdnhks.lol/lb/premium441/index.m3u8
-#EXTINF:-1,RO: Orange Sport 3
-https://webuit.cdnhks.lol/lb/primaorangesport3/index.m3u8
-#EXTINF:-1,RO: Orange Sport 3
-https://primamax.cdnhks.lol/primamax/primaorangesport3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RO: Orange Sport 3
-https://primamax.cdnhks.lol/primamax/primaorangesport3/playlist.m3u8
-
-#EXTINF:-1,RO: Orange Sport 3
-https://fls.cdnhks.lol/fls/premium442/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RO: Orange Sport 3
-https://fls.cdnhks.lol/fls/premium442/playlist.m3u8
-#EXTINF:-1,RO: Orange Sport 3
-https://webudit.cdnhks.lol/lb/premium442/index.m3u8
-#EXTINF:-1,RO: Orange Sport 3
-https://webuit.cdnhks.lol/lb/primaorangesport4/index.m3u8
-#EXTINF:-1,RO: Orange Sport 3
-https://primamax.cdnhks.lol/primamax/primaorangesport4/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RO: Orange Sport 3
-https://primamax.cdnhks.lol/primamax/primaorangesport4/playlist.m3u8
-
-#EXTINF:-1,RO: Prima TV
-https://cnl.cdnhks.lol/cnl/prima/playlist.m3u8
-#EXTINF:-1,RO: Prima TV
-https://cnl.cdnhks.lol/cnl/prima/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RO: Prima TV
-https://stream1.1616.ro:1945/prima/livestream/chunklist.m3u8
-#EXTINF:-1,RO: Prima TV
-https://stream1.1616.ro:1945/prima/livestream/chunklist_w1782559214.m3u8
-#EXTINF:-1,RO: Prima TV
-https://webudit.cdnhks.lol/lb/prima/index.m3u8
-#EXTINF:-1,RO: Prima TV
-https://webuit.cdnhks.lol/lb/prima/index.m3u8
+#EXTINF:-1,RO: Observator News
+https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 
 #EXTINF:-1,RO: Privesc EU
 https://cachestar.privesc.eu/liniar/moldova/chunklist_w1750933261.m3u8
-
-#EXTINF:-1,RO: Pro Arena HD
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/fIDNZUHRHQslXDWp5YUb6Q==,1686761568/channels/cme-ro-prox/playlist/rum/live_hq.m3u8?offsetSeconds=0&url=1
-#EXTINF:-1,RO: Pro Arena HD
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/fIDNZUHRHQslXDWp5YUb6Q==,1686761568/channels/cme-ro-prox/playlist/rum/live_mq.m3u8?offsetSeconds=0&url=1
-#EXTINF:-1,RO: Pro Arena HD
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/fIDNZUHRHQslXDWp5YUb6Q==,1686761568/channels/cme-ro-prox/playlist-live_lq-live_mq-live_hq.m3u8?url=1
-#EXTINF:-1,RO: Pro Arena HD
-https://fls.cdnhks.lol/fls/prox/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RO: Pro Arena HD
-https://fls.cdnhks.lol/fls/prox/playlist.m3u8
-#EXTINF:-1,RO: Pro Arena HD
-https://webudit.cdnhks.lol/lb/prox/index.m3u8
-#EXTINF:-1,RO: Pro Arena HD
-https://webuit.cdnhks.lol/lb/prox/index.m3u8
-#EXTINF:-1,RO: Pro Arena
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/Zk4U1CwQMhckDRaZzN-WZw==,1686758823/channels/cme-ro-prox/playlist/rum/live_hq.m3u8?offsetSeconds=0&url=1
-#EXTINF:-1,RO: Pro Arena
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/Zk4U1CwQMhckDRaZzN-WZw==,1686758823/channels/cme-ro-prox/playlist/rum/live_mq.m3u8?offsetSeconds=0&url=1
-#EXTINF:-1,RO: Pro Arena
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/IRgUieslq7l7wyegq62nkA==,1686757360/channels/cme-ro-prox/playlist-live_lq-live_mq-live_hq.m3u8
-#EXTINF:-1,RO: Pro Arena
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/Zk4U1CwQMhckDRaZzN-WZw==,1686758823/channels/cme-ro-prox/playlist-live_lq-live_mq-live_hq.m3u8
-
-#EXTINF:-1,RO: Pro TV HD
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/U9DwFJwn2dZsXjHmwkXxCg==,1686757852/channels/cme-ro-protv/playlist/rum/live_fullhd.m3u8
-#EXTINF:-1,RO: Pro TV HD
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/U9DwFJwn2dZsXjHmwkXxCg==,1686757852/channels/cme-ro-protv/playlist/rum/live_mq.m3u8
-#EXTINF:-1,RO: Pro TV HD
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/U9DwFJwn2dZsXjHmwkXxCg==,1686757852/channels/cme-ro-protv/playlist.m3u8
-#EXTINF:-1,RO: Pro TV
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/aL06LyDZHSp22YDbRkuh0A==,1686757905/channels/cme-ro-protv/playlist/rum/live_fullhd.m3u8
-#EXTINF:-1,RO: Pro TV
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/aL06LyDZHSp22YDbRkuh0A==,1686757905/channels/cme-ro-protv/playlist/rum/live_mq.m3u8
-#EXTINF:-1,RO: Pro TV
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/aL06LyDZHSp22YDbRkuh0A==,1686757905/channels/cme-ro-protv/playlist.m3u8
-#EXTINF:-1,RO: Pro TV
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
-#EXTINF:-1,RO: Pro TV
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8
-#EXTINF:-1,RO: Pro TV
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_mq.m3u8
-
-#EXTINF:-1,RO: Pro TV Internațional
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/O-t6m-W-UYb97_AEuLHYeQ==,1686759740/channels/cme-ro-protv-international/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=1
-#EXTINF:-1,RO: Pro TV Internațional
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/O-t6m-W-UYb97_AEuLHYeQ==,1686759740/channels/cme-ro-protv-international/playlist/rum/live_mq.m3u8?offsetSeconds=0&url=1
-#EXTINF:-1,RO: Pro TV Internațional
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/O-t6m-W-UYb97_AEuLHYeQ==,1686759740/channels/cme-ro-protv-international/playlist.m3u8?url=1
-
-#EXTINF:-1,RO: Profit.ro
-https://stream1.profit.ro:1945/profit/livestream/playlist.m3u
-#EXTINF:-1,RO: Profit.ro
-https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF:-1,RO: Profit.ro
-https://stream1.profit.ro:1945/profit/livestream/chunklist.m3u8
-#EXTINF:-1,RO: Profit.ro
-https://stream1.profit.ro:1945/profit/livestream/chunklist_w1969009807.m3u8
-#EXTINF:-1,RO: Profit.ro
-https://stream1.profit.ro:1945/profit/livestream/chunklist_w2061929401.m3u8
 
 #EXTINF:-1 ,RO: Qub TV
 https://live.djemba.ro/live/qubtvlive/playlist.m3u8
@@ -337,21 +126,14 @@ https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uh
 #EXTINF:-1,RO: Radio România 3Net
 http://media.3netmedia.ro:8000/Live128.m3u
 
-#EXTINF:-1,RO: Radio ZU Video HD
-https://live7digi.antenaplay.ro/zurtv/zurtv/chunklist.m3u8?version=1&session=drCUjgwZCK5k2uVuXw1x&starttime=1686733179&endtime=1686747609&source=web&token=7pLo3QHDdbTw79ORNx8hzzEozxo=
-#EXTINF:-1,RO: Radio ZU Video HD
-https://ivm.antenaplay.ro/live/zurtv/playlist.m3u8?version=1&session=drCUjgwZCK5k2uVuXw1x&starttime=1686727154&endtime=1686734384&source=zuweb&token=ERtqh1xw4F4QURkkbOkPY7zSjdI=
-
 #EXTINF:-1,RO: Realitatea Plus
 https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
 
 #EXTINF:-1,RO: Realitatea Sportivă
-https://streamx.realitatea.net/realitatea/sportiva_hd/playlist.m3u8
-#EXTINF:-1,RO: Realitatea Sportivă
-https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 
 #EXTINF:-1,RO: Realitatea Star
-https://streamx.realitatea.net/realitatea/star_md/playlist.m3u8
+https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 
 #EXTINF:-1,RO: Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -363,6 +145,8 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.
 
 #EXTINF:-1,RO: România TV
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
+#EXTINF:-1,RO: România TV
+https://livestream.romaniatv.net/clients/romaniatv/chunklist.m3u8
 
 #EXTINF:-1,RO: Smart TV
 https://stream-aleph.m.ro/Aleph/Smartv.stream/playlist.m3u8
@@ -370,7 +154,9 @@ https://stream-aleph.m.ro/Aleph/Smartv.stream/playlist.m3u8
 https://stream-aleph.m.ro/Aleph/Smartv.stream/chunklist.m3u8
 
 #EXTINF:-1,RO: Speranța TV
-https://customer-x8zydurm357k8j9p.cloudflarestream.com/0dd00c080ff4cbe839a12c923610a55c/manifest/video.m3u8
+https://cdn-ro-otp.b-cdn.net/hcorg_71rJgMo5bcg/s/jsl_2gNjpghXRLE/master.m3u8
+#EXTINF:-1,RO: Speranța TV
+https://cdn-ro-otp.b-cdn.net/hcorg_71rJgMo5bcg/s/jsl_2gNjpghXRLE/gFPtl/480p/main.m3u8
 
 #EXTINF:-1,RO: Super TV
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
@@ -379,140 +165,92 @@ http://iptv.supertv.ro:8000/play/a002/index.m3u8
 
 #EXTINF:-1,RO: TeleM Botoșani
 http://telem-botosani.duckdns.org:8080/testing/pl5/playlist/ram/playlist.m3u8
-
-#EXTINF:-1,RO: TeleM Iași
-https://tv.streambox.ro/hls/telem/index.m3u8
+#EXTINF:-1,RO: TeleM Botoșani
+http://95.77.16.67:8080
 
 #EXTINF:-1,RO: TeleMoldova Plus
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
 
 #EXTINF:-1,RO: Telestar1
-http://89.47.97.15/telestar/telestar.m3u8
-#EXTINF:-1,RO: Telestar1
-http://telestar1.duckdns.org:8090/
-
-#EXTINF:-1,RO: Tezaur TV
-https://testcam.go.ro:8080/hls/tezaurtv.m3u8
+https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 
 #EXTINF:-1,RO: Trace Urban TV
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,RO: Trace Urban TV
 https://lightning-traceurban-samsungau.amagi.tv/playlist360p.m3u8
 
-#EXTINF:-1,RO: Tradițional TV
-http://traditional-tv.duckdns.org:8085/udp/239.30.0.9:4000
-
 #EXTINF:-1,RO: TV Arad
 https://live.djemba.ro/live/tvaradlive/playlist.m3u8
 
 #EXTINF:-1,RO: TV Buzău
-http://tv-buzau.duckdns.org:8080
+http://78.96.33.89:8080/
 
 #EXTINF:-1,RO: TV Plus Suceava
-http://tvplus-suceava.duckdns.org:8080
+http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
 
 #EXTINF:-1,RO: TVSat
-http://iptv-online.duckdns.org:39443
+http://89.38.8.130:39443/
 
 #EXTINF:-1,RO: TV Sud
 https://stream.leetweb.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 
 #EXTINF:-1,RO: Exploris
-http://iptv-online.duckdns.org:39419
+http://iptv-online.duckdns.org:39419/
 
 #EXTINF:-1,RO: TVR 1
-https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
+https://tvr-tvr1.cdn.zitec.com/live/tvr1/main.m3u8
 #EXTINF:-1,RO: TVR 1
-https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/chunklist.m3u8
-#EXTINF:-1,RO: TVR 1
-https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
-#EXTINF:-1,RO: TVR 1
-https://fls.cdnhks.lol/fls/8/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RO: TVR 1
-https://fls.cdnhks.lol/fls/8/playlist.m3u8
-#EXTINF:-1,RO: TVR 1
-https://webuit.cdnhks.lol/lb/8/index.m3u8
+https://tvr-tvr1.cdn.zitec.com/live/tvr1/mux_video_ts_hd/index-1.m3u8
 
 #EXTINF:-1,RO: TVR 2
-https://mn-nl.mncdn.com/tvr2_hd_live/smil:tvr2_hd_live.smil/playlist.m3u8
+https://tvr-tvr2.cdn.zitec.com/live/tvr2/main.m3u8
 #EXTINF:-1,RO: TVR 2
-https://mn-nl.mncdn.com/tvr2_hd_live/smil:tvr2_hd_live.smil/chunklist.m3u8
-#EXTINF:-1,RO: TVR 2
-https://mn-nl.mncdn.com/tvr2_hd_live/smil:tvr2_hd_live.smil/index.m3u8
-#EXTINF:-1,RO: TVR 2
-https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/playlist.m3u8
-#EXTINF:-1,RO: TVR 2
-https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/chunklist.m3u8
-#EXTINF:-1,RO: TVR 2
-https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
-#EXTINF:-1,RO: TVR 2
-https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/playlist.m3u8
-#EXTINF:-1,RO: TVR 2
-https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/chunklist.m3u8
-#EXTINF:-1,RO: TVR 2
-https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
+https://tvr-tvr2.cdn.zitec.com/live/tvr2/mux_video_ts_hd/index-1.m3u8
 
 #EXTINF:-1,RO: TVR 3
-https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/playlist.m3u8
+https://tvr-tvr3.cdn.zitec.com/live/tvr3/main.m3u8
 #EXTINF:-1,RO: TVR 3
-https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/chunklist.m3u8
-#EXTINF:-1,RO: TVR 3
-https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
+https://tvr-tvr3.cdn.zitec.com/hls/52eacb03-8342-706f-aa4d-c376055b30fa/streams/v3/play.m3u8
 
 #EXTINF:-1,RO: TVR Cluj
-https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/playlist.m3u8
+https://tvr-tvrcluj.cdn.zitec.com/live/tvrcluj/main.m3u8
 #EXTINF:-1,RO: TVR Cluj
-https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/chunklist.m3u8
-#EXTINF:-1,RO: TVR Cluj
-https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8
+https://tvr-tvrcluj.cdn.zitec.com/hls/67d0b525-ceca-33fb-fa81-c35b2124b2f1/streams/v3/play.m3u8
 
 #EXTINF:-1,RO: TVR Craiova
-https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/playlist.m3u8
+https://tvr-tvrcraiova.cdn.zitec.com/live/tvrcraiova/main.m3u8
 #EXTINF:-1,RO: TVR Craiova
-https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/chunklist.m3u8
-#EXTINF:-1,RO: TVR Craiova
-https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8
+https://tvr-tvrcraiova.cdn.zitec.com/hls/c98cdbaf-b5bc-e860-106c-5036218ef902/streams/v3/play.m3u8
 
 #EXTINF:-1,RO: TVR Cultural
-https://mn-nl.mncdn.com/tvr_cultural/tvrcultural/playlist.m3u8
+https://tvr-tvrcultural.cdn.zitec.com/live/tvrcultural/main.m3u8
 #EXTINF:-1,RO: TVR Cultural
-https://mn-nl.mncdn.com/tvr_cultural/tvrcultural/chunklist.m3u8
-#EXTINF:-1,RO: TVR Cultural
-https://mn-nl.mncdn.com/tvr_cultural/tvrcultural/index.m3u8
+https://tvr-tvrcultural.cdn.zitec.com/hls/046ef049-12a5-ced8-8ea5-77c4bb8065cb/streams/v3/play.m3u8
+
+#EXTINF:-1,RO: TVR Folclor
+https://tvr-tvrfolclor.cdn.zitec.com/live/tvrfolclor/main.m3u8
+#EXTINF:-1,RO: TVR Folclor
+https://tvr-tvrfolclor.cdn.zitec.com/hls/30b30b36-fb2a-2611-e56d-1be88c76d7ef/streams/v3/play.m3u8
 
 #EXTINF:-1,RO: TVR Iași
-https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/playlist.m3u8
-#EXTINF:-1,RO: TVR Iași
-https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/chunklist.m3u8
-#EXTINF:-1,RO: TVR Iași
-https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8
+https://tvr-tvriasi.cdn.zitec.com/live/tvriasi/main.m3u8
 
 #EXTINF:-1,RO: TVR Internațional
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
+https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8
 #EXTINF:-1,RO: TVR Internațional
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
-#EXTINF:-1,RO: TVR Internațional
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist.m3u8
-#EXTINF:-1,RO: TVR Internațional
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b6096000.m3u8
-#EXTINF:-1,RO: TVR Internațional
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b1048000.m3u8
+https://tvr-tvri.cdn.zitec.com/live/tvri/mux_video_ts_hd/index-1.m3u8
+
+#EXTINF:-1,RO: TVR Sport
+https://tvr-tvrsport.cdn.zitec.com/live/tvrsport/main.m3u8
+#EXTINF:-1,RO: TVR Sport
+https://tvr-tvrsport.cdn.zitec.com/hls/4ae2ddda-57d9-0220-fd3c-8decd1b4610f/streams/v3/play.m3u8
 
 #EXTINF:-1,RO: TVR Târgu Mureș
-https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/playlist.m3u8
+https://tvr-tvrmures.cdn.zitec.com/live/tvrmures/main.m3u8
 #EXTINF:-1,RO: TVR Târgu Mureș
-https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/chunklist.m3u8
-#EXTINF:-1,RO: TVR Târgu Mureș
-https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8
+https://tvr-tvrmures.cdn.zitec.com/hls/f7d5a876-c54f-624b-1dbb-5f48948a65a2/streams/v3/play.m3u8
 
 #EXTINF:-1,RO: TVR Timișoara
-https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/playlist.m3u8
+https://tvr-tvrtimisoara.cdn.zitec.com/live/tvrtimisoara/main.m3u8
 #EXTINF:-1,RO: TVR Timișoara
-https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/chunklist.m3u8
-#EXTINF:-1,RO: TVR Timișoara
-https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8
-
-#EXTINF:-1,RO: ZU TV
-https://live5uk.antenaplay.ro/zutv/zutv_3000k.m3u8?version=1&session=2ilFK634Q2C5D8vtnTMZ&starttime=1686743969&endtime=1686758399&source=web&token=AoyRIpdH3xIARGXhhMq6oxSVjjY=
-#EXTINF:-1,RO: ZU TV
-https://live5uk.antenaplay.ro/zutv/zutv_3000k.m3u8?version=1&session=4SXaEloe9PbBu9xZuEKI&starttime=1686743967&endtime=1686758397&source=web&token=AIAiwfPraDUQBCUtwOzkLUakLVk=
+https://tvr-tvrtimisoara.cdn.zitec.com/hls/14cd0741-66d7-30db-99f7-1f8db79486ae/streams/v3/play.m3u8
