@@ -1,7 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1,FR: TV5 Monde Europe
-http://176.10.117.3:5000/play/a02y
-
-#EXTINF:-1,FR: TV5 Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
