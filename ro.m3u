@@ -6,6 +6,8 @@ https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 #EXTINF:-1,RO: Aleph News
 https://streamb.m.ro/Aleph/ngrp:Alephnew2.stream_all/playlist.m3u8
 #EXTINF:-1,RO: Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:-1,RO: Aleph News
 https://streamb.m.ro/Aleph/ngrp:Alephnew2.stream_all/chunklist_b5128000.m3u8
 
 #EXTINF:-1,RO: Alfa & Omega TV
@@ -19,14 +21,26 @@ https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1,RO: Antena Monden
 https://stream1.antenaplay.ro/live/AntenaMonden/chunklist.m3u8
 
+#EXTINF:-1,RO: Antena Sport
+https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
+
+#EXTINF:-1,RO: Argeș TV
+https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
+
 #EXTINF:-1,RO: Atomic TV
 https://atomic.streamnet.ro/atomictv.m3u8
+
+#EXTINF:-1,RO: Atomic Academy TV
+https://atomic.streamnet.ro/academia.m3u8
 
 #EXTINF:-1,RO: Banat TV
 https://btv.ro/hls/banat-tv.m3u8
 
 #EXTINF:-1,RO: Campus TV Buzău
 https://campusbuzau.ro//wp-content/uploads/downloadables/radio-campus.m3u
+
+#EXTINF:-1,RO: CaTine
+https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8
 
 #EXTINF:-1,RO: Cook & Play
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
@@ -50,6 +64,9 @@ https://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 #EXTINF:-1,RO: Curier TV
 http://curier-tv.duckdns.org:1935/live/curiertv/playlist.m3u8
 
+#EXTINF:-1,RO: Digi24
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+
 #EXTINF:-1,RO: DJing TV
 https://www.djing.com/tv/hits.m3u8
 
@@ -65,14 +82,28 @@ https://thor1.syndula.cfd/ernews/usergenx6vkj8aqrnd.m3u8
 #EXTINF:-1,RO: Happy Channel
 https://saruman1.tharen.cfd/hap/usergenrnd2gd3ogS7bkd.m3u8
 
+#EXTINF:-1,RO: Hello Taste
+https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
+
 #EXTINF:-1,RO: Iași TV Life
 https://tv.streambox.ro/hls/itv/index.m3u8
+
+#EXTINF:-1,RO: Impact TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
+
+#EXTINF:-1,RO: Impact TV Manele
+https://online.tvimpact.live/hls/impact_tv.m3u8
 
 #EXTINF:-1,RO: Intermedia Suceava
 http://intermedia-suceava.duckdns.org:8080
 
 #EXTINF:-1,RO: KANAL D
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1,RO: KANAL D
 https://arwen1.panaka.cfd/canald/usergenxq0jl72l0rnd.m3u8
+
+#EXTINF:-1,RO: KANAL D2
+https://stream2.kanald.ro/iphone/knd-live.m3u8
 
 #EXTINF:-1,RO: Kapital TV
 http://dinastyknight.go.ro:1936/ktv/myStream/playlist.m3u8
@@ -82,19 +113,39 @@ https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1,RO: Kiss TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
 
+#EXTINF:-1,RO: Light Channel
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+
 #EXTINF:-1,RO: Lira TV
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 
+#EXTINF:-1,RO: Magic TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1,RO: Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8
 
 #EXTINF:-1,RO: Metropola TV
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 
+#EXTINF:-1,RO: MediCOOL TV
+https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
+
+#EXTINF:-1,RO: Mireasa
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+
 #EXTINF:-1,RO: Misa Senzațional TV
 https://vidl.misatv.ro:5050/MSTV/romanian_360p/playlist.m3u8
 #EXTINF:-1,RO: Misa Senzațional TV
 https://vidl.misatv.ro:5050/MSTV/romanian_360p/chunklist.m3u8
+
+#EXTINF:-1,RO: Mooz Dance
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+
+#EXTINF:-1,RO: Mooz Hits
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+
+#EXTINF:-1,RO: Mooz
+https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 
 #EXTINF:-1,RO: Muscel TV
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
@@ -126,6 +177,9 @@ https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uh
 #EXTINF:-1,RO: Radio România 3Net
 http://media.3netmedia.ro:8000/Live128.m3u
 
+#EXTINF:-1,RO: Rapsodia TV
+http://92.86.248.141:8080/ram/playlist.m3u8
+
 #EXTINF:-1,RO: Realitatea Plus
 https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
 
@@ -135,6 +189,9 @@ https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1,RO: Realitatea Star
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 
+#EXTINF:-1,RO: Republika NEWS
+https://v1.mediastreaming.ro/stream/hls/ploiestitv.m3u8
+
 #EXTINF:-1,RO: Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
@@ -142,6 +199,9 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1,RO: Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+
+#EXTINF:-1,RO: ROTV Valencia
+https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 
 #EXTINF:-1,RO: România TV
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
@@ -152,6 +212,8 @@ https://livestream.romaniatv.net/clients/romaniatv/chunklist.m3u8
 https://stream-aleph.m.ro/Aleph/Smartv.stream/playlist.m3u8
 #EXTINF:-1,RO: Smart TV
 https://stream-aleph.m.ro/Aleph/Smartv.stream/chunklist.m3u8
+#EXTINF:-1,RO: Smart TV
+https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8
 
 #EXTINF:-1,RO: Speranța TV
 https://cdn-ro-otp.b-cdn.net/hcorg_71rJgMo5bcg/s/jsl_2gNjpghXRLE/master.m3u8
@@ -162,6 +224,14 @@ https://cdn-ro-otp.b-cdn.net/hcorg_71rJgMo5bcg/s/jsl_2gNjpghXRLE/gFPtl/480p/main
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
 #EXTINF:-1,RO: Super TV
 http://iptv.supertv.ro:8000/play/a002/index.m3u8
+#EXTINF:-1,RO: Super TV
+https://live.supertv.ro/live/supertv/playlist.m3u8
+
+#EXTINF:-1,RO: Tele7ABC
+https://live.tele7abc.ro/hls/stream/index.m3u8
+
+#EXTINF:-1,RO: Tele7music
+https://live.tele7music.ro/hls/stream/index.m3u8
 
 #EXTINF:-1,RO: TeleM Botoșani
 http://telem-botosani.duckdns.org:8080/testing/pl5/playlist/ram/playlist.m3u8
@@ -187,6 +257,8 @@ http://78.96.33.89:8080/
 
 #EXTINF:-1,RO: TV Plus Suceava
 http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1,RO: TV Plus Suceava
+http://85.186.146.34:8080/
 
 #EXTINF:-1,RO: TVSat
 http://89.38.8.130:39443/
