@@ -1,28 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,RO: Acasă
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/EWUJHin8yDhJlVdKk0k7Zw==,1686759914/channels/cme-ro-pro2/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=1
-#EXTINF:-1,RO: Acasă
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/EWUJHin8yDhJlVdKk0k7Zw==,1686759914/channels/cme-ro-pro2/playlist/rum/live_mq.m3u8?offsetSeconds=0&url=1
-#EXTINF:-1,RO: Acasă
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/EWUJHin8yDhJlVdKk0k7Zw==,1686759914/channels/cme-ro-pro2/playlist.m3u8?url=1
-
-#EXTINF:-1,RO: Acasă Gold
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/vdGurKqi5TApZ-Nt99AkPQ==,1686759683/channels/cme-ro-progold/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=1
-#EXTINF:-1,RO: Acasă Gold
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/vdGurKqi5TApZ-Nt99AkPQ==,1686759683/channels/cme-ro-progold/playlist/rum/live_mq.m3u8?offsetSeconds=0&url=1
-#EXTINF:-1,RO: Acasă Gold
-https://cmero-ott-live-app-svod-sec.ssl.cdn.cra.cz/vdGurKqi5TApZ-Nt99AkPQ==,1686759683/channels/cme-ro-progold/playlist.m3u8?url=1
-
 #EXTINF:-1,RO: Agro TV
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
-
-#EXTINF:-1,RO: Aleph Business
-https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
-#EXTINF:-1,RO: Aleph Business
-https://stream-aleph.m.ro/Aleph/Alephbiz.stream/playlist.m3u8
-#EXTINF:-1,RO: Aleph Business
-https://stream-aleph.m.ro/Aleph/Alephbiz.stream/chunklist.m3u8
 
 #EXTINF:-1,RO: Aleph News
 https://streamb.m.ro/Aleph/ngrp:Alephnew2.stream_all/playlist.m3u8
@@ -30,81 +9,21 @@ https://streamb.m.ro/Aleph/ngrp:Alephnew2.stream_all/playlist.m3u8
 https://streamb.m.ro/Aleph/ngrp:Alephnew2.stream_all/chunklist_b5128000.m3u8
 
 #EXTINF:-1,RO: Alfa & Omega TV
-http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
-#EXTINF:-1,RO: Alfa & Omega TV
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
-#EXTINF:-1,RO: Alfa & Omega TV
-http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/chunklist_w369018163_b780800.m3u8
-#EXTINF:-1,RO: Alfa & Omega TV
-https://5b6cade28002a.streamlock.net/alfaomega/smil:alfaomegatv/playlist.m3u8
-#EXTINF:-1,RO: Alfa & Omega TV
-https://5b6cade28002a.streamlock.net/alfaomega/alfaomega1.sdp/playlist.m3u8
-#EXTINF:-1,RO: Alfa & Omega TV
-https://5b6cade28002a.streamlock.net/alfaomega/smil:alfaomegatv/chunklist_w1756613450_b780800.m3u8
-#EXTINF:-1,RO: Alfa & Omega TV
-https://ch.iptvmate.net/99ab43b8e05b44765cee828fc5deafb8.m3u8
-#EXTINF:-1,RO: Alfa & Omega TV
-https://ch.iptvmate.net/b780946a8de8f0ebeeed1f43b4ca9582.m3u8
-
+https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
+https://ivanturbinca.com/embed-video2.php?source=https%3A%2F%2Fp13.magicplaces.eu%2F1.backup.antena1%2Fvideo.m3u8&token=f3395ea90e996ad991d015b54e4059bec8630408cc1a33a09e865ada48a02eee&timestamp=1748610662
 #EXTINF:-1,RO: Antena 1
-https://cnl.cdnhks.lol/cnl/eantena1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RO: Antena 1
-https://cnl.cdnhks.lol/cnl/eantena1/playlist.m3u8
-#EXTINF:-1,RO: Antena 1
-https://live5uk.antenaplay.ro/a1/a1_3000k.m3u8?version=1&session=WcfTomy1pR3bwnmoVxsZ&starttime=1686741531&endtime=1686755961&source=web&token=am2khsI_BLPc207AP1fay_uCOvU=
-#EXTINF:-1,RO: Antena 1
-https://live5uk.antenaplay.ro/a1/a1_3000k.m3u8?version=1&session=VNsvfrpT6ROmZQzeGSgk&starttime=1686741482&endtime=1686755912&source=web&token=vYp1PBVMkNPlnLbBbXzYGM0zhZI=
-#EXTINF:-1,RO: Antena 1
-https://live5uk.antenaplay.ro/a1/a1_3000k.m3u8?version=1&session=p9TOj6OFivt8hQT2mhCp&starttime=1686741567&endtime=1686755997&source=web&token=grNBFQEgoiFw8O1a6Xz0aDdv8js=
-#EXTINF:-1,RO: Antena 1
-https://webuit.cdnhks.lol/lb/eantena1/index.m3u8
-
-#EXTINF:-1,RO: Antena 3
-https://fls.cdnhks.lol/fls/antena3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RO: Antena 3
-https://fls.cdnhks.lol/fls/antena3/playlist.m3u8
-#EXTINF:-1,RO: Antena 3
-https://webuit.cdnhks.lol/lb/antena3/index.m3u8
-#EXTINF:-1,RO: Antena 3
-https://live5uk.antenaplay.ro/a3/a3_3000k.m3u8?version=1&session=AVBatMDWu4TThSxPGDRc&starttime=1686742073&endtime=1686756503&source=web&token=_hU87n7hx1TOFHeGY2-Sy4zKsUo=
+https://alpha1.yosefina.cfd/ah1/usergenx304Jtlrnd.m3u8
 
 #EXTINF:-1,RO: Antena Monden
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1,RO: Antena Monden
 https://stream1.antenaplay.ro/live/AntenaMonden/chunklist.m3u8
 
-#EXTINF:-1,RO: Antena Stars
-https://live5uk.antenaplay.ro/astars/astars_3000k.m3u8?version=1&session=7Uyr8h45F0mOut4egHYu&starttime=1686741058&endtime=1686755488&source=web&token=PFlul2O9ULUjHMHZMEL2KyvdiUs=
-#EXTINF:-1,RO: Antena Stars
-https://live5uk.antenaplay.ro/astars/astars_3000k.m3u8?version=1&session=34rjVgd64NU7YwUbrvOI&starttime=1686741033&endtime=1686755463&source=web&token=m58h1LXuXuDilXbn7WDdS7TlICc=
-
-#EXTINF:-1,RO: Ardeal TV
-https://frn.rtsp.me/qbOcIT5qZjl4vakN4CB0tw/1686733566/hls/yZ9ED27Q.m3u8
-
 #EXTINF:-1,RO: Atomic TV
 https://atomic.streamnet.ro/atomictv.m3u8
 
-#EXTINF:-1,RO: B1 TV
-https://live-milos.cdn.dejacast.com/b1tv/b1tv_0.m3u8
-#EXTINF:-1,RO: B1 TV
-https://live-milos.cdn.dejacast.com/b1tv/b1tv.m3u8
-#EXTINF:-1,RO: B1 TV
-https://live3.cdn.dejacast.com/b1tv/b1tv_0.m3u8?from=1686730048&to=1686751648&session=Wnpw0MNicLwEYMaR&source=cms&token=Qc34bgtLHzuQW4v_D1vbUCQGPTA=
-
 #EXTINF:-1,RO: Banat TV
 https://btv.ro/hls/banat-tv.m3u8
-
-#EXTINF:-1,RO: Bucovina TV
-http://live-iptv-watch.duckdns.org:9999/btvsvlive/playlist.m3u8
-#EXTINF:-1,RO: Bucovina TV
-http://live-iptv-watch.duckdns.org:9999/btvsvlive/btvsvlive/playlist.m3u8
-#EXTINF:-1,RO: Bucovina TV
-https://ch.iptvmate.net/34bf0fd9c6abd39babdbacb463fb2fb1.m3u8
-#EXTINF:-1,RO: Bucovina TV
-https://ch.iptvmate.net/8638921bf17f446eeb1661b195d2e7ca.m3u8
-
-#EXTINF:-1,RO: București TV
-http://iptv-online.duckdns.org:39459
 
 #EXTINF:-1,RO: Campus TV Buzău
 https://campusbuzau.ro//wp-content/uploads/downloadables/radio-campus.m3u
@@ -130,8 +49,6 @@ https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
 #EXTINF:-1,RO: Credo TV
 http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/chunklist_b1128000.m3u8
-#EXTINF:-1,RO: Credo TV
-https://ch.iptvmate.net/78c274e86d422686ab3b4e36d9103933.m3u8
 #EXTINF:-1,RO: Credo TV
 https://5bb3298db4821.streamlock.net/ctv/smil:livecredo.smil/playlist.m3u8
 
@@ -192,8 +109,6 @@ https://dotto.edvr.ro/index.m3u8
 
 #EXTINF:-1,RO: Moldova TV
 http://watching-iptv.duckdns.org:39519
-#EXTINF:-1,RO: Moldova TV
-https://ch.iptvmate.net/481759b863db782ad989e4454ddc7ae9.m3u8
 
 #EXTINF:-1,RO: Etno TV
 https://live2.cdn.dejacast.com/etno/etno_0.m3u8?from=1686730862&to=1686752462&session=n8RAUudub45wqbCp&source=cms&token=DvqArDcmU7hWB-xPqAFx4PfMJsw=
@@ -233,8 +148,6 @@ https://vmi347009.contaboserver.net/live/stream/index.m3u8
 
 #EXTINF:-1,RO: Intermedia Suceava
 http://intermedia-suceava.duckdns.org:8080
-#EXTINF:-1,RO: Intermedia Suceava
-http://live-iptv-watch.duckdns.org:9999/intermedia1/playlist.m3u8
 
 #EXTINF:-1,RO: KANAL D
 https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
@@ -410,8 +323,6 @@ https://stream1.profit.ro:1945/profit/livestream/chunklist.m3u8
 https://stream1.profit.ro:1945/profit/livestream/chunklist_w1969009807.m3u8
 #EXTINF:-1,RO: Profit.ro
 https://stream1.profit.ro:1945/profit/livestream/chunklist_w2061929401.m3u8
-#EXTINF:-1,RO: Profit.ro
-https://ch.iptvmate.net/625ea96786f2341ff1ae4983c8e44b08.m3u8
 
 #EXTINF:-1 ,RO: Qub TV
 https://live.djemba.ro/live/qubtvlive/playlist.m3u8
@@ -499,21 +410,15 @@ http://tv-buzau.duckdns.org:8080
 
 #EXTINF:-1,RO: TV Plus Suceava
 http://tvplus-suceava.duckdns.org:8080
-#EXTINF:-1,RO: TV Plus Suceava
-https://ch.iptvmate.net/0a00fed7fb7f4e9049d36b64391bfe96.m3u8
 
 #EXTINF:-1,RO: TVSat
 http://iptv-online.duckdns.org:39443
-#EXTINF:-1,RO: TVSat
-https://ch.iptvmate.net/cad4c46912403e9f067ca9d10387d1e9.m3u8
 
 #EXTINF:-1,RO: TV Sud
 https://stream.leetweb.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 
 #EXTINF:-1,RO: Exploris
 http://iptv-online.duckdns.org:39419
-#EXTINF:-1,RO: Exploris
-https://ch.iptvmate.net/d70fbf6bb5de6d71ac64f359ada1342b.m3u8
 
 #EXTINF:-1,RO: TVR 1
 https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
