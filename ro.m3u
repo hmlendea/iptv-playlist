@@ -12,7 +12,9 @@ https://streamb.m.ro/Aleph/ngrp:Alephnew2.stream_all/chunklist_b5128000.m3u8
 
 #EXTINF:-1,RO: Alfa & Omega TV
 https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
-https://ivanturbinca.com/embed-video2.php?source=https%3A%2F%2Fp13.magicplaces.eu%2F1.backup.antena1%2Fvideo.m3u8&token=f3395ea90e996ad991d015b54e4059bec8630408cc1a33a09e865ada48a02eee&timestamp=1748610662
+
+#EXTINF:-1,RO: Angelus TV
+https://video.angelustv.ro/hls/angelustv.m3u8
 
 #EXTINF:-1,RO: Antena Monden
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
@@ -71,8 +73,14 @@ https://www.djing.com/tv/hits.m3u8
 #EXTINF:-1,RO: Dotto TV
 https://live.dottotv.ro/index.m3u8
 
+#EXTINF:-1,RO: HD365
+https://netstreaming.eu/hd365.m3u8
+
 #EXTINF:-1,RO: Hello Taste
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
+
+#EXTINF:-1,RO: Hunedoara 1
+https://netstreaming.eu/hd1.m3u8
 
 #EXTINF:-1,RO: Iași TV Life
 https://tv.streambox.ro/hls/itv/index.m3u8
@@ -83,12 +91,27 @@ https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:-1,RO: Impact TV Manele
 https://online.tvimpact.live/hls/impact_tv.m3u8
 
+#EXTINF:-1,RO: Info HD
+https://netstreaming.eu/InfoHd.m3u8
+
+#EXTINF:-1,RO: Informația TV
+https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
+
 #EXTINF:-1,RO: Intermedia Suceava
 http://intermedia-suceava.duckdns.org:8080
+#EXTINF:-1,RO: Intermedia Suceava
+http://83.103.150.208:8080/stream/ram/playlist.m3u8
 
+#EXTINF:-1,RO: Job TV
+https://jobtvserver.eu/hls/stream_src/index.m3u8
+
+#EXTINF:-1,RO: KANAL D
+https://stream1.kanald.ro/iphone/live.m3u8
 #EXTINF:-1,RO: KANAL D
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 
+#EXTINF:-1,RO: KANAL D2
+https://stream2.kanald.ro/iphone/live.m3u8
 #EXTINF:-1,RO: KANAL D2
 https://stream2.kanald.ro/iphone/knd-live.m3u8
 
@@ -105,6 +128,9 @@ http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 
 #EXTINF:-1,RO: Lira TV
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+
+#EXTINF:-1,RO: M9 TV
+https://netstreaming.eu/m9tv.m3u8
 
 #EXTINF:-1,RO: Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
@@ -164,6 +190,9 @@ https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uh
 #EXTINF:-1,RO: Radio România 3Net
 http://media.3netmedia.ro:8000/Live128.m3u
 
+#EXTINF:-1,RO: RadioTeleViziunea DIASPOREI
+https://live.dyntube.net/live/euc/web/U2voBANRR02a0hsS20c0A/stream/live_97e8028376c7355959e9/live_97e8028376c7355959e9.m3u8?md5=YC9iHNQbFYjwvGpslIyVDQ&expires=1748732969
+
 #EXTINF:-1,RO: Rapsodia TV
 http://92.86.248.141:8080/ram/playlist.m3u8
 
@@ -208,6 +237,8 @@ https://cdn-ro-otp.b-cdn.net/hcorg_71rJgMo5bcg/s/jsl_2gNjpghXRLE/master.m3u8
 https://cdn-ro-otp.b-cdn.net/hcorg_71rJgMo5bcg/s/jsl_2gNjpghXRLE/gFPtl/480p/main.m3u8
 
 #EXTINF:-1,RO: Super TV
+https://cdn.streamnet.pro/live/supertv/playlist.m3u8
+#EXTINF:-1,RO: Super TV
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
 #EXTINF:-1,RO: Super TV
 http://iptv.supertv.ro:8000/play/a002/index.m3u8
@@ -236,6 +267,9 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,RO: Trace Urban TV
 https://lightning-traceurban-samsungau.amagi.tv/playlist360p.m3u8
 
+#EXTINF:-1,RO: TV1 Satu Mare
+https://netstreaming.eu/tv1.m3u8
+
 #EXTINF:-1,RO: TV Arad
 https://live.djemba.ro/live/tvaradlive/playlist.m3u8
 
@@ -252,6 +286,10 @@ http://89.38.8.130:39443/
 
 #EXTINF:-1,RO: TV Sud
 https://stream.leetweb.ro/WebRTCApp/streams/118334672595255049029831.m3u8
+#EXTINF:-1,RO: TV Sud
+https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
+#EXTINF:-1,RO: TV Sud
+https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831_adaptive.m3u8
 
 #EXTINF:-1,RO: Exploris
 http://iptv-online.duckdns.org:39419/
