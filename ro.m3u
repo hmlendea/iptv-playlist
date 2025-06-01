@@ -151,6 +151,9 @@ https://vidl.misatv.ro:5050/MSTV/romanian_360p/playlist.m3u8
 #EXTINF:-1,RO: Misa Senzațional TV
 https://vidl.misatv.ro:5050/MSTV/romanian_360p/chunklist.m3u8
 
+#EXTINF:-1,RO: Moinești TV
+https://flus.moinestifm.ro/ro.moinesti/index.m3u8
+
 #EXTINF:-1,RO: Mooz Dance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 
@@ -176,6 +179,9 @@ https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 
 #EXTINF:-1,RO: Privesc EU
 https://cachestar.privesc.eu/liniar/moldova/chunklist_w1750933261.m3u8
+
+#EXTINF:-1,RO: PROFI 24 TV
+https://owncast-jjg42-u20330.vm.elestio.app/hls/0/stream.m3u8
 
 #EXTINF:-1 ,RO: Qub TV
 https://live.djemba.ro/live/qubtvlive/playlist.m3u8
