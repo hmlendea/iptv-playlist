@@ -22,6 +22,9 @@ https://video.angelustv.ro/hls/angelustv.m3u8
 #EXTINF:-1,RO: Antena 3 CNN
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 
+#EXTINF:-1,RO: Antena 3 Constanța
+https://ccwork.go.ro/memfs/6cc05b86-8175-440c-ac56-a216869cb92a.m3u8
+
 #EXTINF:-1,RO: Antena Monden
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1,RO: Antena Monden
