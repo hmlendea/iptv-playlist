@@ -201,6 +201,8 @@ https://live.djemba.ro/live/qubtvlive/playlist.m3u8
 #EXTINF:-1 ,RO: Qub TV
 https://live.djemba.ro/live/qubtvlive/chunklist.m3u8
 #EXTINF:-1 ,RO: Qub TV
+https://live.djemba.ro/live/qubtvlive/chunklist_w818940954.m3u8
+#EXTINF:-1 ,RO: Qub TV
 https://live.djemba.ro/live/qubtvlive/chunklist_w976766879.m3u8
 
 #EXTINF:-1,RO: Radio m2o TV
