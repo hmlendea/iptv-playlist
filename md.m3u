@@ -25,9 +25,9 @@ https://live.noroc.tv/noroc/bitrate_720p.m3u8
 #EXTINF:-1,MD: Noroc TV
 https://live.noroc.tv/noroc/bitrate_480p.m3u8
 
-#EXTINF:-1,MD: Privesc EU
+#EXTINF:-1,MD: Privesc.EU
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
-#EXTINF:-1,MD: Privesc EU
+#EXTINF:-1,MD: Privesc.EU
 https://cachestar.privesc.eu/liniar/moldova/chunklist_w1750933261.m3u8
 
 #EXTINF:-1,MD: Realitatea Live
@@ -37,6 +37,8 @@ https://realitatealive.md/tv/rlive.m3u8
 https://video.sortv.md/wowza/live/Sunet/playlist.m3u8
 #EXTINF:-1,MD: Soroca TV
 https://video.sortv.md/wowza/live/Sunet/chunklist_w1580005581.m3u8
+#EXTINF:-1,MD: Soroca TV
+http://188.237.212.16:8888/live/cameraFeed.m3u8
 
 #EXTINF:-1,MD: Tezaur TV
 https://tezaurtv.md/stream/index.m3u8
