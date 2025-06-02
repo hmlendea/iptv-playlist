@@ -189,9 +189,6 @@ http://novapress.ro:2022/live/nova/chunklist.m3u8
 #EXTINF:-1,RO: Observator News
 https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 
-#EXTINF:-1,RO: Privesc EU
-https://cachestar.privesc.eu/liniar/moldova/chunklist_w1750933261.m3u8
-
 #EXTINF:-1,RO: PROFI 24 TV
 https://owncast-jjg42-u20330.vm.elestio.app/hls/0/stream.m3u8
 
