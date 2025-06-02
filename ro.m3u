@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,RO: A7TV
+https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
+
 #EXTINF:-1,RO: Agro TV
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 
@@ -15,6 +18,9 @@ https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
 
 #EXTINF:-1,RO: Angelus TV
 https://video.angelustv.ro/hls/angelustv.m3u8
+
+#EXTINF:-1,RO: Antena 3 CNN
+https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 
 #EXTINF:-1,RO: Antena Monden
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
