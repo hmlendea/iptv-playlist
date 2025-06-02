@@ -24,6 +24,9 @@ https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b4
 #EXTINF:-1,MD: Moldova 2
 https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/0.m3u8
 
+#EXTINF:-1,MD: N4
+https://93.115.138.193:4935/live/live_720p/playlist.m3u8
+
 #EXTINF:-1,MD: Noroc TV
 https://live.noroc.tv/noroc/noroc.m3u8
 #EXTINF:-1,MD: Noroc TV
