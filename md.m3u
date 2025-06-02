@@ -3,12 +3,6 @@
 #EXTINF:-1,MD: Busuioc TV
 https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
 
-#EXTINF:-1,MD: Diaspora Media
-https://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
-
-#EXTINF:-1,MD: Drochia TV
-http://hls.drochia.tv/tv/web.m3u8
-
 #EXTINF:-1,MD: Jurnal TV
 https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=da1b2da71e2bfe2ce0cf4fd46bb94040579acbd4
 #EXTINF:-1,MD: Jurnal TV
@@ -31,13 +25,6 @@ https://live.noroc.tv/noroc/bitrate_720p.m3u8
 #EXTINF:-1,MD: Noroc TV
 https://live.noroc.tv/noroc/bitrate_480p.m3u8
 
-#EXTINF:-1,MD: Publika TV
-https://livebeta.publika.md/LIVE/P/6810.m3u8
-#EXTINF:-1,MD: Publika TV
-https://livebeta.publika.md/LIVE/P/1500.m3u8
-#EXTINF:-1,MD: Publika TV
-https://livebeta.publika.md/LIVE/P/1000.m3u8
-
 #EXTINF:-1,MD: Soroca TV
 https://video.sortv.md/wowza/live/Sunet/playlist.m3u8
 #EXTINF:-1,MD: Soroca TV
@@ -58,6 +45,3 @@ https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8
 #EXTINF:-1,MD: TVR Moldova
 https://tvr-tvrmoldova.cdn.zitec.com/hls/4095868c-f182-f237-0b92-2e4b2186b791/streams/v3/play.m3u8
 #EXTINF:-1,MD: TVR Moldova
-
-#EXTINF:-1,MD: Vocea Basarabiei
-http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
