@@ -293,6 +293,8 @@ https://netstreaming.eu/tv1.m3u8
 
 #EXTINF:-1,RO: TV Arad
 https://live.djemba.ro/live/tvaradlive/playlist.m3u8
+#EXTINF:-1,RO: TV Arad
+https://live.djemba.ro/live/tvaradlive/chunklist_w2018415164.m3u8
 
 #EXTINF:-1,RO: TV Buzău
 http://78.96.33.89:8080/
