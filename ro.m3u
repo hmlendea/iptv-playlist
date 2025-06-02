@@ -112,6 +112,10 @@ http://intermedia-suceava.duckdns.org:8080
 http://83.103.150.208:8080/stream/ram/playlist.m3u8
 
 #EXTINF:-1,RO: Job TV
+https://jobtvserver.eu/hls/stream.m3u8
+#EXTINF:-1,RO: Job TV
+https://jobtvserver.eu/hls/stream_higher/index.m3u8
+#EXTINF:-1,RO: Job TV
 https://jobtvserver.eu/hls/stream_src/index.m3u8
 
 #EXTINF:-1,RO: KANAL D
@@ -154,7 +158,11 @@ https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
 
 #EXTINF:-1,RO: Mireasa
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+#EXTINF:-1,RO: Mireasa
+https://stream1.antenaplay.ro/live/MireasaExtra/chunklist.m3u8
 
+#EXTINF:-1,RO: Misa Senzațional TV
+https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/chunklist_w1357453584.m3u8
 #EXTINF:-1,RO: Misa Senzațional TV
 https://vidl.misatv.ro:5050/MSTV/romanian_360p/playlist.m3u8
 #EXTINF:-1,RO: Misa Senzațional TV
@@ -162,6 +170,9 @@ https://vidl.misatv.ro:5050/MSTV/romanian_360p/chunklist.m3u8
 
 #EXTINF:-1,RO: Moinești TV
 https://flus.moinestifm.ro/ro.moinesti/index.m3u8
+
+#EXTINF:-1,RO: Moldova TV
+http://89.38.8.130:39435
 
 #EXTINF:-1,RO: Mooz Dance
 https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
@@ -186,9 +197,6 @@ http://novapress.ro:2022/live/nova/chunklist.m3u8
 #EXTINF:-1,RO: Observator News
 https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 
-#EXTINF:-1,RO: Privesc EU
-https://cachestar.privesc.eu/liniar/moldova/chunklist_w1750933261.m3u8
-
 #EXTINF:-1,RO: PROFI 24 TV
 https://owncast-jjg42-u20330.vm.elestio.app/hls/0/stream.m3u8
 
@@ -196,6 +204,8 @@ https://owncast-jjg42-u20330.vm.elestio.app/hls/0/stream.m3u8
 https://live.djemba.ro/live/qubtvlive/playlist.m3u8
 #EXTINF:-1 ,RO: Qub TV
 https://live.djemba.ro/live/qubtvlive/chunklist.m3u8
+#EXTINF:-1 ,RO: Qub TV
+https://live.djemba.ro/live/qubtvlive/chunklist_w818940954.m3u8
 #EXTINF:-1 ,RO: Qub TV
 https://live.djemba.ro/live/qubtvlive/chunklist_w976766879.m3u8
 
@@ -287,6 +297,8 @@ https://netstreaming.eu/tv1.m3u8
 
 #EXTINF:-1,RO: TV Arad
 https://live.djemba.ro/live/tvaradlive/playlist.m3u8
+#EXTINF:-1,RO: TV Arad
+https://live.djemba.ro/live/tvaradlive/chunklist_w2018415164.m3u8
 
 #EXTINF:-1,RO: TV Buzău
 http://78.96.33.89:8080/
