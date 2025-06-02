@@ -154,6 +154,8 @@ https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
 
 #EXTINF:-1,RO: Mireasa
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+#EXTINF:-1,RO: Mireasa
+https://stream1.antenaplay.ro/live/MireasaExtra/chunklist.m3u8
 
 #EXTINF:-1,RO: Misa Senzațional TV
 https://vidl.misatv.ro:5050/MSTV/romanian_360p/playlist.m3u8
