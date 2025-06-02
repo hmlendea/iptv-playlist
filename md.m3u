@@ -2,6 +2,12 @@
 
 #EXTINF:-1,MD: Busuioc TV
 https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
+#EXTINF:-1,MD: Busuioc TV
+https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/0.m3u8
+#EXTINF:-1,MD: Busuioc TV
+https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/1.m3u8
+#EXTINF:-1,MD: Busuioc TV
+https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/2.m3u8
 
 #EXTINF:-1,MD: Jurnal TV
 https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=da1b2da71e2bfe2ce0cf4fd46bb94040579acbd4
@@ -18,6 +24,9 @@ https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b4
 #EXTINF:-1,MD: Moldova 2
 https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/0.m3u8
 
+#EXTINF:-1,MD: N4
+https://93.115.138.193:4935/live/live_720p/playlist.m3u8
+
 #EXTINF:-1,MD: Noroc TV
 https://live.noroc.tv/noroc/noroc.m3u8
 #EXTINF:-1,MD: Noroc TV
@@ -25,10 +34,20 @@ https://live.noroc.tv/noroc/bitrate_720p.m3u8
 #EXTINF:-1,MD: Noroc TV
 https://live.noroc.tv/noroc/bitrate_480p.m3u8
 
+#EXTINF:-1,MD: Privesc.EU
+https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
+#EXTINF:-1,MD: Privesc.EU
+https://cachestar.privesc.eu/liniar/moldova/chunklist_w1750933261.m3u8
+
+#EXTINF:-1,MD: Realitatea Live
+https://realitatealive.md/tv/rlive.m3u8
+
 #EXTINF:-1,MD: Soroca TV
 https://video.sortv.md/wowza/live/Sunet/playlist.m3u8
 #EXTINF:-1,MD: Soroca TV
 https://video.sortv.md/wowza/live/Sunet/chunklist_w1580005581.m3u8
+#EXTINF:-1,MD: Soroca TV
+http://188.237.212.16:8888/live/cameraFeed.m3u8
 
 #EXTINF:-1,MD: Tezaur TV
 https://tezaurtv.md/stream/index.m3u8
@@ -39,8 +58,13 @@ https://tezaurtv.md/stream/stream_0.m3u8
 
 #EXTINF:-1,MD: TV 8
 https://live.cdn.tv8.md/TV7/index.m3u8?token=514c8e3ff25ccb20e7931920d33eb0487b2aecb2
+#EXTINF:-1,MD: TV 8
+https://live2.cdn.tv8.md/TV7/index.m3u8?token=514c8e3ff25ccb20e7931920d33eb0487b2aecb2
 
 #EXTINF:-1,MD: TVR Moldova
 https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8
 #EXTINF:-1,MD: TVR Moldova
 https://tvr-tvrmoldova.cdn.zitec.com/hls/4095868c-f182-f237-0b92-2e4b2186b791/streams/v3/play.m3u8
+
+#EXTINF:-1,MD: Vocea Basarabiei
+http://storage.voceabasarabiei.md/vocea/vocea.m3u8
