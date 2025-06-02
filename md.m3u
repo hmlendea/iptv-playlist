@@ -2,6 +2,12 @@
 
 #EXTINF:-1,MD: Busuioc TV
 https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
+#EXTINF:-1,MD: Busuioc TV
+https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/0.m3u8
+#EXTINF:-1,MD: Busuioc TV
+https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/1.m3u8
+#EXTINF:-1,MD: Busuioc TV
+https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/2.m3u8
 
 #EXTINF:-1,MD: Jurnal TV
 https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=da1b2da71e2bfe2ce0cf4fd46bb94040579acbd4
