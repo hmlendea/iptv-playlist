@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,MD: Busuioc TV
-https://busuioctv.iforward.eu/hls/busuioc.m3u8
+https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
 
 #EXTINF:-1,MD: Diaspora Media
 https://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
@@ -10,20 +10,26 @@ https://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
 http://hls.drochia.tv/tv/web.m3u8
 
 #EXTINF:-1,MD: Jurnal TV
-https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8
+https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=da1b2da71e2bfe2ce0cf4fd46bb94040579acbd4
+#EXTINF:-1,MD: Jurnal TV
+https://live2.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=da1b2da71e2bfe2ce0cf4fd46bb94040579acbd4
 
 #EXTINF:-1,MD: Moldova 1
-https://v.trm.md/static/streaming-playlists/hls/8fbc17e5-7dcb-4eb9-ba0b-46116257a0d2/master.m3u8
+https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbeffbc9/master.m3u8
 #EXTINF:-1,MD: Moldova 1
-https://v.trm.md/static/streaming-playlists/hls/8fbc17e5-7dcb-4eb9-ba0b-46116257a0d2/0.m3u8
+https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbeffbc9/0.m3u8
 
 #EXTINF:-1,MD: Moldova 2
-https://v3.trm.md/static/streaming-playlists/hls/a841f731-6c85-4177-a8c3-985f9f68b6fb/master.m3u8
+https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8
 #EXTINF:-1,MD: Moldova 2
-https://v3.trm.md/static/streaming-playlists/hls/a841f731-6c85-4177-a8c3-985f9f68b6fb/0.m3u8
+https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/0.m3u8
 
-#EXTINF:-1,MD: Noroc TV SD
-http://live.noroc.tv/hls/noroctv_chisinau.m3u8
+#EXTINF:-1,MD: Noroc TV
+https://live.noroc.tv/noroc/noroc.m3u8
+#EXTINF:-1,MD: Noroc TV
+https://live.noroc.tv/noroc/bitrate_720p.m3u8
+#EXTINF:-1,MD: Noroc TV
+https://live.noroc.tv/noroc/bitrate_480p.m3u8
 
 #EXTINF:-1,MD: Publika TV
 https://livebeta.publika.md/LIVE/P/6810.m3u8
@@ -33,20 +39,25 @@ https://livebeta.publika.md/LIVE/P/1500.m3u8
 https://livebeta.publika.md/LIVE/P/1000.m3u8
 
 #EXTINF:-1,MD: Soroca TV
-http://188.237.212.16:8888/live/cameraFeed.m3u8
+https://video.sortv.md/wowza/live/Sunet/playlist.m3u8
+#EXTINF:-1,MD: Soroca TV
+https://video.sortv.md/wowza/live/Sunet/chunklist_w1580005581.m3u8
 
 #EXTINF:-1,MD: Tezaur TV
+https://tezaurtv.md/stream/index.m3u8
+#EXTINF:-1,MD: Tezaur TV
 http://tezaur.mlbfan.org/tezaur/index.m3u8
+#EXTINF:-1,MD: Tezaur TV
+https://tezaurtv.md/stream/stream_0.m3u8
 
 #EXTINF:-1,MD: TV 8
-https://live.cdn.tv8.md/TV7/index.m3u8
+https://live.cdn.tv8.md/TV7/index.m3u8?token=514c8e3ff25ccb20e7931920d33eb0487b2aecb2
 
 #EXTINF:-1,MD: TVR Moldova
-https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
+https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8
 #EXTINF:-1,MD: TVR Moldova
-https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/chunklist.m3u8
+https://tvr-tvrmoldova.cdn.zitec.com/hls/4095868c-f182-f237-0b92-2e4b2186b791/streams/v3/play.m3u8
 #EXTINF:-1,MD: TVR Moldova
-https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8
 
 #EXTINF:-1,MD: Vocea Basarabiei
 http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
