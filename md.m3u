@@ -55,6 +55,8 @@ https://tezaurtv.md/stream/stream_0.m3u8
 
 #EXTINF:-1,MD: TV 8
 https://live.cdn.tv8.md/TV7/index.m3u8?token=514c8e3ff25ccb20e7931920d33eb0487b2aecb2
+#EXTINF:-1,MD: TV 8
+https://live2.cdn.tv8.md/TV7/index.m3u8?token=514c8e3ff25ccb20e7931920d33eb0487b2aecb2
 
 #EXTINF:-1,MD: TVR Moldova
 https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8
