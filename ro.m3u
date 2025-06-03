@@ -75,6 +75,8 @@ http://curier-tv.duckdns.org:1935/live/curiertv/playlist.m3u8
 
 #EXTINF:-1,RO: Digi24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1,RO: Digi24
+https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/b378a205-8105-470d-a76b-691421f9bcb2:GRQ/master.m3u8
 
 #EXTINF:-1,RO: DJing TV
 https://www.djing.com/tv/hits.m3u8
@@ -145,6 +147,9 @@ http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 
 #EXTINF:-1,RO: Lira TV
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+
+#EXTINF:-1,RO: LLBN
+https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream_1200_20240909T111516.m3u8
 
 #EXTINF:-1,RO: M9 TV
 https://netstreaming.eu/m9tv.m3u8
@@ -284,9 +289,10 @@ https://live.tele7abc.ro/hls/stream/index.m3u8
 https://live.tele7music.ro/hls/stream/index.m3u8
 
 #EXTINF:-1,RO: TeleM Botoșani
-http://telem-botosani.duckdns.org:8080/testing/pl5/playlist/ram/playlist.m3u8
+http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1,RO: TeleM Botoșani
 http://95.77.16.67:8080
+
 
 #EXTINF:-1,RO: TeleMoldova Plus
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
