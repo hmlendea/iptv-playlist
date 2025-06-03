@@ -263,6 +263,8 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 
 #EXTINF:-1,RO: România TV
+https://0x0.st/8YEm.m3u8
+#EXTINF:-1,RO: România TV
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 #EXTINF:-1,RO: România TV
 https://livestream.romaniatv.net/clients/romaniatv/chunklist.m3u8
