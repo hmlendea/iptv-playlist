@@ -210,6 +210,10 @@ https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 
 #EXTINF:-1,RO: Pro TV News
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1,RO: Pro TV News
+https://cmero-ott-live-web-avod-sec.ssl.cdn.cra.cz/qgxQy0sdQ67zG6d7fTzd5A==,1748987260/channels/cme-ro-voyo-news/playlist-live_lq.m3u8
+#EXTINF:-1,RO: Pro TV News
+https://cmero-ott-live-web-avod-sec.ssl.cdn.cra.cz/BsLS2d_F1ALlJvbco2_Odw==,1748986640/channels/cme-ro-voyo-news/playlist/rum/live_lq.m3u8
 
 #EXTINF:-1,RO: PROFI 24 TV
 https://owncast-jjg42-u20330.vm.elestio.app/hls/0/stream.m3u8
