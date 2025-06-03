@@ -159,6 +159,8 @@ https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1,RO: Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8
 
+https://live-ak.vimeocdn.com/exp=1748972363~acl=%2F3d5376ef-c4fd-4e48-a5fa-b7d311d576b3_fmp4%2F%2A~hmac=37680ecca2776e6edb89ffd3395583a250209667381e2e13f8b87d60bc2a73bf/3d5376ef-c4fd-4e48-a5fa-b7d311d576b3_fmp4/hls.m3u8
+
 #EXTINF:-1,RO: Metropola TV
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 
@@ -261,6 +263,11 @@ https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 #EXTINF:-1,RO: România TV
 https://livestream.romaniatv.net/clients/romaniatv/chunklist.m3u8
 
+#EXTINF:-1,RO: RTN Chicago
+https://651c69fa2ff4e.streamlock.net/3707/live1/playlist.m3u8
+#EXTINF:-1,RO: RTN Chicago
+https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist_w878774068.m3u8
+
 #EXTINF:-1,RO: Smart TV
 https://stream-aleph.m.ro/Aleph/Smartv.stream/playlist.m3u8
 #EXTINF:-1,RO: Smart TV
@@ -292,7 +299,6 @@ https://live.tele7music.ro/hls/stream/index.m3u8
 http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1,RO: TeleM Botoșani
 http://95.77.16.67:8080
-
 
 #EXTINF:-1,RO: TeleMoldova Plus
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
