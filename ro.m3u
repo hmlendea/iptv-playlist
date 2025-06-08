@@ -75,6 +75,8 @@ http://curier-tv.duckdns.org:1935/live/curiertv/playlist.m3u8
 
 #EXTINF:-1,RO: Digi24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1,RO: Digi24
+https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/b378a205-8105-470d-a76b-691421f9bcb2:GRQ/master.m3u8
 
 #EXTINF:-1,RO: DJing TV
 https://www.djing.com/tv/hits.m3u8
@@ -122,11 +124,15 @@ https://jobtvserver.eu/hls/stream_src/index.m3u8
 https://stream1.kanald.ro/iphone/live.m3u8
 #EXTINF:-1,RO: KANAL D
 https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1,RO: KANAL D
+https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
 
 #EXTINF:-1,RO: KANAL D2
 https://stream2.kanald.ro/iphone/live.m3u8
 #EXTINF:-1,RO: KANAL D2
 https://stream2.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1,RO: KANAL D2
+https://stream2.kanald.ro/iphone/knd-live_low/index.m3u8
 
 #EXTINF:-1,RO: Kapital TV
 http://dinastyknight.go.ro:1936/ktv/myStream/playlist.m3u8
@@ -142,6 +148,9 @@ http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1,RO: Lira TV
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 
+#EXTINF:-1,RO: LLBN
+https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream_1200_20240909T111516.m3u8
+
 #EXTINF:-1,RO: M9 TV
 https://netstreaming.eu/m9tv.m3u8
 
@@ -149,6 +158,8 @@ https://netstreaming.eu/m9tv.m3u8
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1,RO: Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8
+
+https://live-ak.vimeocdn.com/exp=1748972363~acl=%2F3d5376ef-c4fd-4e48-a5fa-b7d311d576b3_fmp4%2F%2A~hmac=37680ecca2776e6edb89ffd3395583a250209667381e2e13f8b87d60bc2a73bf/3d5376ef-c4fd-4e48-a5fa-b7d311d576b3_fmp4/hls.m3u8
 
 #EXTINF:-1,RO: Metropola TV
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
@@ -196,6 +207,13 @@ http://novapress.ro:2022/live/nova/chunklist.m3u8
 
 #EXTINF:-1,RO: Observator News
 https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+
+#EXTINF:-1,RO: Pro TV News
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
+#EXTINF:-1,RO: Pro TV News
+https://cmero-ott-live-web-avod-sec.ssl.cdn.cra.cz/qgxQy0sdQ67zG6d7fTzd5A==,1748987260/channels/cme-ro-voyo-news/playlist-live_lq.m3u8
+#EXTINF:-1,RO: Pro TV News
+https://cmero-ott-live-web-avod-sec.ssl.cdn.cra.cz/BsLS2d_F1ALlJvbco2_Odw==,1748986640/channels/cme-ro-voyo-news/playlist/rum/live_lq.m3u8
 
 #EXTINF:-1,RO: PROFI 24 TV
 https://owncast-jjg42-u20330.vm.elestio.app/hls/0/stream.m3u8
@@ -245,9 +263,16 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 
 #EXTINF:-1,RO: România TV
+https://0x0.st/8YEm.m3u8
+#EXTINF:-1,RO: România TV
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 #EXTINF:-1,RO: România TV
 https://livestream.romaniatv.net/clients/romaniatv/chunklist.m3u8
+
+#EXTINF:-1,RO: RTN Chicago
+https://651c69fa2ff4e.streamlock.net/3707/live1/playlist.m3u8
+#EXTINF:-1,RO: RTN Chicago
+https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist_w878774068.m3u8
 
 #EXTINF:-1,RO: Smart TV
 https://stream-aleph.m.ro/Aleph/Smartv.stream/playlist.m3u8
@@ -277,7 +302,7 @@ https://live.tele7abc.ro/hls/stream/index.m3u8
 https://live.tele7music.ro/hls/stream/index.m3u8
 
 #EXTINF:-1,RO: TeleM Botoșani
-http://telem-botosani.duckdns.org:8080/testing/pl5/playlist/ram/playlist.m3u8
+http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1,RO: TeleM Botoșani
 http://95.77.16.67:8080
 
